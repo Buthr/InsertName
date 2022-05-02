@@ -1,0 +1,34 @@
+F-1.1@Show the POS INIT page. 
+|
+F-1.1W1@Push the line select key adjacent to POS INIT .
+|
+F-1.2@Put the GATE position in the ENTER IRS POSITION line.
+|
+F-2.1@Show the ROUTE page. 
+|
+F-2.1W1@Push the line select key adjacent to ROUTE.
+|
+F-2.2@Clear the scratchpad message and put in the DEST airport.
+|
+F-2.2W1@First clear the scratchpad.
+|
+F-3.1@I put in the remaining preflight data. Show LEGS page 3.
+|
+F-3.1W1@Push the LEGS key. 
+|
+F-3.2@
+|
+F-3.2W1@Push the PREV PAGE key.
+|
+F-3.3@Delete the altitude restriction at TAFTO , and execute the modification. 
+|
+F-3.4@
+|
+F-3.4W1@Push the EXEC key.
+|
+CDU Practice
+|
+
+|
+Configuration Sensitive: 
+|

@@ -1,0 +1,21 @@
+F-1.1@The pitot-static system supplies data for the ADIRUs and standby flight instruments.
+|
+F-1.2@The ADMs receive ram air pressure from the primary pitot probes...|
+F-1.3@and static pressure from the primary static ports.
+|
+F-1.4@The ADMs send these data to the ADIRUs.
+|
+F-1.5@The auxiliary pitot probe and alternate static ports supply pitot and static pressure data directly to the standby altimeter/airspeed indicator.
+|
+F-2.1@One total air temperature, or TAT probe provides total air temperature data to the 2 ADIRUs.
+|
+F-2.2@The ADIRUs then supply information to the TAT indication which is shown above the engine displays.
+|
+F-3.1@Two alpha vanes supply angle of attack data to the ADIRUs. The stall management system, autothrottle, autopilot, and autoslats all use these data.
+|
+Air Data System
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|

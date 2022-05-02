@@ -1,0 +1,16 @@
+F-1.1@For normal descent from your cruise altitude toward the landing, you will want to use a speed schedule selected to minimize either trip cost or fuel consumption.  It is also important to begin the descent at the optimum point.
+|
+F-1.2@Normally, the FMC will compute the optimum top-of-descent point and will provide the ECON descent speed.  At the top of descent, the ECON DESCENT Mach is set equal to the final ECON CRUISE Mach calculated at the end of cruise.
+|
+F-1.3@As the airplane descends, the speed will change from Mach number control to indicated airspeed control.  This speed will be a function of cost index only.  Of course, the pilots may select a different descent speed, manually.
+|
+F-2.1@In the possible absence of FMC assistance, the QRH includes a table of descent time and distance, for a specified nominal descent speed schedule.
+|
+F-3.1@The final topic in this module is holding.  In the holding pattern, the goal is to maximize endurance rather than fuel mileage, so the hold will be flown at the speed for minimum fuel flow.
+|
+F-3.2@Normally, the holding speed and thrust setting are obtained from the FMC.
+|
+F-3.3@The FMC displays holding data in this manner.
+|
+F-3.4@In the absence of data from the FMC, Chapter PI in the QRH provides the necessary information.
+|

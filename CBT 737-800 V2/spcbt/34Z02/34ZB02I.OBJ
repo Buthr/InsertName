@@ -1,0 +1,9 @@
+Hud System Symbology
+¥ show FPV and speed error tape | 1
+¥ show FPA and Bank angle warning  | 3
+¥ show Angle of Attack limits  | 5
+¥ show Ground Roll cue  | 6
+¥ show Pitch target line  | 7
+¥ show Guidance Cue and Runway edge lines  |8
+¥ show Different Flare Cues  | 10
+¥ show Warnging symbols and Flags | 11 

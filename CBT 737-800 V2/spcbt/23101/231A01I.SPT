@@ -1,0 +1,72 @@
+F-1.1@There are 3 audio control panels in the cockpit. Each panel operates independently from the others. The Captain’s and First Officer’s are on the aft electronic panel. The Observer’s is on the aft overhead panel.
+|
+F-1.2@Communications inside and outside of the airplane go through the audio control panels. Let’s look at the audio controls.
+|
+F-1.3@The audio control panels have transmitter selectors,...|
+F-1.4@and receiver switches.
+|
+F-2.1@You push a receiver switch to turn the related receiver audio on or off.
+|
+F-2.2@You rotate the switch to adjust the volume.
+|
+F-2.3@Now select the ADF 1 receiver.
+|
+F-2.4@A light in the receiver switch illuminates when you manually select a receiver. You can listen to as many receivers as necessary. 
+|
+F-2.5@A headset or the flightdeck speakers can be used to monitor the receivers.
+|
+F-2.6@The flight deck speaker and its volume are controlled with this switch.
+|
+F-3.1@You must select a transmitter to speak on any of the radio or interphone systems. Now push the VHF 1 transmitter select switch.
+|
+F-3.2@The switch illuminates for the selected transmitter. Notice that the light for the other transmitter is now extinguished. You can only select 1 transmitter at a time.
+|
+F-3.3@When you push a transmitter selector switch, it automatically connects the related receiver audio. The light in the receiver switch does not illuminate.
+|
+F-4.1@You transmit when you move the push to talk switch to the radio - transmit position on the audio control panel,...|
+F-4.2@or the MIC position on the control wheel push-to-talk switch,...|
+F-4.3@or the hand microphone.
+|
+F-4.4@The MASK-BOOM switch selects the microphone in the oxygen mask or a boom microphone for transmission.
+|
+F-4.5@The filter switch controls audio from the VOR and ADF NAV radios. Set the switch to V for voice only,...|
+F-4.6@R for range to hear Morse code identifiers only,...|
+F-4.7@or B for Both voice and range together.
+|
+F-5.1@The audio control panel can operate in 2 modes. The alternate-normal switch controls the operational mode.
+|
+F-5.2@The normal position is used for a fully serviceable audio control panel.
+|
+F-5.3@The 3 audio control panels are connected to the remote electronics unit in the electronic equipment compartment below the cockpit.
+|
+F-5.4@ This example uses the Captain’s audio system. The First Officer’s and Observer’s systems operate the same way.
+|
+F-5.5@Normally, when the Captain transmits, audio signals from the microphone go through the remote electronics unit to the related radio or system.
+|
+F-5.6@When the Captain receives, audio signals from the radios and other systems go through the remote electronics unit to the Captain’s headset or speaker.
+|
+F-5.7@If the audio control panel or the remote electronics unit fails, the Captain sets the alternate-normal switch to alternate. The Captain’s system then operates in the degraded mode. Now set the alternate-normal switch to alternate.
+|
+F-6.1@In the degraded mode, the Captain can only communicate on the VHF 1 radio. None of the intephone or passenger address systems are available.
+|
+F-6.3@The Captain hears only VHF 1 audio in the headset at a preset volume. There is no volume control in degraded mode.
+|
+F-6.4@The speaker does not work, and all other receiver functions are inoperative. 
+|
+F-7.1@The MASK-BOOM switch continues to operate normally in the degraded mode.
+|
+F-7.2@You can use the MIC position of the control wheel push-to-talk switch,...|
+F-7.3@or the push-to-talk switch on the audio control panel to transmit with the VHF radio that is active for that crew station.
+|
+F-7.4@The hand microphone does not operate in degraded mode.
+|
+F-7.5@This table shows the radio that each station uses in the degraded mode of operation.
+|
+Title: 737 Comm: ACP
+|
+
+|
+Configuration Sensitivity:@ACP - Avtech 10-62090-64, 3-VHF, 2-HF
+|
+VHF - Collins 622-6831-021
+|

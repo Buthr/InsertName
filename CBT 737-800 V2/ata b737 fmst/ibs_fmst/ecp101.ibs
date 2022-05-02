@@ -1,0 +1,139 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_018:@HOTS_039:@RECT_000:@ELEM_008:@IBIS_000:@OBJN_000:@FONT_000:@TEXT_000:
+
+//Panel Info
+@PANEL_NAME=ECP
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=Chue Thao
+@PANEL_PROJECT=ATA b737ng
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:CHEFS.BMP,0,0,0,0,0,0
+@BMAP1_000:ECP100.BMP,0,0,0,0,0,0
+@BMAP_001:EFS01.BMP,0,0,0,0,0,0
+@BMAP1_001:ECP101.BMP,0,0,0,0,0,0
+@BMAP_002:EFS02.BMP,0,0,0,0,0,0
+@BMAP1_002:ECP102.BMP,0,0,0,0,0,0
+@BMAP_003:EFS03.BMP,0,0,0,0,0,0
+@BMAP1_003:ECP103.BMP,0,0,0,0,0,0
+@BMAP_004:EFS04.BMP,0,0,0,0,0,0
+@BMAP1_004:ECP104.BMP,0,0,0,0,0,0
+@BMAP_005:EFS05.BMP,0,0,0,0,0,0
+@BMAP1_005:ECP105.BMP,0,0,0,0,0,0
+@BMAP_006:EFS06.BMP,0,0,0,0,0,0
+@BMAP1_006:ECP106.BMP,0,0,0,0,0,0
+@BMAP_007:EFS07.BMP,0,0,0,0,0,0
+@BMAP1_007:ECP107.BMP,0,0,0,0,0,0
+@BMAP_008:EFS08.BMP,0,0,0,0,0,0
+@BMAP1_008:ECP108.BMP,0,0,0,0,0,0
+@BMAP_009:EFS09.BMP,0,0,0,0,0,0
+@BMAP1_009:ECP109.BMP,0,0,0,0,0,0
+@BMAP_010:EFS10.BMP,0,0,0,0,0,0
+@BMAP1_010:ECP110.BMP,0,0,0,0,0,0
+@BMAP_011:EFS11.BMP,0,0,0,0,0,0
+@BMAP1_011:ECP111.BMP,0,0,0,0,0,0
+@BMAP_012:EFS12.BMP,0,0,0,0,0,0
+@BMAP1_012:ECP112.BMP,0,0,0,0,0,0
+@BMAP_013:EFS13.BMP,0,0,0,0,0,0
+@BMAP1_013:ECP113.BMP,0,0,0,0,0,0
+@BMAP_014:EFS14.BMP,0,0,0,0,0,0
+@BMAP1_014:ECP114.BMP,0,0,0,0,0,0
+@BMAP_015:EFS15.BMP,0,0,0,0,0,0
+@BMAP1_015:ECP115.BMP,0,0,0,0,0,0
+@BMAP_016:EFS16.BMP,0,0,0,0,0,0
+@BMAP1_016:ECP116.BMP,0,0,0,0,0,0
+@BMAP_017:ecp18.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{Mins_Radio}{m_pIO->I_bMins}:N,7,6,33,20,@N,@D{1},@N
+@HOTS_001:{Mins_Baro}{m_pIO->I_bMins}:N,55,6,33,21,@N,@D{1},@N
+@HOTS_002:{FPV}{m_pIO->I_bFPV}:N,89,12,31,29,@D{0},@HC{1}
+@HOTS_003:{Mtrs}{m_pIO->I_bMtrs}:N,138,11,32,31,@D{0},@HC{1},@N
+@HOTS_004:{Baro_IN}{m_pIO->I_bBaro}:N,175,6,27,19,@N,@D{1},@N
+@HOTS_005:{Baro_HPA}{m_pIO->I_bBaro}:N,218,7,28,19,@N,@D{1},@N
+@HOTS_006:{LeftRadioSwVor1}{m_pIO->I_bLeftRadioSwVor1}:N,4,54,28,16,@N,@D{1},@N
+@HOTS_007:{LeftRadioSwOff}{m_pIO->I_bLeftRadioSwOff}:N,5,70,45,16,@N,@D{1},@N
+@HOTS_008:{LeftRadioSwAdf1}{m_pIO->I_bLeftRadioSwAdf1}:N,5,86,36,17,@N,@D{1},@N
+@HOTS_009:{App_Mode_Selected}{m_pIO->I_bApp_Mode_Selected}:N,63,64,22,13,@N,@D{1},@N
+@HOTS_010:{VOR_Mode_Selected}{m_pIO->I_bVOR_Mode_Selected}:N,76,52,20,12,@N,@D{1},@N
+@HOTS_011:{Map_Mode_Selected}{m_pIO->I_bMap_Mode_Selected}:N,99,52,23,13,@N,@D{1},@N
+@HOTS_012:{Plan_Mode_Selected}{m_pIO->I_bPlan_Mode_Selected}:N,108,64,22,15,@N,@D{1},@N
+@HOTS_013:{Range5Miles}{m_pIO->I_bRange5Miles}:N,129,79,18,15,@N,@D{1},@N
+@HOTS_014:{Range10Miles}{m_pIO->I_bRange10Miles}:N,131,67,17,12,@N,@D{1},@N
+@HOTS_015:{Range20Miles}{m_pIO->I_bRange20Miles}:N,136,55,18,13,@N,@D{1},@N
+@HOTS_016:{Range40Miles}{m_pIO->I_bRange40Miles}:N,154,52,14,17,@N,@D{1},@N
+@HOTS_017:{Range80Miles}{m_pIO->I_bRange80Miles}:N,169,55,19,13,@N,@D{1},@N
+@HOTS_018:{Range160Miles}{m_pIO->I_bRange160Miles}:N,179,67,22,12,@N,@D{1},@N
+@HOTS_019:{Range320Miles}{m_pIO->I_bRange320Miles}:N,177,79,24,12,@N,@D{1},@N
+@HOTS_020:{Range640Miles}{m_pIO->I_bRange640Miles}:N,177,92,23,13,@N,@D{1},@N
+@HOTS_021:{RightRadioSwVor1}{m_pIO->I_bRightRadioSwVor1}:N,228,54,30,17,@N,@D{1},@N
+@HOTS_022:{RightRadioSwOff}{m_pIO->I_bRightRadioSwOff}:N,208,70,49,16,@N,@D{1},@N
+@HOTS_023:{RightRadioSwAdf1}{m_pIO->I_bRightRadioSwAdf1}:N,226,86,30,17,@N,@D{1},@N
+@HOTS_024:{MinsRst}{m_pIO->I_bMinsRst}:N,31,33,26,26,@D{0},@HC{1}
+@HOTS_025:{BaroStd}{m_pIO->I_bBaroStd}:N,202,33,25,25,@D{0},@HC{1}
+@HOTS_026:{ModeCtr}{m_pIO->I_bModeCtr}:N,86,80,22,21,@D{0},@HC{1}
+@HOTS_027:{RangeTfc}{m_pIO->I_bRangeTfc}:N,152,78,22,21,@D{0},@HC{1}
+@HOTS_028:{MinsDelta_Inc}{m_pIO->I_iMinsDelta}:R10H2N,65,30,20,20,@D,@HR{m_pIO->I_iMinsDelta+1},@N,\
+	@HSTYLE:3,@N,2,1,92,68,65,30,YELLOW,0,0,0,0
+@HOTS_029:{MinsDelta_Dec}{m_pIO->I_iMinsDelta}:R10H2N,9,30,20,20,@D,@HR{m_pIO->I_iMinsDelta-1},@N,\
+	@HSTYLE:4,@N,2,1,92,68,9,30,YELLOW,0,0,0,0
+@HOTS_030:{BaroDelta_Inc}{m_pIO->I_iBaroDelta}:R03H2N,233,30,20,20,@D,@HR{m_pIO->I_iBaroDelta+1},@N,\
+	@HSTYLE:3,@N,167,1,90,68,233,30,YELLOW,0,0,0,0
+@HOTS_031:{Wxr}{m_pIO->I_bWxr}:N,5,109,33,22,@D{0},@HR{1}
+@HOTS_032:{Sta}{m_pIO->I_bSta}:N,41,109,33,22,@D{0},@HR{1}
+@HOTS_033:{Wpt}{m_pIO->I_bWpt}:N,77,109,33,22,@D{0},@HR{1}
+@HOTS_034:{Arpt}{m_pIO->I_bArpt}:N,113,109,33,22,@D{0},@HR{1}
+@HOTS_035:{Data}{m_pIO->I_bData}:N,150,109,33,22,@D{0},@HR{1}
+@HOTS_036:{Pos}{m_pIO->I_bPos}:N,186,109,33,22,@D{0},@HR{1}
+@HOTS_037:{Terr}{m_pIO->I_bTerr}:N,222,109,33,22,@D{0},@HR{1}
+@HOTS_038:{BaroDelta_Dec}{m_pIO->I_iBaroDelta}:R03H2N,172,30,20,20,@D,@HR{m_pIO->I_iBaroDelta-1},@N,\
+	@HSTYLE:4,@N,167,1,90,68,172,30,YELLOW,0,0,0,0
+
+//Elements
+@ELEM_000:{Mins}{m_pIO->I_bMins}:N,22,18,@D{0},@BMAP_001{1}
+@ELEM_001:{Baro}{m_pIO->I_bBaro}:N,186,16,@D{0},@BMAP_002{1}
+@ELEM_002:{LeftRadioSw}{m_pIO->I_bLeftRadioSw}:N,16,66,@D{0},@BMAP_003{1},@BMAP_004{2}
+@ELEM_003:{MODE}{m_pIO->I_bMODE}:N,78,66,@D{0},@BMAP_005{1},@BMAP_006{2},@BMAP_007{3}
+@ELEM_004:{Range}{m_pIO->I_bRange}:N,142,66,@D{0},@BMAP_008{1},@BMAP_009{2},@BMAP_010{3},@BMAP_011{4},\
+          @BMAP_012{5},@BMAP_013{6},@BMAP_014{7}
+@ELEM_005:{RightRadioSw}{m_pIO->I_bRightRadioSw}:N,228,66,@D{0},@BMAP_015{1},@BMAP_016{2}
+@ELEM_006:{ADF1_inop}{m_pIO->O_bADF1_inop}:N,7,93,@D{0},@BMAP_017{1}
+@ELEM_007:{ADF2_inop}{m_pIO->O_bADF2_inop}:N,227,94,@D{0},@BMAP_017{1}
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

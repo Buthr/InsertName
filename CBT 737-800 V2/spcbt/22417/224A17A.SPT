@@ -1,0 +1,53 @@
+F-1.1@Prepare the flight directors for takeoff.  In this example, the Captain is the pilot flying.
+|
+F-1.1A1@The switch selected first sets the master FCC and should be on the side of the pilot flying. Turn the Captain's flight director switch on.
+|
+F-1.1W1@Turn the Captain's flight director switch on first, then turn on the First Officer's flight director.
+|
+F-1.2@As you prepare for a takeoff, the CDU shows a takeoff V2 speed of 135 knots. Set the V2 speed for the autoflight system.
+|
+F-1.2W1@Set the V2 speed of 135 knots into the IAS/Mach window of the MCP.
+|
+F-1.3@Arm the autothrottle for takeoff.
+|
+F-1.4@
+|
+F-1.3W1@Set the autothrottle ARM switch to ARM.
+|
+F-2.1@The airplane is aligned with the takeoff runway. Set the thrust to start the takeoff.
+|
+F-2.1W1@Set the thrust levers to accelerate the engines to approximately 40% N1.
+|
+F-2.2@Engage the TO/GA mode.
+|
+F-2.2W1@Push 1 of the 2 TO/GA switches on the thrust levers.
+|
+F-2.3@
+|
+F-3.1@At 400 feet radio altitude, a roll mode can be selected. Engage heading select.
+|
+F-3.1W1@Push the HDG SEL switch on the MCP.
+|
+F-3.2@
+|
+F-3.3@At the flap retraction altitude, select climb thrust.
+|
+F-3.3W1@Push N1 on the MCP.
+|
+F-3.4@Increase speed to the flaps up maneuvering speed.
+|
+F-3.4W1@Set 200 knots in the MCP IAS/Mach window.
+|
+F-3.5@Above 1000 feet radio altitude, an autopilot can be engaged in CMD.
+|
+F-3.5W1@Push CMD A on the MCP.
+|
+F-3.5A1@CMD B engages an autopilot, but it also makes FCC-B the master FCC. Use CMD A to keep the master FCC on the side of the pilot flying.
+|
+F-3.6@
+|
+Autoflight Takeoff Practice
+
+Configuration Sensitive: Options: as required; rest is basic (as required). Note: References to flight director are for integrated cue. MCP has blanks to cover SPD and ALT intervention. MCDU used for CDU.
+
+

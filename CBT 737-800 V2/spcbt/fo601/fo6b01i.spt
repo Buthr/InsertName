@@ -1,0 +1,79 @@
+F-1.1@Let's talk first about selection of the best cruise altitude for your flight.  Choosing the best altitude will maximize your fuel or cost efficiency and will ensure that good speed margins are preserved.
+|
+F-1.2@When selecting the cruise altitude, a number of considerations must be given attention.  The first of these considerations is fuel or cost efficiency.
+|
+F-1.3@The thrust limit of the engine must also be considered.  You must know what altitude the airplane is capable of reaching with the thrust available.
+|
+F-1.4@You also want to consider maneuver capability, that is, the ability of the airplane to cruise at high altitudes while still maintaining an acceptable operating margin from initial buffet.
+|
+F-1.5@For short distance trips, the cruise altitude will be lower than the altitude which you would select for a longer flight.
+|
+F-1.6@Finally, it is smart to consider the winds which will be encountered enroute.  If the wind at your usual cruise altitude will be unfavorable, you might want to select a different altitude if that will give you a better wind.
+|
+F-2.1@One way to measure flight efficiency is in terms of fuel mileage - that is, the distance the airplane can fly using a given amount of fuel.  Higher fuel mileage means less fuel consumed per mile.
+|
+F-2.2@The altitude which offers the highest fuel mileage is called the optimum altitude.  Maximum fuel mileage would, of course, mean minimum trip fuel.
+|
+F-2.3@The optimum altitude varies with the airplane's weight.  A lighter weight yields a higher optimum altitude.
+|
+F-2.4@At the beginning of cruise, when then airplane is heavier, the optimum altitude will be lower.  As the flight progresses and the airplane weight decreases, the optimum altitude gradually increases.  Of course, you can not usually fly on a climbing path like this.
+|
+F-3.1@So far, we have defined optimum altitude in terms of cruise fuel mileage.  But, when considering cost, as we have already defined it in our discussion of cost index, we see a relationship of cost and altitude like this...
+|
+F-3.2@There is an altitude, then, for minimum cost, and this altitude will be different from the altitude for maximum fuel mileage.
+|
+F-3.3@When selecting the ECON speed for cruise, the FMC optimum altitude will be the altitude for minimum cost.  |  
+F-3.4@For other cruise speeds, the FMC optimum altitude will be the altitude for minimum fuel consumption.
+|
+F-3.5@The ideal flight path will always keep the airplane in an altitude band from two thousand feet above optimum to two thousand feet below optimum.  This way, the efficiency is maximized.
+|
+F-3.6@Flying more than 2000 feet below the optimum altitude significantly increases the fuel consumption.
+|
+F-4.1@Up to this point, we have been talking about flight at or near to the optimum altitude.  Sometimes, however, it is necessary to fly above the optimum altitude, such as when beginning cruise, like this.  What is the maximum altitude of which the airplane is capable?
+|
+F-4.2@The altitude at which an airplane might operate is constrained by several factors.  One of those factors is the thrust available from the engines.  As the airplane climbs to higher altitudes, the available thrust decreases, reducing the airplane's rate of climb.
+|
+F-4.3@The higher the airplane climbs, the less its margin of speed or altitude to initial buffet.  A pilot should maintain a prudent speed or altitude margin from buffet.  If he fails to do so, then an increase of load on the wings, from maneuvering or turbulence, could result in buffet or even, in the extreme case, stall.
+|
+F-4.4@It is also true that flight above optimum altitude results in a reduction in fuel efficiency.
+|
+F-4.5@For these three reasons, there is a maximum altitude above which cruise should never be planned.  Let's look now at how you can determine your optimum and maximum altitudes.
+|
+F-5.1@For the flight crew, on the ground or in flight, the primary source of altitude selection data is the FMC.
+|
+F-5.2@The FMC provides optimum and maximum altitude information like this...
+|
+F-5.3@Remember that during ECON operations, the optimum altitude calculated by the FMC will result in the minimum total cost for the trip.  This accounts for both time and fuel costs.
+|
+F-5.4@Therefore, this optimum altitude is a function of cost index and airplane weight.
+|
+F-5.5@If the airplane is operating in a speed control mode, such as at a constant mach number or at LRC, this optimum altitude is the altitude which will result in the minimum trip fuel.
+|
+F-6.1@On the ground before flight, the FMC will show you the suggested trip altitude which will be either the optimum altitude or, for short trips, a lower altitude.
+|
+F-6.2@In flight the FMC calculates the best location to make the step climb to minimize the total trip cost.
+|
+F-6.3@Ideally, you should begin your cruise somewhat above the optimum altitude.  You would then cruise at this altitude until the optimum altitude has climbed above your current altitude sufficiently to make a step climb necessary to minimize cost or fuel consumption.
+|
+F-7.1@As you saw, the FMC also shows the maximum altitude for the current speed or speed mode.
+|
+F-7.2@This maximum altitude is based on the lower of the thrust limited altitude or the maneuver margin limited altitude.
+|
+F-7.3@The thrust limited altitude is the highest altitude the airplane can maintain at the maximum cruise thrust rating or climb to at the maximum climb rating.  It depends on the air temperature.  In general, though, even on a hot day the airplane will be capable of flying at least 2000 feet above optimum, if desired.
+|
+F-7.4@This calculation is done with a small nominal residual rate of climb.  This minimum residual rate of climb can be changed by maintenance.
+|
+F-8.1@As stated above, the other limitation checked during the maximum altitude calculation is the maneuver margin to initial buffet.
+|
+F-8.2@In this discussion, we will talk about maneuver margin, we mean the number of gee's the airplane could experience before entering buffet.
+|
+F-8.3@A 1.2 g-margin means initial buffet would be expected upon reaching a steady 34 degree bank.
+|
+F-8.4@The default for airline-selected minimum g-margin is 1.3 g's, but this value can be reset by Maintenance.
+|
+F-8.5@The FMC will accept g-margins 1.2 to 1.6 g's for airplanes operated under FAA regulations.
+|
+F-8.6@For airplanes operating under CAA or JAR rules, the lowest selectable g-margin is 1.3 g's.
+|
+F-8.7@When the FMC is inoperative, the pilot may refer to the QRH for altitude selection information.  Next, let's talk about enroute climb.
+|

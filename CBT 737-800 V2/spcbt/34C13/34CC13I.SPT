@@ -1,0 +1,59 @@
+F-1.1@You can put in a holding pattern at a fix that is not in the active route.
+|
+F-1.2@The holding fix and pattern can be put into the route at the same time. Push the HOLD key.
+|
+F-1.3@Put AVE into the "HOLD AT" boxes.
+|
+F-2.1@The message HOLD AT AVE shows in the scratchpad. This is because AVE is not a waypoint in the active route. 
+|
+F-2.2@The route shown on the LEGS page must be modified. The FMC will put AVE and the holding pattern where you select.
+|
+F-2.3@Select line 2 to put in the waypoint and holding pattern.
+|
+F-3.1@The HOLD page shows data for a standard pattern on the course from CZQ05. 
+|
+F-3.2@The FMC uses the flight plan course when there is no published holding pattern.
+|
+F-3.3@Your clearance is to hold on the 304° radial.
+|
+F-3.4@Put the 124° course into the INBD CRS line.
+|
+F-3.5@Execute.
+|
+F-4.1@The holding pattern dimension is small to prevent clutter. 
+|
+F-4.2@The holding pattern dimension becomes normal when the airplane is 3 minutes away from the holding fix.
+|
+F-4.3@Show the LEGS page.
+|
+F-4.4@The FMC put in AVE as a waypoint on the line you selected...|
+F-4.5@and the holding pattern was put in on the next line.
+|
+F-4.6@The FMC put a discontinuity in the route after holding.
+|
+F-5.1@You are inbound to the holding fix. Show the HOLD page again.
+|
+F-5.2@The HOLD page shows the BEST SPEED for holding. The FMC calculates it from the airplane's altitude, gross weight, and flap position.
+|
+F-5.3@The BEST SPEED is moved by the FMC to the TGT SPD line. VNAV uses this speed as holding speed.
+|
+F-5.4@The flight crew must verify that the speed obeys the ATC holding rules.
+|
+F-5.5@Holding speed can be changed on the LEGS page...|
+F-5.6@or on the HOLD page.
+|
+F-6.1@Put in 240 knots for the TGT SPD.
+|
+F-6.2@Execute.
+|
+F-7.1@VNAV starts to decrease airspeed at approximately 3 minutes before the fix,...|
+F-7.2@and the holding pattern becomes normal size.
+|
+F-7.3@The holding pattern page becomes active when you arrive at the fix.
+|
+F-7.4@LNAV calculates the type of pattern entry from the difference between the inbound course and the airplane’s heading when you pass the fix.
+|
+F-7.5@The FMC changes the bank angle based on true airspeed and wind. The maximum is 30 degrees of bank.
+|
+Enter Holding- Fix not in Route
+|

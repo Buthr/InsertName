@@ -1,0 +1,54 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_003:@HOTS_005:@RECT_000:@ELEM_000:@IBIS_000:@SLDR_001:@OBJN_000:@FONT_000:@TEXT_000:@EDIT_000:@LIST_000:@TKNB_000:@DRAWOBJECT_000:@DRAWREGION_000
+
+//Panel Info
+@PANEL_NAME=SMSBK
+@PANEL_DESCRIPTION=Speed Brake Panel
+@PANEL_AUTHOR=Chue Thao
+@PANEL_PROJECT=ATA B737ng
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+
+//Text
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:chctls03.bmp,0,0,0,0,0,0
+@BMAP_001:sbrk.bmp,0,0,0,0,0,0
+@BMAP_002:sbrk01.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{SPDBRK_RET}{m_pIO->I_dSpeedBrkLvr}:N,10,13,45,21,@N,@D{0}
+@HOTS_001:{SPDBRK_HALF}{m_pIO->I_dSpeedBrkLvr}:N,10,54,45,18,@N,@D{5}
+@HOTS_002:{SPDBRK_FULL}{m_pIO->I_dSpeedBrkLvr}:N,10,88,45,19,@D{10}
+@HOTS_003:{SpdBrkLvrArmed}{m_pIO->I_dSpeedBrkLvr}:N,10,34,45,19,@N,@D{1}
+@HOTS_004:{SpdBrkLvrFltDt}{m_pIO->I_dSpeedBrkLvr}:N,10,72,45,16,@N,@D{8}
+
+//Elements
+
+//Sliders
+@SLDR_000:{SMSBRK}:VN,10,0,65,0.0,100.0,@BMAP_001,@BMAP_002,10,23
+
+//Objects
+
+//Edit Fields
+
+//List Boxes
+
+//Turn Knobs
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

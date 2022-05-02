@@ -1,0 +1,59 @@
+F-1.1@Bleed air and electrical power are required for engine starts.
+|
+F-1.2@Bleed air turns the starter motor.
+|
+F-1.3@The sources of bleed air for engine starts are the APU,...|
+F-1.4@a ground air cart,...|
+F-1.5@or the other engine.
+|
+F-1.6@Today we will use the APU to suppy the starter air.
+|
+F-2.1@Electrical power opens and closes the engine start valve.
+|
+F-2.2@Each engine has 2 igniters.
+|
+F-2.3@The AC transfer bus supplies power to the left igniter,...|
+F-2.4@and the AC standby bus supplies power to the right igniter.
+|
+F-3.1@The engine start lever has 2 positions. The CUTOFF position deenergizes the ignition system and closes the engine fuel shutoff valve and the spar fuel shutoff valve.
+|
+F-3.2@The IDLE position energizes the ignition system through the EEC,...|
+F-3.3@electrically opens the spar fuel shutoff valve,...|
+F-3.4@and electrically opens the engine fuel shutoff valve through the EEC.
+|
+F-3.5@
+|
+F-4.1@Controls for the engine start and ignition system are on the ENGINE START panel.
+|
+F-4.2@The ignition select switch has 3 positions. Ignition left and ignition right select the related igniters for the 2 engines.
+|
+F-4.3@The BOTH position selects the left and right igniters for each engine.
+|
+F-5.1@Each ENGINE START switch has 4 positions.
+|
+F-5.2@When the ENGINE START switch is moved to the ground position, the start valve opens,...|
+F-5.3@and the engine bleed air valve is given a signal to stay closed.
+|
+F-5.4@The START VALVE OPEN alert illuminates on the engine display to show the start valve is open.
+|
+F-5.5@For ground starts, the EEC arms the selected igniter. 
+|
+F-5.6@For inflight starts, the EEC arms the left and right igniters. 
+|
+F-5.7@
+|
+F-6.1@In the continuous position, the EEC arms the selected igniter.
+|
+F-6.2@In the flight position, the EEC arms the left and right igniters.
+|
+F-6.3@The continuous and flight positions have no effect on the position of the start valve or the engine bleed valve.
+|
+F-7.1@This is a review of the engine start and ignition system. Touch each control to show information. When finished, touch the green arrow.
+|
+Engine Start and Ignition Overview
+|
+
+|
+Configuration Sensitive: Kgs
+|
+

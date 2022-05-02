@@ -1,0 +1,47 @@
+F-1.1@The ailerons are the primary surfaces for roll control. The flight spoilers assist the ailerons.
+|
+F-1.2@Roll commands come from the control wheels and the autopilot.
+|
+F-1.3@The control wheels are connected to each other and then connected by cables to the aileron power control units, or PCUs. 
+|
+F-1.4@Hydraulic systems A and B supply power to the aileron PCUs,...
+|
+F-1.5@and the flight spoiler PCUs.
+|
+F-2.1@The flight control panel is on the overhead panel.
+|
+F-2.2@The flight control switches are usually in the guard closed, ON position, which lets the related hydraulic system supply power to the flight control system.
+|
+F-2.3@The SPOILER switches are for maintenance personnel to do system tests.
+|
+F-3.1@Controls for the aileron trim system are at the aft end of the aisle stand.
+|
+F-3.2@The aileron trim indicators are on the top of the control columns.
+|
+F-3.3@The aileron trim switches send an electrical signal to the feel and centering mechanism to set new aileron and control wheel positions. The trim switches must move together for the system to work.
+|
+F-4.1@When the autopilot is engaged, the autopilot roll channel moves a cable to the feel and centering mechanism which, in turn, moves a cable to the aileron PCUs .
+|
+F-5.1@The 4 flight spoilers help the ailerons to roll the airplane. 
+|
+F-5.2@The spoilers are hydraulically operated. The flight spoilers start to move after more than 10 degrees of control wheel movement.
+|
+F-5.3@In a turn, the spoilers come up to kill lift on the wing with the up aileron and stay down on the wing with the down aileron.
+|
+F-6.1@Now let's look at some non-normal situations.
+|
+F-6.2@If you experience jammed ailerons or spoilers, the transfer mechanism allows you to roll the airplane.
+|
+F-6.3@If the ailerons jam, force applied to the First Officer's control wheel operates the spoilers to roll the airplane. The Captain's control wheel does not move.
+|
+F-6.4@If the spoiler system jams, force applied to the Captain's control wheel operates the aileron to roll the airplane. The First Officer's control wheel does not move.
+|
+F-6.5@If all hydraulic pressure to the ailerons is lost, the pilots can manually control the ailerons; but greater force is required because of cable friction and air pressure loads.
+|
+Title: Roll Control
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+

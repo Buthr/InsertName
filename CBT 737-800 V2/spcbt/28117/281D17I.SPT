@@ -1,0 +1,68 @@
+F-1.1@Let's now look at some non-normal conditions related to the fuel system.
+|
+F-1.2@There are 3 non-normal conditions that relate to fuel quantity. They are fuel configuration, fuel imbalance and low fuel. With these conditions, an amber alert shows on the affected indicator and the digits and arc color change to amber. In this example, there is a fuel imbalance.
+|
+F-2.1@A fuel CONFIG alert is shown on the center tank if the fuel quantity in the center tank is greater than 1,600 pounds, at least one engine is running and the 2 center tank pumps are off or have low pressure. In this example, the center tank pumps are off. 
+|
+F-2.2@The alert is inhibited when the center tank fuel quantity is less than 800 pounds.
+|
+F-2.3@
+|
+F-3.1@If there is a fuel quantity difference in fuel quantity between the main tanks of more than 1,000 pounds, a fuel IMBAL alert is shown on the indicator with the lower fuel quantity. 
+|
+F-3.2@The alert extinguishes when the imbalance is less than 200 pounds.
+|
+F-3.3@
+|
+F-4.1@A fuel LOW alert is shown when the fuel quantity in a main tank is less than 2,000 pounds. 
+|
+F-4.2@The fuel LOW alert inhibits the fuel IMBAL alert when the 2 conditions exist.
+|
+F-4.3@The alert extinguishes when the fuel quantity is more than 2,500 pounds.
+|
+F-4.4@
+|
+F-5.1@Here is a review of the fuel quantity alerts.
+|
+F-6.1@Now let’s correct an inflight fuel imbalance.
+|
+F-6.2@The first example is an inflight fuel imbalance with fuel in the center tank.
+|
+F-6.3@To correct this imbalance, first turn off the 2 center tank fuel pumps.
+|
+F-6.4@Now open the crossfeed valve.
+|
+F-6.5@Next, turn off the fuel pumps for the main tank that has the lower fuel quantity.
+|
+F-6.6@Engine number 2 now gets its fuel from main tank number 1. Monitor the fuel quantity indicators until the fuel is balanced.
+|
+F-7.1@When the fuel is balanced, turn on the main tank fuel pumps.
+|
+F-7.2@Turn on the center tank fuel pumps.
+|
+F-7.3@Close the crossfeed valve.
+|
+F-7.4@Continue to monitor the fuel quantity indicators and keep the fuel balanced.
+|
+F-8.1@This example shows fuel imbalance with the center tank empty. 
+|
+F-8.2@To correct this imbalance, use the same steps as before but it is not necessary to turn off the center tank fuel pumps.
+|
+F-8.3@
+|
+F-9.1@The last non-normal condition is related to the quality of the fuel. 
+|
+F-9.2@If the fuel filter has contamination, and there is an impending fuel bypass, the FILTER BYPASS light illuminates.
+|
+F-9.3@The FUEL system annunciator and MASTER CAUTION lights illuminate.
+|
+F-9.4@Reset the master caution system.
+|
+F-9.5@Degraded engine operation can occur when the FILTER BYPASS light is illuminated.
+|
+Fuel System Non-Normals
+|
+
+|
+Configuration Sensitive: Kgs/ side by side engine display
+|

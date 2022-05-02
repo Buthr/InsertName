@@ -1,0 +1,19 @@
+F-1.1@Do the fire detection system test.  The battery is off and AC power is not  available.
+|
+F-1.1W1@First turn on the battery. This powers the fire detection system with DC electrical power. 
+|
+F-1.2A1@When you first turn on the battery, the MASTER CAUTION lights and some of the system annunciator lights illuminate. Reset the master caution system first. 
+|
+F-1.2W1@Reset the master caution system. 
+|
+F-2.1W1@Select the FAULT/INOP test. This tests the fault detection circuits for the engines and the APU.
+|
+F-3.1W1@Select the OVHT/FIRE test. This tests the overheat and fire detection loops on the engines and APU. If the AC busses are powered, it also tests the fire detector loop in the wheel well.
+|
+F-4.1W1@Test the fire extinguisher system. Select position 1 at the EXT TEST switch. This tests the number 1 discharge circuits for all 3 extinguisher bottles.
+|
+F-4.2W1@Select position 2 at the EXT TEST switch. This tests the number 2 discharge circuits for all 3 extinguisher bottles.
+|
+F-4.4@You have completed the fire detection system test.
+|
+

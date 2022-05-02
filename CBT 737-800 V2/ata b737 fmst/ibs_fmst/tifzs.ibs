@@ -1,0 +1,59 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_012:@HOTS_004:@RECT_003:@ELEM_000:@IBIS_000:@SLDR_000:@OBJN_000:@FONT_000:@TEXT_000:@EDIT_000:@LIST_000:@TKNB_000
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=0
+//Background
+@BGND:@RECT_000
+
+//Colors
+
+//Fonts
+
+//Text
+
+//Rectangles
+@RECT_000:GRAY,GRAY,0,0,80,106
+@RECT_001:BLACK,BLACK,0,0,0,0
+@RECT_002:BLACK,BLACK,0,0,0,0
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tbtofzs01.bmp,0,0,0,0,0,0
+@BMAP_001:tbtofzs02.bmp,0,0,0,0,0,0
+@BMAP_002:tbtofzs04.bmp,0,0,0,0,0,0
+@BMAP_003:tbpofzs01.bmp,0,0,0,0,0,0
+@BMAP_004:tbpofzs02.bmp,0,0,0,0,0,0
+@BMAP_005:tbpofzs04.bmp,0,0,0,0,0,0
+@BMAP_006:tbalfzs01.bmp,0,0,0,0,0,0
+@BMAP_007:tbalfzs02.bmp,0,0,0,0,0,0
+@BMAP_008:tbalfzs04.bmp,0,0,0,0,0,0
+@BMAP_009:tbfufzs01.bmp,0,0,0,0,0,0
+@BMAP_010:tbfufzs02.bmp,0,0,0,0,0,0
+@BMAP_011:tbfufzs04.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBTOFZ}:N,0,0,80,27,{Freeze all simulation},@BMAP_000:0:0,@BMAP_001:0:0,@D,@BMAP_002:0:0,@BMAP_000:0:0,@N
+@HOTS_001:{TBPOFZ}:N,0,27,80,27,{Freeze aircraft lateral position},@BMAP_003:0:27,@BMAP_004:0:27,@D,@BMAP_005:0:27,@BMAP_003:0:27,@N
+@HOTS_002:{TBALFZ}:N,0,53,80,27,{Freeze altitude},@BMAP_006:0:53,@BMAP_007:0:53,@D,@BMAP_008:0:53,@BMAP_006:0:53,@N
+@HOTS_003:{TBFUFZ}:N,0,79,80,27,{Freeze fuel tank quantities},@BMAP_009:0:79,@BMAP_010:0:79,@D,@BMAP_011:0:79,@BMAP_009:0:79,@N
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+
+//List Boxes
+
+//Turn Knobs
+

@@ -1,0 +1,5 @@
+Exit Holding - EXIT ARMED
+¥  Identify the HOLD page prompt used to exit holding via the holding fix |1
+¥  Exit holding through the holding fix |2
+¥  Modify the flight plan to depart holding via direct to a waypoint |3
+¥  Delete an inactive holding pattern |6

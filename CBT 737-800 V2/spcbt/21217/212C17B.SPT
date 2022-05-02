@@ -1,0 +1,15 @@
+F-1.1@During cruise,...|
+F-1.2@you see this condition. Do the correct step.
+|
+F-1.2W1@The AUTO FAIL light and the ALTN light show that one pressure controller has failed. To extinguish the AUTO FAIL light, select ALTN .
+|
+F-1.3@ The alternate pressure controller now controls the cabin altitude. The alternate controller operates the same as the primary controller.
+|
+F-2.1@During cruise,...|
+F-2.2@you see this condition. Do the correct step.
+|
+F-2.2W1@The AUTO FAIL light shows that both pressure controllers have failed. You must select MAN , and use the outflow valve switch to control the cabin altitude.
+|
+F-2.3@Because both pressure controllers have failed, you must use the outflow valve switch to control cabin altitude until landing.
+|
+

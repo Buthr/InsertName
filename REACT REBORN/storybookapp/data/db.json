@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        {
+            "title": "My First App",
+            "body": "Create Your Tale",
+            "owner": "Buthr",
+            "id": 1
+        },
+        {
+            "title": "My First App",
+            "body": "Try It Out!",
+            "owner": "Buthr",
+            "id": 2
+
+        }
+    ]
+}

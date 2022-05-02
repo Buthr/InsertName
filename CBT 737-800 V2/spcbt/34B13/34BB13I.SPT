@@ -1,0 +1,55 @@
+F-1.1@FLT678 is ready to prepare for descent and arrival into Los Angeles.
+|
+F-2.1@ATC provides your clearance. Use the ARRIVALS page to put this into the FMC.
+|
+F-2.2@First, show the DEP/ARR INDEX page.
+|
+F-2.3@Next, show the ARRIVALS page for the destination airport.
+|
+F-3.1@STARs are shown on the left. 
+|
+F-3.2@Approaches are shown on the right. 
+|
+F-3.3@If more than 5 STARs or approaches exist, more pages are available. 
+|
+F-3.4@Show KLAX ARRIVALS page 2.
+|
+F-3.5@Select the STAR.
+|
+F-4.1@Only the selected STAR is shown. All other STARS are removed. 
+|
+F-4.2@All transitions related to the selected STAR are now listed. These transitions are used to connect the route to the STAR.
+|
+F-4.3@Select the transition.
+|
+F-4.4@Select the approach on the next page.
+|
+F-5.1@Like the selected STAR, only the selected approach is shown. 
+|
+F-5.2@The approach includes missed approach routing and holding if the missed approach procedure is part of the published approach.
+|
+F-5.3@Approach transitions that apply to the selected approach are shown. These transitions include the IAF, feeder fixes, and fixes that provide routing to the IAF.
+|
+F-5.4@Select the approach transition.
+|
+F-5.5@The STAR and its transition, the approach and its transition have been entered. However, these entries often create route discontinuities.
+|
+F-6.1@Show the LEGS page to check for route discontinuities.
+|
+F-6.2@LEGS page 1 is complete. Check the remaining pages.
+|
+F-6.4@Connect the discontinuity.
+|
+F-6.6@The discontinuity has been connected; the flight plan is continuous. Make the modifications active.
+|
+F-7.1@Show the ARRIVALS page to see the change.
+|
+F-7.2@
+|
+F-7.3@All STARs and approaches for the destination airport are shown in their initial order. This lets you to choose any STAR or approach if your clearance changes.
+|
+F-7.4@Select the NEXT PAGE.
+|
+F-7.5@The active STAR and approach are shown.
+|
+|

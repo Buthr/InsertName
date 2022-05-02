@@ -1,0 +1,15 @@
+F-1.1@You are on a dual autopilot approach.  At minimums, you do not see the runway.  Go-around. 
+|
+F-1.1W1@Push a TO/GA switch on the thrust levers.
+|
+F-1.2@You are now above 400 feet radio altitude.
+|
+F-1.2W1@Select a roll mode.  In this example, use heading select.
+|
+F-1.3@
+|
+Autoflight Go-Around Practice - Autopilot Go-Around
+
+Configuration Sensitive: Options: as required; rest is basic (as required). Note: References to flight director are for integrated cue. MCP has blanks to cover SPD and ALT intervention. MCDU used for CDU.
+
+

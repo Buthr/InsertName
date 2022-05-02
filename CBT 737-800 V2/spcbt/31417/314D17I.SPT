@@ -1,0 +1,77 @@
+F-1.1@Now, let's look at the navigation display.
+|
+F-1.2@You use the EFIS control panel mode selector to show the 4 navigation display modes. 
+|				
+F-1.3@The approach mode is selected. It shows ILS approach data on an expanded compass rose. 
+|
+F-1.4@With the selector in the VOR position, the VOR mode shows.
+|
+F-1.5@The VOR and approach modes are almost the same. You use the VOR mode to show the VOR data.
+|
+F-1.6@The MAP and PLAN modes are discussed in a different lesson.
+|
+F-1.7@Push the center switch.
+|
+F-1.8@The center switch lets you change between full compass rose and expanded navigation displays.
+|
+F-2.1@Here is the heading reference for all heading displays. The normal heading reference is magnetic.
+|
+F-2.2@But, at very high latitudes, and certain areas near the magnetic poles,...|
+F-2.3@all compass references automatically change to true.
+|
+F-3.1@Wind data shows when wind is greater than 5 knots.
+|
+F-3.2@The reference for the wind arrow is the same as the compass reference. Currently, the reference is magnetic north.
+|
+F-3.3@Track shows with a track line.
+|
+F-4.1@The MCP heading selector moves the heading bug.
+|
+F-4.2@Change the selected heading to 250 .
+|
+F-4.3@The heading bug does not park on the expanded mode navigation display .
+|
+F-5.1@True air speed shows above 100 knots.
+|
+F-5.2@Groundspeed shows here.
+|
+F-5.3@This area shows which navigation radio information is displayed.
+|
+F-6.1@You control the course pointer with the MCP course selector.
+|
+F-6.2@The TO/FROM annunciation shows here.
+|
+F-6.3@Center VOR mode also has a TO/FROM pointer. Expanded VOR mode does not have a TO/FROM pointer.
+|
+F-6.4@Move the number 1 VOR/ADF switch to the ADF 1 position.
+|
+F-6.5@The related ADF pointer shows when the ADF radio receives a signal and the VOR/ADF switch is in the ADF position.
+|
+F-6.6@You select a new frequency. Now, change to the approach mode.
+|
+F-6.7@The glideslope data shows in approach mode.
+|
+F-7.1@Now, let's check TCAS and weather. TCAS detected traffic and weather radar data are not available in center approach or center VOR modes. Change to the expanded mode.
+|
+F-7.2@Next, push the weather radar map switch to show weather radar data.
+|
+F-7.3@Range now shows. Range shows if weather radar or TCAS are on the display.
+|
+F-7.4@The range selector controls the range. 
+|
+F-7.5@Change the range to 40 miles for a weather check.
+|
+F-7.6@Now you can see a weather radar return.
+|
+F-7.7@Next, push the traffic switch to show TCAS traffic.
+|
+F-7.8@Traffic shows. 
+|
+F-7.9@TCAS and weather radar are discussed in different lessons.
+|
+Navigation Display - Approach and VOR Modes
+|
+|
+Configuration Sensitive: Options: see authorware file 
+|
+

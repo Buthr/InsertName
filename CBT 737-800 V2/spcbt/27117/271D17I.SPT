@@ -1,0 +1,96 @@
+F-1.1@The rudder controls yaw, the movement around the airplane’s vertical axis.
+|
+F-1.2@The 1 piece rudder is attached to the vertical stabilizer.
+|
+F-2.1@With hydraulic power you can adjust the rudder through the rudder pedals,...
+|
+F-2.2@or the rudder trim system.
+|
+F-2.3@Automatic inputs to the rudder come from the yaw damper during normal operations,...
+|
+F-2.4@or from the standby yaw damper during "manual reversion" flight.
+|
+F-2.5@The yaw damper operations are controlled through 2 stall management/yaw damper, or SMYD, computers.
+|
+F-3.1@Rudder pedal inputs move cables to the feel and centering unit and the rudder PCUs. 
+|
+F-3.2@The feel and centering unit sets the rudder pedal position and “feel”.
+|
+F-3.3@The main rudder PCU uses hydraulic systems A and B pressure to move the rudder.
+|
+F-3.4@A standby rudder PCU is supplied power by the standby hydraulic system. It operates when hydraulic systems A and B are not available.
+|
+F-3.5@One of the PCUs can supply rudder control.
+|
+F-4.1@The rudder trim system can move the rudder to remove unwanted forces from the rudder pedals.
+|
+F-4.2@Rudder trim inputs change the feel and centering unit neutral point.
+|
+F-4.3@This makes the rudder pedals,...|
+F-4.4@and the rudder move.
+|
+F-5.1@The rudder trim control and indicator are on the aft electronic panel.
+|
+F-5.2@You can turn the rudder trim control to the left or right to change rudder trim.
+|
+F-5.3@The indicator shows the rudder’s trimmed position.
+|
+F-5.4@This flag is in view if electrical power to the trim indicator is lost.
+|
+F-6.1@The yaw damper prevents dutch roll. It also helps with turn coordination and gust damping.
+|
+F-6.2@Yaw damper electronics are in the 2 stall management yaw damper computers.
+|
+F-6.3@The left SMYD computer supplies yaw damper inputs to the main rudder PCU to tell how much to move the rudder.
+|
+F-6.4@The right SMYD computer supplies turn coordination, gust damping and dutch roll prevention through the standby yaw damper.
+|
+F-7.1@The ADIRUs, send speed and yaw rate data to the stall management yaw damper computers.
+|
+F-7.2@ADIRU data is added to control wheel inputs and sent through the yaw damper to tell the PCUs how much to move the rudder.
+|
+F-7.3@The YAW DAMPER indicator shows the inputs to the rudder, but the rudder pedals do not move.
+|
+F-7.4@Standby yaw damper inputs to the rudder are not shown on the YAW DAMPER indicator.
+|
+F-7.5@Pilots can override either main yaw damper or standby yaw damper inputs with the rudder pedals or rudder trim.
+|
+F-8.1@Now let’s look at some non-normal situations.
+|
+F-8.2@The YAW DAMPER light comes on when the yaw damper disengages.
+|
+F-8.3@
+|
+F-8.4@If it is a momentary problem the yaw damper may reset when the switch is moved from OFF to ON.
+|
+F-9.1@The yaw damper does not operate if hydraulic system B is not available. In this condition, the YAW DAMPER switch stays at ON and the YAW DAMPER light does not illuminate.
+|
+F-9.2@Move the system B flight control switch to standby rudder.
+|
+F-9.3@The YAW DAMPER switch moves to OFF and the YAW DAMPER light illuminates.
+|
+F-9.4@The yaw damper cannot be engaged when only system B is inoperative.
+|
+F-10.1@If hydraulic pressure from systems A and B is not available, the rudder must be operated by the standby hydraulic system.
+|
+F-10.2@Move the flight control switches to standby rudder.
+|
+F-10.3@This starts the standby hydraulic system which supplies power to the standby rudder PCU.
+|
+F-10.4@Move the YAW DAMPER switch to ON.
+|
+F-10.5@Yaw damper protection is now available through the standby yaw damper.
+||
+F-11.1@If a rudder cable fails in flight, use the rudder trim to make rudder inputs.
+|
+F-11.2@If the rudder pedals jam, normal rudder and nose wheel steering inputs are not possible. Rudder trim is also not available.
+|
+F-11.3@If you think frozen water caused the jam,...|
+F-11.4@descend, when possible, to warmer air.
+|
+Title: Flight Controls - Yaw
+|
+
+|
+Configuration Sensitive: none .
+|

@@ -1,0 +1,38 @@
+F-1.1@You receive this clearance. Modify the CLB page.
+|
+F-1.6W1@Execute the modification.
+|
+F-1.7@The FMC commands a 260 knot speed restriction until 15,000 feet, and continues the climb to Flight Level 350.
+|
+F-2.1@Put in the new altitude constraint.
+|
+F-2.1W1@Use the LEGS page to put in the altitude constraint.
+|
+F-2.2@
+|
+F-2.3@You cannot cross ORTIN at or above 10,000 feet at this rate of climb. Change to MAX ANGLE climb rate.
+|
+F-2.3W1@Select MAX ANGLE on the CLB page.
+|
+F-2.4@
+|
+F-2.4W1@Push the line select key adjacent to MAX ANGLE.
+|
+F-2.5@
+|
+F-2.5W1@Execute the modification.
+|
+F-2.6@You have made the altitude constraint. Resume normal climb.
+|
+F-2.6W1@Push the line select key adjacent to ECON.
+|
+F-2.7@
+|
+F-2.7W1@Execute the modification.
+|
+VNAV Climb
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|

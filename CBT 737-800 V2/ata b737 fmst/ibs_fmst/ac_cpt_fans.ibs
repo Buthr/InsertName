@@ -1,0 +1,84 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_000:@HOTS_000:@RECT_001:@ELEM_000:@IBIS_029:@OBJN_000:@FONT_000:@TEXT_000:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=0
+@LAYOUT_ENABLE=1
+//Background
+@BGND:@RECT_000
+
+//Colors
+@COLR_000:65,65,65
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+
+//Rectangles
+@RECT_000:COLR_000,COLR_000,0,0,1024,768
+
+//IBIS panels
+@IBIS_000:ADF101.IBS,{ADF_L}
+@IBIS_001:AUTOCONTROL.IBS,{AUTOCONTROL}
+@IBIS_002:CDU101_FANS.IBS,{CDUL}
+@IBIS_003:DU101.IBS,{DUCI}
+@IBIS_004:DU101.IBS,{DUCO}
+@IBIS_005:ECP101.IBS,{ECPL}
+@IBIS_006:FLTCTRL101.IBS,{FLTCTRL101}
+@IBIS_007:MCP101.IBS,{MCP}
+@IBIS_008:NAVL101.IBS,{NAVL}
+@IBIS_009:NAVR101.IBS,{NAVR}
+@IBIS_010:SMFLP101.IBS,{SMFLP}
+@IBIS_011:SMGEAR101.IBS,{SMGEAR}
+@IBIS_012:SMSBK101.IBS,{SMSBK}
+@IBIS_013:SMTHR101.IBS,{SMTHR}
+@IBIS_014:TIEXIT.IBS,{TIEXIT}
+@IBIS_015:TIFZS.IBS,{TIFREEZEMENU}
+@IBIS_016:TIKBD00.IBS,{TIKBD00}
+@IBIS_017:TIKBD01.IBS,{TIKBD01}
+@IBIS_018:TIMTLB.IBS,{TIMTLB}
+@IBIS_019:TIRRWY00.IBS,{TIRRWY}
+@IBIS_020:TISIMC00.IBS,{TISIMC00}
+@IBIS_021:TISIMC01.IBS,{TISIMC01}
+@IBIS_022:TISIMC02.IBS,{TISIMC02}
+@IBIS_023:TISIMC03.IBS,{TISIMC03}
+@IBIS_024:TISIMC04.IBS,{TISIMC04}
+@IBIS_025:TISIMC05.IBS,{TISIMC05}
+@IBIS_026:TISNAP.IBS,{TISNAP}
+@IBIS_027:TITABS.IBS,{TITABS}
+@IBIS_028:WRP101_RAAF.IBS,{WRP_RAAF}
+
+
+//Bitmaps
+
+//Hotspots
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

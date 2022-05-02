@@ -1,0 +1,7 @@
+Takeoff Basics 2	No	No	29	f02	0
+Takeoff Speeds	=/fo2a01i	fo2a01i
+Takeoff Performance - Climb	=/fo2b01i	fo2b01i
+Takeoff Performance - Obstacle	=/fo2c01i	fo2c01i
+Takeoff Performance - Tire Speed & Brake Energy	=/fo2d01i	fo2d01i
+Takeoff Performance - Improved Climb	=/fo2e01i	fo2e01i
+Stabilizer Trim Setting	=/fo2f01i	fo2f01i

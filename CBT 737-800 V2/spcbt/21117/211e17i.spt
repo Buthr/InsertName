@@ -1,0 +1,47 @@
+F-1.1@We will now look at some non-normal conditions related to the air conditioning system.
+|
+F-1.2@If the temperature in the supply ducts to the cockpit or passenger cabins is more than limits, the related ZONE TEMP light illuminates on the cabin temperature controls panel.
+|
+F-1.3@When the ZONE TEMP light illuminates, the related trim air modulating valve closes.
+|
+F-1.4@Push the master caution light to reset the warning system.
+|
+F-2.1@To decrease the temperature in the related trim air supply duct, select a colder temperature with the related temperature selector.
+|
+F-2.2@To let the trim air modulating valve operate as usual, and to extinguish the ZONE TEMP light, push the TRIP RESET switch on the air conditioning/bleed air controls panel.
+|
+F-2.3@Now, with the air temperature selector, select the aft cabin to see the aft duct temperature.
+|
+F-2.4@If this temperature in the duct increases quickly, then select the TRIM AIR switch off.
+|
+F-2.5@When the trim air switch is off, the trim air valve closes,...|
+F-2.6@the packs operate independently. The left pack supplies air at the temperature selected by the flight deck temperature control selector,...|
+F-2.7@and the right pack supplies air at the average temperature of the forward and aft passenger cabin temperature selectors.
+|
+F-3.1@The ZONE TEMP light also illuminates if there are failures in the pack controllers.
+|
+F-3.2@If the primary and the secondary flight deck contoller do not operate, the flight deck ZONE TEMP light illuminates, and the packs operate independently.
+|
+F-3.3@If a flight deck temperature controller, the forward passenger cabin controller, or the aft temperature controllers fail,...|
+F-3.4@then the related ZONE TEMP light illuminates when RECALL is selected. Select RECALL now.
+|
+F-3.5@In this case, the packs also operate independently. Clear the master caution.
+|
+F-4.1@If the temperature in the pack is too high, or if the pack output temperature is high,...|
+F-4.2@then the PACK light illuminates,...|
+F-4.3@and the related pack valve closes.
+|
+F-4.4@Reset the master caution system.
+|
+F-4.5@To decrease the load on the pack, select all the temperature selectors to a warmer temperature.
+|
+F-4.6@To let the pack operate normally, push the TRIP RESET switch on the air conditioning/bleed air controls panel.
+|
+F-5.1@The PACK light will also illuminate if both the primary and secondary controller for the related pack do not operate.
+|
+F-5.2@In this case, all control of the pack is lost and the system will not reset.
+|
+F-5.3@If the primary or the standby controller for the related pack do not operate, the PACK light illuminates when RECALL is pressed.
+|
+F-5.4@Control of the pack changes to the standby controller, if the primary controller does not operate.
+|

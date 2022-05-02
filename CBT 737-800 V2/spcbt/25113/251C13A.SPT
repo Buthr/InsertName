@@ -1,0 +1,10 @@
+F-1.1@The passenger oxygen system is on in this example.  From instrument indications, was the passenger oxygen system turned on automatically, or manually from the flight deck?
+|
+F-1.2@The PASSENGER OXYGEN switch is still in the guarded position. The passenger oxygen system turned on automatically when the cabin altitude increased above 14,000 feet. 
+|
+F-1.3@Turn on the passenger oxygen system to release the oxygen masks in the cabin.
+|
+F-1.3W1@To turn on the passenger oxygen system, open the guard and move the switch to ON.
+|
+Test Script
+

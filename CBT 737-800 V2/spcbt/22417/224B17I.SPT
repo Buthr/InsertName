@@ -1,0 +1,105 @@
+F-1.1@The autoflight system approach modes can be used for flight director only, or single and dual channel autopilot approaches, and can also control automatic landings.
+|
+F-1.2@The go-around modes show flight director command bars and can supply commands to the autopilot.
+|
+F-2.1@To fly a dual autopilot approach, you must arm the autoflight system for approach.  Verify the inbound course is set on the MCP, and the localizer frequency is tuned on the navigation radios.
+|
+F-2.2@When the airplane is on a localizer intercept heading, push the APP switch.
+|
+F-2.3@Verify that the approach mode is armed with the FMA.  The pitch field shows G/S and the roll field shows VOR/LOC in small white letters.
+|
+F-3.1@Next, push CMD on the second autopilot.  This arms the second autopilot but does not engage it.
+|
+F-3.2@VOR/LOC changes from armed to active on the FMA after localizer capture.  After localizer capture, set the heading to match the inbound course.
+|
+F-3.3@The autoflight status field annunciation shows SINGLE CH.  This tells you that only 1 autopilot is engaged.
+|
+F-3.4@At glideslope capture, G/S changes from an armed to an active mode,...|
+F-3.5@the TMD displays G/A as the active N1 thrust limit,...|
+F-3.6@and you set the missed approach altitude on the MCP.
+|
+F-3.7@At glideslope capture, the light in the APP switch goes dark.  You cannot disengage the approach mode with a second push of the APP switch.
+|
+F-3.8@To leave the approach mode after localizer and glideslope capture; you must push TO/GA, or disengage the autopilot and turn off the flight directors, or retune a VHF navigation receiver.
+|
+F-4.1@After glideslope and localizer capture, the second autopilot engages when the airplane is below 1500 feet radio altitude.  The SINGLE CH annunciation is removed,...|
+F-4.2@and FLARE armed is annunciated in the pitch field.  Now, the autopilot go-around mode is also armed, but is not annunciated.
+|
+F-4.3@For a dual autopilot approach, you must select the second autopilot above 800 feet radio altitude.  Below 800 feet radio altitude, you cannot engage the second autopilot.
+|
+F-4.4@At 400 feet radio altitude, the autopilots automatically add an additional amount of stabilizer nose-up trim.  If the autopilots disengage after this occurs, you must hold forward control pressure on the control wheel until you can manually remove the trim.
+|
+F-4.5@If FLARE is not armed by 350 feet radio altitude, the autopilots automatically disengage.
+|
+F-4.6@
+|
+F-5.1@The flare maneuver starts at 50 feet radio altitude.  The autopilot trims the airplane in the flare, the FMA pitch field changes to FLARE and the flight director command bars are removed.
+|
+F-5.2@The autothrottle reduces thrust to idle below 30 feet radio altitude and the FMA shows RETARD.
+|
+F-5.3@The autothrottle automatically disengages after touchdown, but you must manually disengage the autopilot.
+|
+F-5.4@This shows the steps for a dual autopilot approach.
+|
+F-5.5@
+|
+F-6.1@A single autopilot approach is the same as the dual autopilot approach, but the second autopilot is not engaged after APP is selected.
+|
+F-6.2@The SINGLE CH annunciation shows for the full approach,...|
+F-6.3@FLARE is not annunciated and the flare and automatic touchdown capability are not available,...|
+F-6.4@and an autopilot go-around is not available.
+|
+F-6.5@With a single channel autopilot approach, you must flare and land manually.  The autopilot must be disconnected before you reach 50 feet radio altitude.
+|
+F-7.1@Go-around mode is engaged when you push 1 of the 2 TO/GA switches on the thrust levers. 
+|
+F-7.2@Two autopilots must be engaged for an autopilot go-around.
+|
+F-7.3@If 1 autopilot is engaged,...|
+F-7.4@only the flight director go-around is available. 
+|
+F-8.1@When you push a TO/GA switch for an autopilot go-around, the autothrottle engages in go-around.
+|
+F-8.2@The thrust increases to a reduced go-around N1 that produces a 1000 to 2000 feet per minute rate of climb,...|
+F-8.3@the pitch mode engages in TO/GA,...|
+F-8.4@and a target pitch of 15 degrees is commanded until the climb rate is between 1000 and 2000 feet per minute. At the target climb rate, the autopilot changes pitch to hold the maneuvering speed for the set flap position.
+|
+F-8.5@The roll command holds the ground track. The FMA is blank in the roll field.
+|
+F-8.6@The IAS/Mach window is blank,...|
+F-8.7@and the airspeed cursor shows the maneuvering speed for the current flap position.
+|
+F-8.8@As you retract the flaps, the airspeed cursor moves to the maneuvering speed for the new flap position.  The airplane will automatically accelerate to the new target speed as the flaps are retracted.
+|
+F-9.1@After the autothrottle is at the reduced go-around thrust, a second push of the TO/GA switch increases the thrust to the full go-around thrust.
+|
+F-9.2@The autopilot increases the pitch to hold the maneuvering speed for the set flap position.
+|
+F-9.3@Above 400 feet radio altitude, you can engage other roll modes.  Here, engage heading select.
+|
+F-9.4@ If you keep the autoflight system in go-around mode and you are close to the missed approach altitude, the autopilot changes to ALT ACQ and captures the missed approach altitude.
+|
+F-9.5@When the go-around mode disengages, the last autopilot engaged in command also disengages and the MCP speed window is no longer blank.  The MCP speed window shows the target speed that was active when the autopilot exited the go-around mode.
+|
+F-9.6@
+|
+F-10.1@The flight director go-around can be used on single autopilot approaches,...|
+F-10.2@on dual autopilot approaches before FLARE is armed,...|
+F-10.3@and on a manual approach.
+|
+F-10.4@You can use the flight director go-around when you are below 2000 feet radio altitude.  If you start a go-around when the flight directors are off, the command bar will automatically "pop-up."
+|
+F-11.1@To engage the flight director go-around, push a TO/GA switch.
+|
+F-11.2@Unless FLARE is armed on a dual autopilot approach, all autopilots disengage when you push TO/GA.
+|
+F-11.3@The flight director command bars show target pitch and roll attitudes to maintain track and flap maneuvering speed, but the pilot must control pitch and roll.
+|
+F-11.4@If you engage an autopilot during a flight director go-around, the pitch mode engages in LVL CHG and the roll mode engages in HDG SEL unless a different roll mode was engaged first.
+|
+Autoflight Normal Operations - Approach and Go-Around Modes
+|
+Configuration Sensitive: Options: as required; rest is basic . Note: References to flight director are for integrated cue. MCP has blanks to cover SPD and ALT intervention. MCDU used for CDU.
+
+
+

@@ -1,0 +1,89 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_023:@HOTS_006:@RECT_000:@ELEM_000:@IBIS_000:@OBJN_000:@FONT_001:@TEXT_007:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=0
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+@FONT_000:AERIAL,8,16,NORMAL,0,0
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+@TEXT_000:{Total}:Freeze all simulation,250,127,@FONT_000,BLACK,250,127,250,127
+@TEXT_001:{Position}:Freeze aircraft lateral position,250,187,@FONT_000,BLACK,250,187,250,187
+@TEXT_002:{Position}:Aircraft altitude can be changed,250,207,@FONT_000,BLACK,250,207,250,207
+@TEXT_003:{Flight}:Freeze all flight parameters,250,267,@FONT_000,BLACK,250,267,250,267
+@TEXT_004:{Altitude}:Freeze altitude,250,327,@FONT_000,BLACK,250,327,250,327
+@TEXT_005:{Altitude}:Lateral position can be changed,250,347,@FONT_000,BLACK,250,347,250,347
+@TEXT_006:{Fuel}:Freeze fuel tank quantities,250,407,@FONT_000,BLACK,250,407,250,407
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tpsetp00.bmp,0,0,0,0,0,0
+@BMAP_001:TBTOFZ01.BMP,0,0,0,0,0,0
+@BMAP_002:TBTOFZ02.BMP,0,0,0,0,0,0
+@BMAP_003:TBTOFZ03.BMP,0,0,0,0,0,0
+@BMAP_004:TBTOFZ04.BMP,0,0,0,0,0,0
+@BMAP_005:TBPOFZ01.BMP,0,0,0,0,0,0
+@BMAP_006:TBPOFZ02.BMP,0,0,0,0,0,0
+@BMAP_007:TBPOFZ03.BMP,0,0,0,0,0,0
+@BMAP_008:TBPOFZ04.BMP,0,0,0,0,0,0
+@BMAP_009:TBFLFZ01.BMP,0,0,0,0,0,0
+@BMAP_010:TBFLFZ02.BMP,0,0,0,0,0,0
+@BMAP_011:TBFLFZ03.BMP,0,0,0,0,0,0
+@BMAP_012:TBFLFZ04.BMP,0,0,0,0,0,0
+@BMAP_013:TBALFZ01.BMP,0,0,0,0,0,0
+@BMAP_014:TBALFZ02.BMP,0,0,0,0,0,0
+@BMAP_015:TBALFZ03.BMP,0,0,0,0,0,0
+@BMAP_016:TBALFZ04.BMP,0,0,0,0,0,0
+@BMAP_017:TBFUFZ01.BMP,0,0,0,0,0,0
+@BMAP_018:TBFUFZ02.BMP,0,0,0,0,0,0
+@BMAP_019:TBFUFZ03.BMP,0,0,0,0,0,0
+@BMAP_020:TBFUFZ04.BMP,0,0,0,0,0,0
+@BMAP_021:TBSMCL01.BMP,0,0,0,0,0,0
+@BMAP_022:TBSMCL02.BMP,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBTOFZ}:N,180,110,55,50,@BMAP_001:180:110,@BMAP_002:180:110,@BMAP_003:180:110,@BMAP_004:180:110,@BMAP_004:180:110,@BMAP_004:180:110
+@HOTS_001:{TBPOFZ}:N,180,180,55,50,@BMAP_005:180:180,@BMAP_006:180:180,@BMAP_007:180:180,@BMAP_008:180:180,@BMAP_008:180:180,@BMAP_008:180:180
+@HOTS_002:{TBFLFZ}:N,180,250,55,50,@BMAP_009:180:250,@BMAP_010:180:250,@BMAP_011:180:250,@BMAP_012:180:250,@BMAP_012:180:250,@BMAP_012:180:250
+@HOTS_003:{TBALFZ}:N,180,320,55,50,@BMAP_013:180:320,@BMAP_014:180:320,@BMAP_015:180:320,@BMAP_016:180:320,@BMAP_016:180:320,@BMAP_016:180:320
+@HOTS_004:{TBFUFZ}:N,180,390,55,50,@BMAP_017:180:390,@BMAP_018:180:390,@BMAP_019:180:390,@BMAP_020:180:390,@BMAP_020:180:390,@BMAP_020:180:390
+@HOTS_005:{TBSMCL}:N,720,550,100,30,@BMAP_021:720:550,@BMAP_022:720:550
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

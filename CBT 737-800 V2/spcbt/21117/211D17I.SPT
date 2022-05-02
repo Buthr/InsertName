@@ -1,0 +1,30 @@
+F-1.1@The equipment cooling system keeps the temperature of the cockpit instruments and the electronic equipment in the E&E bay at less than the operating limits.
+|
+F-2.1@The system has a normal supply fan and a normal exhaust fan. 
+|
+F-2.2@Also, there is an alternate supply fan and there is an alternate exhaust fan.
+|
+F-2.3@The supply fan collects cool air from the passenger cabin, and supplies it to the cockpit displays and electronic equipment in the E&E bay.
+|
+F-2.4@The exhaust fan collects warm air from the cockpit displays, the circuit breaker panels, and the electronic equipment in the E&E bay.
+|
+F-2.5@On the ground and in flight with a low differential pressure, the overboard exhaust valve is open, and the system discards the warm air overboard.
+|
+F-2.6@In flight, at a higher differential pressure, the overboard exhaust valve normally closes, and the system supplies the warm air to the lining of the forward cargo bay.
+|
+F-3.1@The controls for the equipment cooling system are on the forward overhead panel.
+|
+F-3.2@The supply switch operates the normal or the alternate supply fan.
+|
+F-3.3@The exhaust switch operates the normal or alternate exhaust fan.
+|
+F-4.1@There are ‘low-airflow’ detectors in both the supply duct and the exhaust duct.
+|
+F-4.2@If the selected fan does not operate and the airflow stops, the related OFF light illuminates.
+|
+F-4.3@When the OFF light illuminates, you select the related alternate fan. Select the alternate exhaust fan now.
+|
+F-4.4@The OFF light extinguishes after the air starts to flow again. The alternate fan supplies the same quantity of airflow as the normal fan.
+|
+Equipment Cooling System
+|

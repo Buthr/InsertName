@@ -1,0 +1,12 @@
+F-1.1@Failure flags show on the navigation display. 
+|
+F-1.2@Failure flags show if a DME system fails,...|
+F-1.3@or if ADF, VOR, or ILS information is not valid.
+|
+F-1.4@If heading information fails, heading displays are removed.
+|
+F-1.5@The map failure flag shows if the map display fails.
+|
+F-1.6@The navigation display message EFIS MODE/NAV FREQ DISAGREE shows when the navigation display mode does not match the tuned frequency
+|
+

@@ -1,0 +1,112 @@
+F-1.1@This lesson explains the symbology used by the HUD.
+The system operates in four modes, Primary, Approach category III, IMC and VMC.
+|
+F-1.2.1@The Primary (PRI) Mode can be used for all phases of flight but  must be used for low visibility takeoffs when the HUDS is selected for Ground Roll Guidance.
+|
+F-1.2.2@It is also the default mode when TO/GA is initiated during an approach.
+|
+F-1.3@The Approach Catagory III or (AIII) Mode is for manual ILS operations to CAT III minimums.  When in this mode, the guidance source is the HUD computer.
+|
+F-1.4.1@The IMC (Instrument Meteorologic Condition) Mode is similar to AIII. The symbology is the same, but unlike AIII the guidance source is the DFCS.
+|
+F-1.4.2@The IMC Mode can not be used for Category III approaches.
+|
+F-1.5@The VMC (Visual Meteorologic Condition) Mode approach is also similar to AIII, but guidance cues are not provided.  Use this mode for visual approaches.
+|
+F-1.6@In  portions of this lesson a list of HUDS modes shows off to the right side.  When this occurs, the identified symbol is available in one or more modes, as indicated by the dot or dots.
+|
+F-2.1@The HUDS uses much the same symbology as the Primary Flight Display (PFD).
+|
+F-2.2@The HUDS displays a static Airplane Symbol whenever the HUDS is on and functioning normally.
+|
+F-2.3@The HUDS also displays the Flight Path Vector at all times, selectable on or off in the PFD. More will be explained about this symbol later in the lesson.
+|
+F-2.4@The PRI Mode Speed Indications are the same as the PFD except HUDS displays cross-hatched boxes in place of red boxes for minimum and maximum speed indications.
+|
+F-2.5@Digital speeds representing MCP selected speed and actual speed readout show when a mode other than PRI is selected.
+|
+F-2.6@The HUDS PRI Mode Altitude Indications are the same as the PFD execpt HUDS shows an arrow in place of a magenta MCP selected altitude bug.
+|
+F-2.7@The HUDS has added an altitude trend vector to the Altitude Indicator. The tip of the arrow indicates predicted altitude in six seconds.
+|
+F-2.8@Here is the digital Barometric Altitude.  It shows when other than the PRI mode is selected.
+|
+F-2.9@HUDS shows Radio Altitude the same as PFD Radio Altitude.
+|
+F-2.10@The HUDS shows Vertical Speed in digital form only.
+|
+F-2.11@A digital Runway Elevation shows momentarily below the Verticle Speed when the AIII mode is selected or when changing the Runway Elevation during an AIII approach.
+|
+F-2.12@This Elevation is entered in the HUDS Control Panel.
+|
+F-3.1@HUDS displays the HSI (Horizontal Situation Indicator) in the  PRI Mode the same as the PFD.... |
+F-3.2@except that HUDS places the localizer information inside of HSI compass rose...|
+F-3.3@and displays the PFD Track Pointer line as a Track Pointer triangle shown only when HUDS is the  navigation source.
+|
+F-3.4@Here is Selected Heading shown in analog and digital form....  |
+F-3.5@current Heading...|
+F-3.6@and Selected Course.
+|
+F-3.7@The HUDS PRI Mode displays Course and Glideslope deviation on conventional scales.
+|
+F-3.8@In AIII and IMC modes, HUDS shows Localizer Deviation using vertical bars in relation to the Selected Course arrow.
+|
+F-3.9@
+|
+F-3.10@The HUDS displays Glide Slope Deviation as horizontal bars relative to the Glide Slope Reference Line.
+|
+F-3.11@The Glideslope Reference Line is set on the HUDS Control Panel.
+|
+F-4.1@HUDS shows the Navigation Reference in the lower left hand corner of the Combiner display.
+|
+F-4.2@The HUDS displays DME from the selected Nav Reference.
+|
+F-4.3@When HUDS indicates "NAV" as the navigation source, HUDS shows Distance-To-Go to the next active Waypoint instead of DME ...|
+F-4.4@and also shows Vertical Deviation from a computed vertical path.
+|
+F-5.1@The HUDS displays Ground Speed...  |
+F-5.2.1@and Wind, the same as the  Navigation Display.  The wind arrow shows wind direction relative to the airplane heading.
+|
+F-5.2.2@Digital wind direction is not displayed.
+|
+F-5.3@Here is the  Flight Mode Annunciator data near the top of the glass.
+|
+F-6.1@The Bank Scale normally shows 10 degrees, 20 degrees, and 30 degrees ticks. 
+|
+F-6.2@45 degrees and 60 degrees tick marks appear when roll exceeds the 30 degrees and 50 degrees tick marks respectively.
+|
+F-6.3@A Slip/Skid Indicator functions the same as it does on the PFD.
+|
+F-6.4@When you activate "TO/GA, HUDS provides two additional Slip/Skid Indicators relative to the Airplane Symbol and Flight Path Vector. These added Slip/Skid Indicators disappear when climbing through 1500 feet AGL.
+|
+F-7.1@Horizon Line shows the airplane's relative pitch and roll attitude... |
+F-7.2@and rests on the actual horizon.
+|
+F-7.3@Magnetic Headings are labeled on the Horizon Line every 10 degrees... |
+F-7.4@and are marked every 5 degrees.
+|
+F-7.5@Heading Marks also agree with the real world.
+|
+F-7.6.1@The HUDS horizon represents "local level". This space or gap represents the altitude of the airplane above the earth's surface.
+|
+F-7.6.2@This characteristic becomes more evident as airplane altitude increases.
+|
+F-8.1.1@HUDS displays a Pitch Scale above and below the horizon line in 5 degrees increments.
+|
+
+ F-8.1.2@When the pitch exceeds plus or minus 30 degrees, the pitch scale changes to 10 degree increments.
+|
+ 
+
+F-8.2@When Aircraft attitude would place a conformal Horizon Line or the Flight Path Vector beyond the edge of the Combiner glass, HUDS compresses the Pitch Scale to allow these symbols to remain on the display.
+|
+F-8.3@HUDS adds a Chevron on the Pitch Scale at +30 degrees and -20 degrees, pointing toward the horizon, to help in interpreting unusual attitudes.
+|
+F-9.1@During an approach, HUDS annunciates Marker Beacon passages below the Airplane Reference.
+|
+F-9.2@HUDS displays "DH" next to the Radio Altitude when the altitude reaches the Captain's EFIS Radio Minimum.
+|
+F-9.3@On an approach using PRI or IMC modes, HUDS removes the Guidance Cue symbol descending through 150 feet Radio Altitude.
+|
+
+

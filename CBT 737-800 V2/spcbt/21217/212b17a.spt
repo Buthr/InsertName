@@ -1,0 +1,23 @@
+F-1.1@Preflight the cabin pressure control panel.
+|
+F-1.1D1@Set the planned cruise altitude with the FLT ALT selector.
+|
+F-1.1D2@Set the elevation of the destination airport with the LAND ALT selector.
+|
+F-1.1D3@Select AUTO with the mode selector.
+|
+F-1.2@The cabin pressure control panel is now set for flight.
+|
+F-2.1@During climb, it becomes necessary to return to the departure airport. Choose the correct answer.
+|
+F-2.1W1@Flight crew action is not necessary, because the pressurization system plans a return to the departure airport, if you descend before you get to the flight altitude set in the pressure controller. 
+|
+F-2.1A1@During climb, if you begin a descent, the pressurization system will start a cabin descent to 300 feet below the elevation of the departure airport. Flight crew action is not necessary.
+|
+F-2.2@Flight crew action is not necessary.
+|
+F-3.1@After you complete your climb to the planned cruise altitude, it becomes necessary to divert to an alternate airport. Do the correct step.
+|
+F-3.1W1@Use the landing altitude selector to set the elevation of the landing airport.
+|
+

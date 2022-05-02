@@ -1,0 +1,244 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_108:@HOTS_017:@RECT_000:@ELEM_009:@IBIS_000:@OBJN_000:@FONT_001:@TEXT_000:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+@COLR_000:65,65,65
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+@FONT_000:0,0,0,NORMAL,0,0
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tpmtlb00.bmp,0,0,0,0,0,0
+@BMAP_001:tbaslg01.bmp,0,0,0,0,0,0
+@BMAP_002:tbexit01.bmp,0,0,0,0,0,0
+@BMAP_003:tbexit02.bmp,0,0,0,0,0,0
+@BMAP_004:tbexit03.bmp,0,0,0,0,0,0
+@BMAP_005:tblnxt01.bmp,0,0,0,0,0,0
+@BMAP_006:tblnxt02.bmp,0,0,0,0,0,0
+@BMAP_007:tblnxt03.bmp,0,0,0,0,0,0
+@BMAP_008:tbexit04.bmp,0,0,0,0,0,0
+@BMAP_009:tbexit01a.bmp,0,0,0,0,0,0
+@BMAP_010:tbexit02a.bmp,0,0,0,0,0,0
+@BMAP_011:tbexit03a.bmp,0,0,0,0,0,0
+@BMAP_012:tbexit04a.bmp,0,0,0,0,0,0
+@BMAP_013:tbexit01b.bmp,0,0,0,0,0,0
+@BMAP_014:tbexit02b.bmp,0,0,0,0,0,0
+@BMAP_015:tbexit03b.bmp,0,0,0,0,0,0
+@BMAP_016:tbexit04b.bmp,0,0,0,0,0,0
+@BMAP_017:tbfrpy01.bmp,0,0,0,0,0,0
+@BMAP_018:tbfrpy02.bmp,0,0,0,0,0,0
+@BMAP_019:tbfrpy03.bmp,0,0,0,0,0,0
+@BMAP_020:tbresu01.bmp,0,0,0,0,0,0
+@BMAP_021:tbresu02.bmp,0,0,0,0,0,0
+@BMAP_022:tbresu03.bmp,0,0,0,0,0,0
+@BMAP_023:tbresu05.bmp,0,0,0,0,0,0
+@BMAP_024:tbfrpy04.bmp,0,0,0,0,0,0
+@BMAP_025:tbrept01.bmp,0,0,0,0,0,0
+@BMAP_026:tbrept02.bmp,0,0,0,0,0,0
+@BMAP_027:tbrept03.bmp,0,0,0,0,0,0
+@BMAP_028:tbrept04.bmp,0,0,0,0,0,0
+@BMAP_029:tbskip01.bmp,0,0,0,0,0,0
+@BMAP_030:tbskip02.bmp,0,0,0,0,0,0
+@BMAP_031:tbskip03.bmp,0,0,0,0,0,0
+@BMAP_032:tbcont03.bmp,0,0,0,0,0,0
+@BMAP_033:tbcont04.bmp,0,0,0,0,0,0
+@BMAP_034:tbskip04.bmp,0,0,0,0,0,0
+@BMAP_035:tbpaus01.bmp,0,0,0,0,0,0
+@BMAP_036:tbpaus02.bmp,0,0,0,0,0,0
+@BMAP_037:tbpaus03.bmp,0,0,0,0,0,0
+@BMAP_038:tbcont01.bmp,0,0,0,0,0,0
+@BMAP_039:tbcont02.bmp,0,0,0,0,0,0
+@BMAP_040:tbcont05.bmp,0,0,0,0,0,0
+@BMAP_041:tbpaus04.bmp,0,0,0,0,0,0
+@BMAP_042:tbmenu01.bmp,0,0,0,0,0,0
+@BMAP_043:tbmenu02.bmp,0,0,0,0,0,0
+@BMAP_044:tbmenu03.bmp,0,0,0,0,0,0
+@BMAP_045:tbmenu04.bmp,0,0,0,0,0,0
+@BMAP_046:tbsten01.bmp,0,0,0,0,0,0
+@BMAP_047:tbsten02.bmp,0,0,0,0,0,0
+@BMAP_048:tbsten03.bmp,0,0,0,0,0,0
+@BMAP_049:tbpubk01.bmp,0,0,0,0,0,0
+@BMAP_050:tbpubk02.bmp,0,0,0,0,0,0
+@BMAP_051:tbpubk03.bmp,0,0,0,0,0,0
+@BMAP_052:tbtxrunway01.bmp,0,0,0,0,0,0
+@BMAP_053:tbtxrunway03.bmp,0,0,0,0,0,0
+@BMAP_054:tbrtkof01.bmp,0,0,0,0,0,0
+@BMAP_055:tbtkof01.bmp,0,0,0,0,0,0
+@BMAP_056:tbtkof02.bmp,0,0,0,0,0,0
+@BMAP_057:tbtkof03.bmp,0,0,0,0,0,0
+@BMAP_058:tbtkof04.bmp,0,0,0,0,0,0
+@BMAP_059:lrunway01.bmp,0,0,0,0,0,0
+@BMAP_060:lrunway03.bmp,0,0,0,0,0,0
+@BMAP_061:lrunway04.bmp,0,0,0,0,0,0
+@BMAP_062:tbsten04.bmp,0,0,0,0,0,0
+@BMAP_063:tbpubk05.bmp,0,0,0,0,0,0
+@BMAP_064:tbtkof05.bmp,0,0,0,0,0,0
+@BMAP_065:tbtxrunway04.bmp,0,0,0,0,0,0
+@BMAP_066:lrunway02.bmp,0,0,0,0,0,0
+@BMAP_067:tbrtkof04.bmp,0,0,0,0,0,0
+@BMAP_068:tbtoga01.bmp,0,0,0,0,0,0
+@BMAP_069:tbtoga02.bmp,0,0,0,0,0,0
+@BMAP_070:tbtoga03.bmp,0,0,0,0,0,0
+@BMAP_071:tbtoga04.bmp,0,0,0,0,0,0
+@BMAP_072:tbsnap01.bmp,0,0,0,0,0,0
+@BMAP_073:tbsnap02.bmp,0,0,0,0,0,0
+@BMAP_074:tbsnap03.bmp,0,0,0,0,0,0
+@BMAP_075:tbsnap04.bmp,0,0,0,0,0,0
+@BMAP_076:tbaccl01.bmp,0,0,0,0,0,0
+@BMAP_077:tbaccl02.bmp,0,0,0,0,0,0
+@BMAP_078:tbaccl03.bmp,0,0,0,0,0,0
+@BMAP_079:tbaccl05.bmp,0,0,0,0,0,0
+@BMAP_080:tbaccl04.bmp,0,0,0,0,0,0
+@BMAP_081:tbfltfrz01.bmp,0,0,0,0,0,0
+@BMAP_082:tbfltfrz03.bmp,0,0,0,0,0,0
+@BMAP_083:tbfltfrz04.bmp,0,0,0,0,0,0
+@BMAP_084:tbfltfrz05.bmp,0,0,0,0,0,0
+@BMAP_085:tbfltfrz02.bmp,0,0,0,0,0,0
+@BMAP_086:tblayo01.bmp,0,0,0,0,0,0
+@BMAP_087:tblayo02.bmp,0,0,0,0,0,0
+@BMAP_088:tblayo03.bmp,0,0,0,0,0,0
+@BMAP_089:tblayo04.bmp,0,0,0,0,0,0
+@BMAP_090:tbhelp01.bmp,0,0,0,0,0,0
+@BMAP_091:tbhelp02.bmp,0,0,0,0,0,0
+@BMAP_092:tbhelp03.bmp,0,0,0,0,0,0
+@BMAP_093:tbhelp04.bmp,0,0,0,0,0,0
+@BMAP_094:tblnhp01.bmp,0,0,0,0,0,0
+@BMAP_095:tblnhp03.bmp,0,0,0,0,0,0
+@BMAP_096:tblnhp04.bmp,0,0,0,0,0,0
+@BMAP_097:tbfrz01.bmp,0,0,0,0,0,0
+@BMAP_098:tbfrz03.bmp,0,0,0,0,0,0
+@BMAP_099:tbfrz04.bmp,0,0,0,0,0,0
+@BMAP_100:tbfrz05.bmp,0,0,0,0,0,0
+@BMAP_101:tbfrz02.bmp,0,0,0,0,0,0
+@BMAP_102:tbtoga05.bmp,0,0,0,0,0,0
+@BMAP_103:tbtoga06.bmp,0,0,0,0,0,0
+@BMAP_104:tbtoga07.bmp,0,0,0,0,0,0
+@BMAP_105:tbtoga08.bmp,0,0,0,0,0,0
+@BMAP_106:ttvstrip.bmp,0,0,0,0,0,0
+@BMAP_107:tbmenumalf01.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBASLG}:N,3,3,79,38,{Aerosim},@BMAP_001:3:3
+@HOTS_001:{TBEXIT}:H2N,85,2,48,40,{Exit},@BMAP_002:85:2,@BMAP_003:85:2,@BMAP_004:85:2,\
+	@BMAP_005:85:2,@BMAP_006:85:2,@BMAP_007:85:2,\
+	@BMAP_008:85:2,@BMAP_003:85:2,@BMAP_008:85:2,\
+	@BMAP_009:85:2,@BMAP_010:85:2,@BMAP_011:85:2,\
+	@BMAP_012:85:2,@BMAP_010:85:2,@BMAP_012:85:2,\
+	@BMAP_013:85:2,@BMAP_014:85:2,@BMAP_015:85:2,\
+	@BMAP_016:85:2,@BMAP_014:85:2,@D,\
+	@HSTYLE:11,@N,0,2
+@HOTS_002:{TBFRPY}:H2N,135,2,48,40,{Free Play},@BMAP_017:135:2,@BMAP_018:135:2,@BMAP_019:135:2,\
+	@BMAP_020:135:2,@BMAP_021:135:2,@BMAP_022:135:2,\
+	@BMAP_023:135:2,@BMAP_023:135:2,@BMAP_023:135:2,\
+	@BMAP_024:135:2,@BMAP_018:135:2,@BMAP_024:135:2,\
+	@HSTYLE:11,@N,0,3
+@HOTS_003:{TBREPT}:H2N,183,2,48,40,{Lesson Repeat},@BMAP_025:183:2,@BMAP_026:183:2,@BMAP_027:183:2,\
+	@BMAP_028:183:2,@BMAP_026:183:2,@BMAP_028:183:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_004:{TBSKIP}:H2N,231,2,48,40,{Lesson Skip},@BMAP_029:231:2,@BMAP_030:231:2,@BMAP_031:231:2,\
+	@BMAP_032:231:2,@BMAP_032:231:2,@BMAP_033:231:2,\
+	@BMAP_029:231:2,@BMAP_030:231:2,@BMAP_031:231:2,\
+	@BMAP_034:231:2,@BMAP_030:231:2,@BMAP_034:231:2,\
+	@HSTYLE:11,@N,0,3
+@HOTS_005:{TBPAUS}:H2N,279,2,48,40,{Lesson Pause},@BMAP_035:279:2,@BMAP_036:279:2,@BMAP_037:279:2,\
+	@BMAP_038:279:2,@BMAP_039:279:2,@BMAP_032:279:2,\
+	@BMAP_040:279:2,@BMAP_040:279:2,@BMAP_040:279:2,\
+	@BMAP_041:279:2,@BMAP_036:279:2,@BMAP_041:279:2,\
+	@HSTYLE:11,@N,0,3
+@HOTS_006:{TBMENU}:H2N,629,2,48,40,{Sim Control},@BMAP_042:629:2,@BMAP_043:629:2,@BMAP_044:629:2,\
+	@BMAP_045:629:2,@BMAP_043:629:2,@BMAP_045:629:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_007:{TBSTEN}:H2N,680,2,48,40,{Start Engine},@BMAP_046:680:2,@BMAP_047:680:2,@BMAP_048:680:2,\
+	@BMAP_049:680:2,@BMAP_050:680:2,@BMAP_051:680:2,\
+	@BMAP_052:680:2,@BMAP_053:680:2,@N,\
+	@BMAP_054:680:2,@BMAP_054:680:2,@N,\
+	@BMAP_055:680:2,@BMAP_056:680:2,@BMAP_057:680:2,\
+	@BMAP_058:680:2,@BMAP_058:680:2,@BMAP_058:680:2,\
+	@BMAP_059:680:2,@BMAP_060:680:2,@BMAP_061:680:2,\
+	@BMAP_062:680:2,@BMAP_047:680:2,@BMAP_062:680:2,\
+	@BMAP_063:680:2,@BMAP_050:680:2,@N,\
+	@BMAP_064:680:2,@BMAP_056:680:2,@N,\
+	@BMAP_065:680:2,@BMAP_053:680:2,@N,\
+	@BMAP_066:680:2,@BMAP_060:680:2,@N,\
+	@BMAP_067:680:2,@N,@N,\
+	@HSTYLE:11,@N,0,7
+@HOTS_008:{TBTOGA}:H2N,728,2,48,40,{Takeoff Go Around},@BMAP_068:728:2,@BMAP_069:728:2,@BMAP_070:728:2,\
+	@BMAP_071:728:2,@BMAP_069:728:2,@BMAP_071:728:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_009:{TBSNAP}:H2N,778,2,48,40,{Snap Shot},@BMAP_072:778:2,@BMAP_073:778:2,@BMAP_074:778:2,\
+	@BMAP_075:778:2,@BMAP_073:778:2,@BMAP_075:778:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_010:{TBACCL}:H2N,826,2,48,40,{X10 Accel},@BMAP_076:826:2,@BMAP_077:826:2,@BMAP_078:826:2,\
+	@BMAP_079:826:2,@BMAP_077:826:2,@BMAP_078:826:2,\
+	@BMAP_080:826:2,@BMAP_077:826:2,@BMAP_080:826:2,\
+	@HSTYLE:11,@N,0,2
+@HOTS_011:{TBFLFZ}:H2N,876,2,48,26,{Flight Freeze},@BMAP_081:876:2,@BMAP_082:876:2,@BMAP_083:876:2,\
+	@BMAP_084:876:2,@BMAP_082:876:2,@BMAP_083:876:2,\
+	@BMAP_085:876:2,@BMAP_082:876:2,@BMAP_083:876:2,\
+	@HSTYLE:11,@N,0,2
+@HOTS_012:{TBLAYO}:H2N,926,2,48,40,{Navigation},@BMAP_086:926:2,@BMAP_087:926:2,@BMAP_088:926:2,\
+	@BMAP_089:926:2,@BMAP_087:926:2,@BMAP_089:926:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_013:{TBHELP}:H2N,976,2,48,40,{Application Help},@BMAP_090:976:2,@BMAP_091:976:2,@BMAP_092:976:2,\
+	@BMAP_093:976:2,@BMAP_091:976:2,@BMAP_093:976:2,\
+	@BMAP_094:976:2,@BMAP_095:976:2,@BMAP_096:976:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_014:{TBFZMENU}:H2N,876,28,48,14,{Freeze},@BMAP_097:876:28,@BMAP_098:876:28,@BMAP_099:876:28,\
+	@BMAP_100:876:28,@BMAP_098:876:28,@BMAP_099:876:28,\
+	@BMAP_101:876:28,@BMAP_098:876:28,@BMAP_099:876:28,\
+	@HSTYLE:11,@N,0,2
+@HOTS_015:{TBTOGA2}:H2N,728,2,48,40,{Go Around},@BMAP_102:728:2,@BMAP_103:728:2,@BMAP_104:728:2,\
+	@BMAP_105:728:2,@BMAP_103:728:2,@BMAP_105:728:2,\
+	@HSTYLE:11,@N,0,1
+@HOTS_016:{Separator}:N,327,2,2,40,@BMAP_106:327:2,@BMAP_106:327:2
+
+//Elements
+@ELEM_000:{bar1}:N,83,2,@BMAP_106
+@ELEM_001:{bar1}:N,133,2,@BMAP_106
+@ELEM_002:{bar1}:N,627,2,@BMAP_106
+@ELEM_003:{bar1}:N,677,2,@BMAP_106
+@ELEM_004:{bar1}:N,776,2,@BMAP_106
+@ELEM_005:{bar1}:N,924,2,@BMAP_106
+@ELEM_006:{bar1}:N,974,2,@BMAP_106
+@ELEM_007:{bar1}:N,874,2,@BMAP_106
+@ELEM_008:{MALFINDICATION}{m_pIO->I_bElement9}:N,631,6,@D{0},@BMAP_107{1}
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

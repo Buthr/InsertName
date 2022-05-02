@@ -1,0 +1,43 @@
+F-1.1@For preflight, you set the fuel control panel for engine start. First, make sure the ENG VALVE and SPAR VALVE CLOSED lights are illuminated dim...|
+F-1.2@and the FILTER BYPASS lights are extinguished.
+|
+F-1.3@Close the crossfeed valve.
+|
+F-1.4@Make sure the VALVE OPEN light is extinguished...|
+F-1.5@and the total fuel quantity matches dispatch requirements.
+|
+F-2.1@Now turn on the fuel pumps for the tanks that contain fuel.
+|
+F-2.2@Make sure the LOW PRESSURE lights are extinguished.
+|
+F-2.3@The fuel control panel is now set for engine start.
+|
+F-3.1@We now discuss fuel management for normal flight operations.
+|
+F-3.2@Fuel must be balanced for taxi, takeoff, cruise and landing.
+|
+F-3.3@The 2 main fuel tanks must be full if the center fuel tank has more than 998 pounds of fuel.
+|
+F-3.4@The maximum permitted difference in fuel quantities between the main tanks is 998 pounds. If the difference is more than 998 pounds, an amber IMBAL alert is shown on the indicator with the lower fuel quantity. 
+|
+F-3.5@
+|
+F-4.1@For normal ground operations, the APU uses suction to get fuel from main fuel tank number 1...|
+F-4.2@but extended APU operations can cause a fuel imbalance.
+|
+F-4.3@If extended APU operations are required, fuel from the center tank is used to prevent an imbalance. Turn on the left center tank fuel pump.
+|
+F-4.4@Now the APU gets fuel from the center tank.
+|
+F-5.1@The flight is completed and the airplane is at the gate. 
+|
+F-5.2@After engine shutdown, turn off all the fuel pumps. 
+|
+F-5.3@
+|
+Fuel System Normal Operations: Preflight, Balance and Shutdown
+|
+
+|
+Configuration Sensitive: Kgs/Side by side engine display
+|

@@ -1,0 +1,22 @@
+F-1.1@Arm the autothrottle.
+|
+F-1.1W1@Touch the autothrottle arm switch on the MCP.
+|
+F-1.2@Engage the autothrottle in SPEED mode.
+|
+F-1.2W1@Push the SPEED mode select switch on the MCP.
+|
+F-2.1@Disengage the autothrottle.
+|
+F-2.1W1@Touch an autothrottle disengage switch on the thrust levers.
+|
+F-2.2@Cancel the warning.
+|
+F-2.2W1@Touch an autothrottle disengage switch a second time.
+|
+Autothrottle Activation Practice
+|
+Configuration Sensitive: Options: as required; rest is basic 
+|
+Note: References to flight director are for integrated cue. MCP has blanks for SPD and ALT intervention.
+|

@@ -1,0 +1,15 @@
+F-1.1@Set the autobrake system for takeoff.
+|
+F-1.1W1@Set the AUTO BRAKE select switch to RTO.
+|
+F-1.2@Set the autobrake system for after takeoff.
+|
+F-1.2W1@Set the AUTO BRAKE select switch to OFF.
+|
+Set autobrakes for takeoff and after takeoff
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+

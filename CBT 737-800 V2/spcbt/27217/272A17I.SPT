@@ -1,0 +1,67 @@
+F-1.1@The secondary flight controls add lift or drag and help in flight path adjustment. 
+|
+F-1.2@The spoilers/speedbrakes help roll the airplane, add drag to slow the airplane or increase the rate of descent.
+|
+F-1.3@The leading edge devices add lift for slower approach and landing speeds.
+|
+F-1.4@The trailing edge flaps also add lift and drag for slower approach and landing speeds.
+|
+F-2.1@Each wing has 4 flight spoilers and 2 ground spoilers.
+|
+F-2.2@The flight spoilers are operated manually in flight to slow the airplane or increase the rate of descent,...|
+F-2.3@or automatically to help the ailerons in roll control.
+|
+F-2.4@You must be careful when you operate the flight spoilers manually and the airplane is turned. The airplane roll rate can quickly increase.
+|
+F-3.1@The ground spoilers operate with the flight spoilers on the ground.
+|
+F-3.2@The flight spoilers use hydraulic systems A and B. 
+|
+F-3.3@The ground spoilers use hydraulic system A.
+|
+F-4.1@The controls and indicators for the spoilers/speedbrakes are found here.
+|
+F-4.2@The SPEED BRAKE lever is on the Captain's side of the control stand.
+|
+F-4.3@In the DOWN detent position, all flight and ground spoiler panels are down.
+|
+F-4.4@The ARMED position is for automatic operation.
+|
+F-4.5@On landing, the SPEED BRAKE lever moves to the UP position and all spoiler panels extend.
+|
+F-4.6@In the FLIGHT DETENT position, all flight spoilers extend to the maximum position.
+|
+F-4.7@In the UP position all flight and ground spoilers extend to their maximum position. The UP position is used only on the ground.
+|
+F-5.1@The SPEED BRAKE ARMED light is on the Captain's instrument panel and shows that the speedbrake system is armed for automatic inputs.
+|
+F-5.2@The SPEEDBRAKES EXTENDED light on the First Officer's instrument panel illuminates in flight when the SPEED BRAKE lever is out of the ARMED position,...|
+F-5.3@and the trailing edge flaps are extended to more than flaps 10,...|
+F-5.4@or radio altitude is less than 800 feet.
+|
+F-5.5@The SPEEDBRAKES EXTENDED light illuminates on the ground when the SPEED BRAKE lever is in the DOWN detent position and the ground spoilers are not stowed.
+|
+F-6.1@The spoilers are set to operate automatically on landing or during a rejected takeoff. 
+|
+F-6.2@To operate automatically on landing, you must have the SPEED BRAKE lever in the ARMED position and the SPEED BRAKE ARMED light illuminated,...|
+F-6.3@the thrust levers in the idle position,...|
+F-6.4@a main landing gear wheel speed of more than 60 knots,...|
+F-6.5@and a landing gear strut compression.
+|
+F-6.6@When the left main, right main or nose gear strut compresses, the flight spoilers move up.
+|
+F-6.7@When the right main gear strut compresses, the ground spoilers move up.
+|
+F-7.1@During a rejected takeoff all spoilers operate...|
+F-7.2@if the AUTO BRAKE select switch is in the RTO position,...|
+F-7.3@main landing gear wheel speed is more than 60 knots,...|
+F-7.4@the thrust levers are in idle,...|
+F-7.5@and the reverse thrust levers are moved to reverse thrust.
+|
+F-8.1@The SPOILER switches on the flight control panel are for maintenance use only.
+|
+Title: Secondary Flight Controls - Spoilers/Speedbrakes
+|
+Configuration Sensitive: Options: 
+|
+

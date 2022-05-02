@@ -1,0 +1,16 @@
+F-1.1@When descending below 10,000 feet, set the air conditioning/bleed air controls panel for a no engine bleed landing.
+|
+F-1.1D1@First, make sure the right pack is in AUTO.
+|
+F-1.1D2@Close the isolation valve.
+|
+F-1.1D3@Make sure the left pack is in AUTO.
+|
+F-1.1D4@Turn off the number 1 engine bleed.
+|
+F-1.1D5@Turn on the APU bleed.
+|
+F-1.1D6@Turn off the number 2 engine bleed.
+|
+F-1.2@The air conditioning/bleed air controls panel is now set for a no engine bleed landing.
+|

@@ -1,0 +1,11 @@
+F-1.1@Just a little bit more information on Derate and Assumed Temperature.
+|
+F-1.2@Yes, you can combine Assumed Temperature with a derate.
+|
+F-1.3@Sometimes you might be able to use Assumed Temperature when derate would not be allowed.
+|
+F-1.4@For example, suppose the scheduled takeoff weight is less than the performance limited takeoff weight at the full thrust rating...|
+F-1.5@ but higher than the performance limited weight at Takeoff Derate 1.
+|
+F-1.6@In this case derate would not be allowed, but the assumed temperature method could be used to achieve a small thrust reduction, and remember it's the first bit of thrust reduction which has the greatest effect on engine reliability and maintenance costs.
+|

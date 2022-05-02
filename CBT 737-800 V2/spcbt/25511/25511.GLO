@@ -1,0 +1,273 @@
+AC	alternating current
+A/C	air conditioning
+ACARS	aircraft communications addressing and reporting system
+ACM	air cycle machine
+ACMS	airplane condition monitoring function
+ACP	audio control panel
+ADC	air data computer
+ADF	automatic direction finder
+ADI	attitude director indicator
+ADM	air data module
+AFCS	automatic flight control system
+AFDC	autopilot flight director computer
+AFDS	autopilot flight director system
+AFM	airplane flight manual
+AFS	automatic flight system
+A/G	air/ground
+AGL	above ground level
+AIMS	airplane information management system
+ALT	altitude
+ALT HOLD	altitude hold
+ALTN	alternate
+AM	amplitude modulation
+AMP	amperes
+AN/CDU	alternate navigation CDU
+ANS	 alternate navigation system
+ANNUNC	annunciator
+AOA	angle of attack
+A/P	autopilot
+APL	 airplane
+APP	approach
+APRT	airport
+APU	auxiliary power unit
+ARINC	Aeronautical Radio, Incorporated
+ARPT	airport
+A/S	airspeed
+ASP	audio selector panel
+ASYM	asymmetrical
+ATC	air traffic control
+ATT	attitude
+A/T	autothrottle
+A/P	autopilot
+AUTO	automatic
+AUX	auxiliary
+AVM	airborne vibration monitor
+
+BARO	barometric
+BAT	battery
+BATT	battery
+BC	back course
+BIT	built-in test
+BITE	built-in test equipment
+BKGRD	background
+BRT	bright
+
+C	captain
+¡C	degrees celsius
+CAA	civil aviation authority
+CAP	capture
+CAPT	captain
+CAS calibrated airspeed
+CCW	couterclockwise
+CDU	control display unit
+CG	center of gravity
+CLB	climb
+CMD	command
+CMPTR	computer
+CONFIG	configuration
+CONT	continuous
+CPCS	cabin pressure control system
+CRT	cathode ray tube
+CRZ	cruise
+CSD	 constant speed drive
+CTAI	cowl thermal anti-icing
+CU	control unit
+CW	clockwise
+CWS	control wheel steering
+
+DA	drift angle
+DC	direct current
+DCPCS	digital cabin pressure control system
+DEG	degree
+DEP	departure
+DEPT	departure
+DES	destination
+DEST	destination
+DEV	deviation
+DFDAU	digital flight data acquisition unit
+DFDR	digital flight data recorder
+DH	decision height
+DIR	direct
+DIST	distance
+DME	distance measuring equipment
+DN	down
+DSP	display select panel
+DTG	 distance to go
+DU	display unit
+
+EAI	engine anti-ice
+EADI	electronic attitude director indicator
+E/D	end of descent
+EDP	engine driven pump
+EEC	electronic engine control
+EFIS	electronic flight instrument system
+EGT	exhaust gas temperature
+EHSI	electronic horizontal situation indicator
+EICAS	engine indication and crew alerting system
+EIS	engine instrument system
+ELEC	electrical, electronic
+ENG	engine
+EQUIP	equipment
+ETOPS	extended twin engine operations
+EXT	external
+EXTIN	extinguish, extinguished
+EXTING	extinguishing
+
+¡F	degrees farenheit
+FAA	federal aviation administration
+FADEC	full authority digital electronic control
+FAF	final approach fix
+FCC	flight control computer
+FCU	fuel control unit
+FD	flight director
+F/D	flight director
+FDAU	flight data acquisition unit
+FDR	flight data recorder
+FDS	flight director system
+FL	flight level
+FLT	flight
+FLT DIR	flight director
+FMA	flight mode annunciator
+FMC	flight management computer
+FMCS	flight management computer system
+FMS	flight management system
+FMU	fuel metering unit
+FPA	flight path angle
+FPV	flight path vector
+FSEU	flap slat electronics unit
+FT	feet, foot 
+F/D	flight director
+FWD	forward
+
+G/A	go-around
+GEN	generator
+GMT	greenwich mean time
+GND	ground
+GPS	 global positioning system
+GPWC	ground proximity warning computer
+GPWS	ground proximity warning system
+GRD	ground
+GS	ground speed
+G/S	glide slope
+GW	gross weight
+
+HDG	heading
+HDG HOLD	heading hold
+HDG SEL	heading select
+HG	mercury
+HF	high frequency
+HYD hydraulic
+HZ	hertz (cycles per second)
+
+IAF	intital approach fix
+IAS	indicated air speed
+I/C	intercom
+IDENT	identification
+IDG	integrated drive generator
+IGV	inlet guide vane
+ILS	instrument landing system
+INBD	inboard
+INFLT	inflight
+INOP	inoperative
+INS	inertial navigation system
+IRS	inertial reference system
+IRU	inertial reference unit
+ISDU	inertial system display unit
+IV	isolation valve
+
+K	knots
+KT	knots
+KG	kilogram(s)
+KTS	knots
+KVA	kilovolt-ampere
+
+LB	pound(s)
+LBS	pounds
+LE	leading edge
+LOC	localizer
+LNAV	lateral navigation
+
+M	mach
+MAG	magnetic
+MB	millibars
+MCP	mode control panel
+MEC	main engine control
+MFD	multi-function display
+MHZ	megahertz
+MMO	maximum operating speed in mach number
+MSG	message
+
+N1	low pressure compressor
+N2	high pressure compressor
+NAVAID	navigational aid
+ND	navigation display
+
+OAT	outside air temperature
+OVRD	override
+
+PA	passenger address
+PCU	power control unit
+PDS	primary display system
+PDU	power drive unit
+PFD	primary flight display
+PMC	power management control
+POS	position
+PPOS	present position
+P/S	pitot static
+PSI	pounds per square inch
+PTT	push-to-talk
+
+RA	radio altitude (in relation to radio altimeters) or resolution advisory (in relation to TCAS)
+RDMI	radio distance magnetic indicator
+REF	reference
+RT	receiver-transmitter
+R/T	receiver-transmitter
+RTE	route
+RTO	rejected takeoff
+RWY	runway
+
+SATCOM	satellite communication system
+SELCAL	selective calling
+STA	station
+STBY	standby
+
+TA	traffic advisory
+TAI	thermal anti-icing
+TAT	total air temperature
+T/C	top of climb
+TCAS	traffic alert and collision avoidance system
+T/D	top of descent
+TE	trailing edge
+THR HOLD	throttle hold
+TMCF	thrust management computer function
+TMCS	thrust management computer system
+TO	takeoff
+T/O	takeoff
+TOC	top of climb
+TO/GA	takeoff go-around
+TR	transformer rectifier
+T/R	thrust reverser
+TRK	track
+
+V1	takeoff decision speed
+V2	scheduled takeoff target speed
+VHF	very high frequency
+VMO	maximum operating speed
+VNAV	vertical navigation
+VOR	VHF omnidirectional range
+VOR LOC	vor localizer
+VR	rotation speed
+VREF	reference speed
+V/S	vertical speed
+VSCF	variable speed constant frequency
+VSI	vertical speed indicator
+
+
+WAI	wing anti-ice
+WPT	waypoint
+WTAI	wing thermal anti-icing
+WX	weather
+WXR	weather radar
+
+XTK	cross track
+

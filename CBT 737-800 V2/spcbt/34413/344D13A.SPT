@@ -1,0 +1,41 @@
+F-1.1@Put in the route as shown.
+|
+F-1.1W1@Show the RTE page.
+|
+F-1.2@
+|
+F-1.3@
+|
+F-1.4@
+|
+F-1.4W1@Show the NEXT PAGE.
+|
+F-1.5@
+|
+F-1.6@Show RTE page 1.
+|
+F-1.6W1@Push the PREV PAGE key.
+|
+F-1.7@Make the route active.
+|
+F-1.7D1@First activate the route.
+|
+F-1.7D2@Push the EXEC key.
+|
+F-2.1@Next, select the departure.
+|
+F-2.1W1@Show the KBFI DEPARTURES page, and select the correct departure.
+|
+F-2.2@Show the RTE page.
+|
+F-2.2W1@Push the line select key adjacent to ROUTE.
+|
+F-2.3@Remove the discontinuity and make the route the same as the clearance.
+|
+F-2.4@Execute the modification.
+|
+F-2.4W1@Push the EXEC key.
+|
+CDS Operations and Integration
+|
+

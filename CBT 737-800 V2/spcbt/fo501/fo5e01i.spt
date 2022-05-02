@@ -1,0 +1,42 @@
+F-1.1@There are some other considerations on the use of the performance adjustments provided in the Quick Reference Handbook and the Flight Planning and Performance Manual for a slippery or slush covered runway.
+|
+F-1.2@As stated many times, the slippery or slush covered runway performance adjustments are based on a 15 foot screen height.
+|
+F-1.3@If the slippery or slush covered runway performance adjustments are applied to dry runway, field length limit weight which takes credit for clearway, the height over the end of the runway following an engine failure at the critical point, will be lower than 15 feet.
+|
+F-1.4@In fact, the height over the end of the runway could be as low as zero at the liftoff end of the runway.
+|
+F-2.1@Assumed temperature reduced thrust is not allowed on a runway contaminated with slush, standing water, ice or snow.
+|
+F-2.2@Assumed temperature reduced thrust is allowed on a wet runway if suitable performance is scheduled to account for the increased stopping distance.
+|
+F-2.3@Derate is allowed on a contaminated or wet runway.
+|
+F-2.4@In fact, there are times when derate can be used to increase the takeoff weight on contaminated or slippery runways.
+|
+F-2.5@Yes, that is correct.  In special cases, lower thrust means more takeoff weight.
+|
+F-2.6@This is explained in the section on reduced thrust.
+|
+F-3.1@As we have seen earlier, the slippery and slush covered weight reductions are applied to the more limiting of the field length or obstacle limited weight.
+|
+F-3.2@This weight reduction, along with the associated V1 adjustment, results in the reduced weight taking the same engine out continued takeoff distance to reach 15 feet as original dry runway weight took to reach 35 feet. 
+|
+F-3.3@This ensures that all obstacles are cleared by a minimum of 15 feet.
+|
+F-3.4@In the case where the weight reduction is small, the obstacle clearance would be slightly higher than 15 feet.  For example, when the slippery runway data, labeled as good, is used.
+|
+F-3.5@In the case where the weight reduction is large, the obstacle clearance would be much higher than 15 feet because of the higher climb gradient capability at a lower weight.  For example, when the slush covered runway data is used.
+|
+F-4.1@The previous sections have covered the wet, slippery and contaminated runway performance data available in the Operations Manual and the Flight Planning and Performance Manual.
+|
+F-4.2@Boeing also provides this data to your airline in the form of a computer program.
+|
+F-4.3@Your airline may choose to use this program to create runway analysis for any of the previously discussed cases, and for dry snow of up to 4 inches.
+|
+F-4.4@In many cases the computer program will result in higher takeoff weights because of the increased precision in the calculation.
+|
+F-4.5@The computer program uses the same assumption of a reduced height at the end of the runway of 15 feet.  The program also allows credit for reverse thrust.
+|
+F-4.6@The computer program will result in net flight path clearing the obstacle by at least 15 feet.
+|

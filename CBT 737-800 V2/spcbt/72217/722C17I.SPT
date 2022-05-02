@@ -1,0 +1,42 @@
+F-1.1@Let's look at some non-normal thrust reverser conditions.
+|
+F-1.2@The thrust reverser system has an auto-restow feature. The auto-restow system compares the actual translating sleeve position and the commanded reverse lever position.
+|
+F-1.3@In the event of an incomplete stow or if a translating sleeve is sensed out of the stow position,...
+|
+F-1.4@the auto-restow system opens the isolation valve and directs hydraulic pressure to stow the reverser.
+|
+F-1.5@If the auto-restow system is activated, the isolation valve remains open and the control valve is held in the stow position until corrective maintenance action is taken,...
+|
+F-1.6@or the thrust reverser is deployed normally.
+|
+F-2.1@If the isolation valve or the selector valve is not in the commanded position, the REVERSER light on the aft overhead panel illuminates. In this example, the reverse thrust levers are stowed but the number 1 engine isolation valve is open.
+|
+F-2.2@The REVERSER light also illuminates if the auto-restow circuit is activated...
+|
+F-2.3@or if the positions of the left and right translating sleeves on each engine do not agree.
+|
+F-2.4@Since the light can illuminate during normal operation of the reverser, there is a time delay before the MASTER CAUTION and ENG system annunciation lights illuminate.
+|
+F-2.5@Reset the master caution system.
+|
+F-2.6@With the REVERSER light illuminated, flight crews should be aware that additional system failures can cause inflight deployment of the reversers. However, you can expect normal reverser operation after landing.
+|
+F-3.1@If the REV indication illuminates in flight, the indication is incorrect,... 
+|
+F-3.2@or a translating sleeve is mechanically unlocked.
+|
+F-3.3@If a translating sleeve has mechanically unlocked, the forward thrust lever may be restricted and the unstowed sleeve can produce some yaw or buffet.
+|
+F-3.4@The affected engine must be shutdown.
+|
+F-3.5@If the forward thrust lever is not restricted and no buffet or yaw exists, the REV indication is incorrect...
+|
+F-3.6@and the affected engine can be operated normally.
+|
+Non- Normal Conditions
+|
+
+|
+Configuration Sensitive: None
+|

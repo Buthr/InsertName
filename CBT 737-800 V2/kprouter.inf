@@ -1,0 +1,38 @@
+0;       Start line - lesson info
+55;      Start line - res info
+31;      Start line - color info
+***************************************************************
+***UPDATE THE NEXT 12 LINES    DO NOT DELETE THE SEMICOLONS!!!!
+07/30/97;     	DATE ORIGINALLY COMPLETED
+Jenny Ballard; 	ORIGINAL PROGRAMMER
+;	         	ORIGINAL DEVELOPER
+Jenny Ballard; 	REVISING PROGRAMMER
+03/01/00;             	REVISION DATE COMPLETION
+ARIAL;                	FONTS SEPARATED BY COMMAS
+kprouter.inf, B757INIT.txt, KPROUTER.ATX; EXT FILES SEPARATED BY COMMAS
+3;                           	RESOLUTION FROM CHOICES BELOW
+4;                           	COLOR DENSITY FROM CHOICES BELOW
+ATA router;        	LINE 1 REMARKS ~60 CHAR LIMIT/W/ SEMICOLON
+;    	           	LINE 2 REMARKS ~60 CHAR LIMIT/W/ SEMICOLON
+;	           	LINE 3 REMARKS ~60 CHAR LIMIT/W/ SEMICOLON
+; add router ATA-Airlines to Route 192.168.0.1 / W
+***************************************************************
+***SYSTEM SETTINGS
+Update INF_RES with 1-7 for your lesson resolution:
+(ex. 3 = 1024x768)
+1=;640x480
+2=;800x600
+3=;1024x768
+4=;Other
+5=;1280x800
+6=;0
+7=;0
+Update INF_COLOR with 1-7 for your lesson color density:
+(ex. 4 16 bit or 65K colors)
+1;16
+2;256
+3;32K
+4;65K
+5;16.7M
+6;Other
+7;0

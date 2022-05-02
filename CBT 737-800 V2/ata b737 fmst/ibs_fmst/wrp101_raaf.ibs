@@ -1,0 +1,83 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_002:@HOTS_019:@RECT_000:@ELEM_002:@IBIS_000:@OBJN_000:@FONT_000:@TEXT_000:
+
+//Panel Info
+@PANEL_NAME=WRP_RAAF
+@PANEL_DESCRIPTION=Weather Radar Panel
+@PANEL_AUTHOR=C. Thao
+@PANEL_PROJECT=b737ng
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:wrp_raaf.bmp,0,0,0,0,0,0
+@BMAP_001:wrp_raaf01.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TfrBtnL}{m_pIO->I_bTfrBtnL}:N,53,14,23,16,@D{0},@HR{1}
+@HOTS_001:{WxtBtnL}{m_pIO->I_bWxtBtnL}:N,95,14,23,16,@D{0},@HR{1}
+@HOTS_002:{WxBtnL}{m_pIO->I_bWxBtnL}:N,136,14,23,16,@D{0},@HR{1}
+@HOTS_003:{MapBtnL}{m_pIO->I_bMapBtnL}:N,179,14,23,16,@D{0},@HR{1}
+@HOTS_004:{IdntBtnL}{m_pIO->I_bIdntBtnL}:N,220,14,24,16,@D{0},@HR{1}
+@HOTS_005:{TfrBtnR}{m_pIO->I_bTfrBtnR}:N,53,100,23,16,@D{0},@HR{1}
+@HOTS_006:{WxtBtnR}{m_pIO->I_bWxtBtnR}:N,95,100,23,16,@D{0},@HR{1}
+@HOTS_007:{WxBtnR}{m_pIO->I_bWxBtnR}:N,137,100,23,16,@D{0},@HR{1}
+@HOTS_008:{MapBtnR}{m_pIO->I_bMapBtnR}:N,180,100,23,16,@D{0},@HR{1}
+@HOTS_009:{IdntBtnR}{m_pIO->I_bIdntBtnR}:N,221,99,23,16,@D{0},@HR{1}
+@HOTS_010:{TestBtn}{m_pIO->I_bTestBtn}:N,137,56,23,16,@D{0},@HR{1}
+@HOTS_011:{TiltKnbL_Dec}{m_pIO->I_iTiltKnbL}:R05H2N,10,70,26,24,@D,@HR{m_pIO->I_iTiltKnbL-1},\
+	@HSTYLE:4,@N,1,37,96,63,10,70,YELLOW,0,0,0,0
+@HOTS_012:{TiltKnbL_Inc}{m_pIO->I_iTiltKnbL}:R05H2N,63,70,26,24,@D,@HR{m_pIO->I_iTiltKnbL+1},\
+	@HSTYLE:3,@N,1,37,96,63,63,70,YELLOW,0,0,0,0
+@HOTS_013:{GainKnbL_Dec}{m_pIO->I_iGainKnbL}:R05H2N,19,43,26,24,@D,@HR{m_pIO->I_iGainKnbL-1},\
+	@HSTYLE:4,@N,1,37,96,63,19,43,YELLOW,0,0,0,0
+@HOTS_014:{GainKnbL_Inc}{m_pIO->I_iGainKnbL}:R05H2N,54,43,26,24,@D,@HR{m_pIO->I_iGainKnbL+1},\
+	@HSTYLE:3,@N,1,37,96,63,54,43,YELLOW,0,0,0,0
+@HOTS_015:{TiltKnbR_Dec}{m_pIO->I_iTiltKnbR}:R05H2N,206,70,26,24,@D,@HR{m_pIO->I_iTiltKnbR-1},\
+	@HSTYLE:4,@N,204,35,88,63,206,70,YELLOW,0,0,0,0
+@HOTS_016:{TiltKnbR_Inc}{m_pIO->I_iTiltKnbR}:R05H2N,257,70,27,24,@D,@HR{m_pIO->I_iTiltKnbR+1},\
+	@HSTYLE:3,@N,204,35,88,63,257,70,YELLOW,0,0,0,0
+@HOTS_017:{GainKnbR_Dec}{m_pIO->I_iGainKnbR}:R05H2N,218,43,26,24,@D,@HR{m_pIO->I_iGainKnbR-1},\
+	@HSTYLE:4,@N,204,35,88,63,218,43,YELLOW,0,0,0,0
+@HOTS_018:{GainKnbR_Inc}{m_pIO->I_iGainKnbR}:R05H2N,250,43,26,24,@D,@HR{m_pIO->I_iGainKnbR+1},\
+	@HSTYLE:3,@N,204,35,88,63,250,43,YELLOW,0,0,0,0
+
+//Elements
+@ELEM_000:{GainUncalibratedLightL}{m_pIO->O_bGainUncalibratedLightL}:N,100,60,@D{0},@BMAP_001{1}
+@ELEM_001:{GainUncalibratedLightR}{m_pIO->O_bGainUncalibratedLightR}:N,184,61,@D{0},@BMAP_001{1}
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOB_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

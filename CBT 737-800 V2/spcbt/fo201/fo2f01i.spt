@@ -1,0 +1,23 @@
+F-1.1@This lesson will discuss how stabilizer trim setting is chosen, and where information about stabilizer trim setting can be found.
+|
+F-2.1@Stabilizer takeoff trim setting is chosen to meet several different requirements.
+|
+F-2.2@Stabilizer setting is chosen to produce desired column forces during the takeoff rotation.
+|
+F-2.3@The setting is also chosen so that the airplane is very nearly trimmed for the all-engine, V2 + 15 condition and for the engine-out, V2 condition.
+|
+F-3.1@Stabilizer trim setting for takeoff is presented in your Quick Reference Handbook. 
+|
+F-3.2@Trim setting may depend on combinations of airplane weight, center of gravity, flap setting and takeoff derate for different Boeing models.
+|
+F-3.3@For example, to find takeoff stabilizer trim setting for the 737, find the correct table for your takeoff flap.
+|
+F-3.4@Enter the table with your anticipated brake release weight|
+F-3.5@ and the takeoff center of gravity. 
+|
+F-3.6@Read the required stabilizer trim units.
+|
+F-3.7@This information is the same that you will find on your takeoff reference page of the FMC if you enter the same reference conditions.
+|
+F-3.8@Stabilizer trim settings are valid for assumed temperature reduced thrust and for improved climb takeoff, but may vary with takeoff derates.
+|

@@ -1,0 +1,8 @@
+FMC Descent	yes	yes	30	348	0
+VNAV Descent Profiles	=/348a13i	348a13i
+VNAV Descent Planning	=/348b13i	348b13i
+VNAV Path Descents	=/348c13i	348c13i
+VNAV Speed Descents	=/348d13i	348d13i
+Early VNAV Descents	=/348e13i	348e13i
+Inaccurate Forecasts	=/348f13i	348f13i
+VNAV Path Deviations	=/348g13i	348g13i

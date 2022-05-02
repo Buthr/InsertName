@@ -1,0 +1,18 @@
+F-1.1@Show the LEGS page.
+|
+F-2.1@When you push the LEGS key, LEGS page 1 is always shown.
+|
+F-2.2@Show the RTE DATA page.
+|
+F-3.1@A RTE DATA page is available for each related LEGS page. Push the NEXT PAGE key to show RTE DATA page 2.
+|
+F-3.2@Push the LEGS prompt to go back to LEGS page 2. 
+|
+F-3.2A1@The LEGS key will take you to page 1.
+|
+RTE DATA Page
+|
+
+|
+Configuration Sensitive: Options: MCDU
+|

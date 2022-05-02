@@ -1,0 +1,92 @@
+F-1.1@Each engine is monitored and controlled by an electronic engine control, or EEC. 
+|
+F-1.2@The EEC uses thrust lever position and flight conditions to control forward thrust, reverse thrust and idle.
+|
+F-1.3@The EEC supplies N1 and N2 redline protection. If N1 or N2 goes near the redline, the EEC commands a decrease in fuel flow. 
+|
+F-1.4@However you must monitor the EGT limit because the EEC does not supply EGT redline protection.
+|
+F-2.1@The controls for the EECs are on the aft overhead panel.
+|
+F-2.2@Both EEC switches are guarded and should be in the ON position for preflight and during normal operations.
+|
+F-2.3@The EECs have 2 modes of operation, normal and alternate. Let's first look at the normal mode.
+|
+F-3.1@When the EEC switch is in the normal position, the white ON light is in view. 
+|
+F-3.2@In the normal mode, the EEC calculates a commanded N1 value based on the thrust lever position... 
+|
+F-3.3@and flight conditions.
+|
+F-3.4@The EEC compares commanded N1 to actual N1 and adjusts fuel flow to change engine speed until actual N1 equals commanded N1.
+|
+|F-4.1@The EEC can operate in one of two alternate modes, soft or hard.
+| 
+F-4.2@If the necessary normal mode inputs are not available to the EEC, the EEC changes to the soft alternate mode automatically. In this example, an input to the number 1 engine EEC is gone.
+|
+F-4.3@The ALTN light, the ENG system annunciator and MASTER CAUTION lights illuminate.
+| 
+F-4.4@This mode is the soft alternate mode because the EEC switch stays in the ON position and the ALTN light has illuminated.
+| 
+F-4.5@The EEC now uses the thrust lever position and locks in the current ambient conditions to calculate maximum N1 data.
+| 
+F-4.6@The EEC then internally locks in this calculated maximum N1 to prevent uncommanded thrust changes .
+|
+F-4.7@The hard alternate mode is entered if the thrust lever is moved to idle or if ALTN is set with the EEC switch.
+|
+F-5.1@The hard alternate mode is also set with the EEC switches. You can manually set the alternate mode when you are in the normal mode or the soft alternate mode.
+|
+F-5.2@To control thrust in the hard alternate mode, the EEC uses thrust lever position with internal data.
+|
+F-5.3@The hard alternate mode removes the parameters that were locked in when the EEC went from normal mode to soft alternate mode. When the alternate modes are removed, thrust lever movement can occur.
+|
+F-5.4@Before you set the hard alternate mode, move the thrust levers to mid position and if the autothrottle is engaged, disengage it.
+|
+F-5.5@This prevents the engines from exceeding the thrust limits and allows the thrust levers to remain manually positioned.
+|
+F-5.6@Set the alternate mode for engine number 1. First lift the engine number 1 EEC switch guard.
+|
+F-5.7@Next, push the EEC switch.
+|
+F-5.8@The ON light goes out of view and the ALTN light stays illuminated. The EEC is in the hard alternate mode.
+
+|
+F-5.9@If 1 EEC is in the alternate mode, it is necessary to put the other EEC in the alternate mode. This makes sure the 2 engines operate in the same mode and there is no thrust lever stagger.
+|
+F-5.10@Next, we will discuss engine idle.
+|
+F-6.1@Three different idle modes are available to the EEC. They are ground minimum, flight minimum and approach. 
+|
+F-6.2@The EEC selects ground minimum idle for ground operations,...
+|
+F-6.3@flight minimum idle for most phases of flight,...
+|
+F-6.4@and approach idle in flight if flaps are in landing configuration...
+|
+F-6.5@or engine anti-ice is selected for either engine...
+|
+F-6.5.5@or there is a fault which prevents the EEC from receiving flap or anti-icesignals, and the aircraft is below 15,000 Ft.|
+F-6.6@Approach idle improves engine acceleration time for go-around.
+|
+F-6.7@Approach idle is maintained for 5 seconds after touchdown, then ground minimum idle is selected.
+|
+F-6.8@Finally we'll discuss the ENGINE CONTROL lights. 
+|
+F-7.1@The ENGINE CONTROL light illuminates if faults are detected by the EEC that require maintenance.
+|
+F-7.2@The light operates only when the airplane is on the ground.
+|
+F-7.3@The MASTER CAUTION and ENG system annunciator lights also illuminate.
+|
+F-7.4@Reset the master caution system.
+|
+F-7.5@If either ENGINE CONTROL lights illuminate, the airplane cannot be dispatched.
+|
+ Electronic Engine Control - EEC
+|
+
+|
+Configuration Sensitive: 
+|
+
+

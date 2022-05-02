@@ -1,0 +1,25 @@
+F-1.1@The ATC/TCAS control panel controls the transponder. The transponder increases the radar signal used in air traffic control. 
+|
+F-1.2@The ATC code selector and the code indicator are easy to use.
+|
+F-1.3@Use the altitude source selector to select an air data source for altitude data.
+|
+F-1.4@The transponder selector selects a transponder. The transponder in use is shown in the code indicator window.
+|
+F-1.5@In STBY no signal is transmitted. ON transmits a signal. AUTO transmits in flight, and does not transmit on the ground.
+|
+F-1.6@If the mode selector is in the altitude reporting off position the transponder continues to operate, but altitude reporting is stopped. TCAS is also off.
+|
+F-1.7@To operate the transponder without TCAS set the mode selector to XPNDR.
+|
+F-1.8@The transponder fail light illuminates during a test of the transponder.
+|
+F-1.9@The transponder fail light illuminates constantly to show a defective transponder.
+|
+Transponder Operation
+|
+
+|
+Configuration Sensitive: Options: Gables:G6990 panel .
+|
+

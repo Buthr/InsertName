@@ -1,0 +1,74 @@
+F-1.1@The electronic attitude indicator is the same as a conventional attitude indicator, but with some added features.
+|
+F-1.2@The bank indicator shows bank angle.
+|
+F-1.3@The indicator fills and turns amber when the bank angle is 35 degrees or more.
+|
+F-1.4@The slip/skid indicator is below the bank indicator.
+|
+F-1.5@The indicator fills for large displacements.
+|
+F-2.1@A pitch limit indication, or PLI , shows the pitch angle at which stick shaker occurs.
+|
+F-2.2@The PLI is shown when flaps are not up.
+|
+F-3.1@The flight director shows pitch and roll commands from the AFDS .
+|
+F-3.2@The flight director is shown when the related flight director switch is in the on position and command steering is available.
+|
+F-3.3@Now, move the Captain's flight director switch to OFF.
+|
+F-3.4@The flight director is not shown when the related fight director switch is in the OFF position or when command steering is not available.
+|
+F-4.1@The flight path vector symbol is shown when the flight path vector switch is pushed on the EFIS control panel.
+|
+F-4.2@The flight path vector symbol shows flight path angle relative to the horizon line and drift angle relative to the airplane symbol.
+|
+F-4.3@The symbol is bright when the flight director is not shown...|
+F-4.4@and dim when the flight director is shown. 
+|
+F-5.1@Conventional localizer and glideslope information are shown if an ILS frequency is tuned and received.
+|
+F-5.2@The localizer pointer shows localizer position in relation to the airplane's position.
+|
+F-5.3@The scale expands when localizer deviation is slightly more than one-half dot.
+|
+F-5.4@The scale turns amber and the pointer flashes to show large localizer deviation.
+|
+F-5.5@The glideslope pointer shows glideslope position in relation to the airplane's position.
+|
+F-5.6@The scale turns amber and the pointer flashes to show a glideslope deviation greater than 1 dot.
+|
+F-6.1@Radio altitude approach minimums are shown when the EFIS control panel minimums selector is set to RADIO.
+|
+F-6.2@You turn the inner knob to set the approach minimums.  Set 200 feet now.
+|
+F-6.3@Radio altitude is shown below 2500 feet AGL.
+|
+F-6.4@A rising runway is shown when the localizer pointer is in view and the radio altitude is less than 2500 feet AGL.
+|
+F-6.5@The radio altitude display and approach minimums change color as the radio altitude descends through the selected minimums.
+|
+F-6.6@The rising runway moves up to the airplane symbol below 200 feet radio altitude.
+|
+F-6.7@Now, let's look at failure flags.
+|
+F-7.1@Failure flags are shown if the radio altitude display fails,...|
+F-7.2@the flight director fails...|
+F-7.3@or the flight path vector display fails.  The related display is also removed.
+|
+F-7.4@Pitch or roll comparator flags are shown if the Captain's and First Officer's pitch or bank angle displays differ from each other by more than 5 degrees.
+|
+F-7.5@Localizer or glideslope flags show when the related display fails.  The related deviation scale is also removed.
+|
+F-7.6@The message DISPLAYS CONTROL PANEL shows with a failure of the EFIS control panel.
+|
+F-7.7@If the attitude display fails, the display is removed and the attitude flag shows.
+|
+Attitude Indicator
+|
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+
+

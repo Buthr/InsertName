@@ -1,0 +1,56 @@
+F-1.1@The takeoff data in the Operations Manual and the Flight Planning and Performance Manual are based on a dry runway...|
+F-1.2@with all equipment operating at the start of takeoff.
+|
+F-1.3@Data is also provided for wet or contaminated runways,...|
+F-1.4@and for cases where equipment is inoperative or deactivated.
+|
+F-1.5@The effects of these different conditions on takeoff performance will be discussed.
+|
+F-2.1@Before starting into the details of the takeoff performance adjustments there will be a brief discussion on the differences between a slippery and a contaminated runway.
+|
+F-2.2@A slippery runway is a runway with a reduced tire to ground friction capability due to the presence of water, ice, compact snow or other substances.
+|
+F-2.3@A slippery runway only affects the airplane's ability to decelerate.
+|
+F-2.4@A slippery runway does NOT affect the airplane's ability to accelerate.
+|
+F-3.1@On the other hand, a contaminated runway affects the ability of the airplane to accelerate as well as decelerate.
+|
+F-3.2@This would include runways contaminated by a measurable depth of slush, snow, or standing water.
+|
+F-3.3@This runway contamination creates a drag force which resists the airplane's ability to accelerate.
+|
+F-3.4@Runway contamination also reduces the tire to ground friction and therefore affects the airplane's ability to decelerate and stop.
+|
+F-4.1@Before we go into the detailed performance adjustments, let's spend a few minutes looking at WHY performance adjustments are applied.
+|
+F-4.2@Both JAA and FAA Airplane Flight Manuals contain field length limited takeoff weights based on a dry, smooth runway, with maximum manual braking.  They do not include credit for the use of reverse thrust.
+|
+F-4.3@To illustrate why performance adjustments are used, let's take a brief look at the effect of using normal dry runway field length limited takeoff weights when the runway is contaminated with slush.
+|
+F-4.4@For example, on a dry runway,  a 70,000 kilogram airplane would have a balanced field length of about 6100 feet and a V1 speed of 138 knots.
+|
+F-5.1@If a takeoff was performed on a runway covered with 6mm of slush using the normal dry runway dispatch data, the following would be the prediction for an emergency stop or the continued takeoff following an engine failure.
+|
+F-5.2@In the event of an emergency stop from V1 of 138 knots, we would predict an increase in stopping distance of about 6000 feet, even considering the benefits of one engine reverse thrust.
+|
+F-5.3@A better way to look at this effect is that the speed at the departure end of the runway would be approximately 120 knots.
+|
+F-5.4@If the decision is to continue the takeoff, following an engine failure one second before V1, the height at the end of the runway would be about 20 feet instead of the normal 35 feet.
+|
+F-5.5@Since the available runway cannot be increased to accommodate these different conditions...
+|
+F-5.6@we provide weight reductions and V1 adjustments to determine a reduced takeoff weight, which can safely be operated from the same runway.
+|
+F-5.7@The weight adjustments result in a reduced weight and adjusted V1 speed. This reduced weight and adjusted V1 speed require the same distance as the baseline dry runway condition.
+|
+F-6.1@As with the other airplanes your airline operates, the FAA or JAA approved Airplane Flight Manuals contain dry runway performance.
+|
+F-6.2@Unlike your other airplanes, the FAA and JAA approved Airplane Flight Manuals may contain field length limited takeoff weights which take into account a wet runway and a wet skid-resistant runway.
+|
+F-6.3@The JAA approved Airplane Flight Manual also includes advisory data which accounts for a runway covered with slush, snow and wet ice.
+|
+F-6.4@This slush, snow and ice covered runway data is not part of the FAA approved Airplane Flight Manual, but is still provided to the operator in the form of weight reductions and V1 adjustments in the Performance Inflight section of the Quick Reference Handbook as tabular data, as well as in an operational computer program.
+|
+F-6.5@Any of these data sources can be used to create required operational data.
+|

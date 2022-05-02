@@ -1,0 +1,19 @@
+F-1.1@The autopilot is engaged in CMD A and the FMA shows a default roll mode, CWS R . Engage HDG SEL to replace the default roll mode.
+|
+F-1.1W1@Push the HDG SEL switch on the MCP .
+|
+F-1.2@The default roll mode is replaced by HDG SEL.
+|
+F-2.1@Change the bank angle limit from 25 degrees to 15 degrees.
+|
+F-2.1W1@Turn the bank angle selector, behind the heading selector, to change the bank angle limit.
+|
+Automatic Flight System Roll Modes
+|
+Normal Operation - Default Roll Mode Practice
+|
+Configuration Sensitive: Options: as required; rest is basic 
+|
+Note: References to flight director are for integrated cue.
+
+

@@ -1,0 +1,33 @@
+F-1.1@With the air conditioning/bleed air controls panel set as shown, what is the status of the isolation valve?
+|
+F-1.1A1@In this example, the isolation valve is open. Touch the correct answer.
+|
+F-1.1W1@In this example, the isolation valve is open. Touch the correct answer.
+|
+F-1.2@The isolation valve is open because the right pack valve switch is OFF. Touch the green arrow to continue.
+|
+F-1.3@With the air conditioning/bleed air controls panel set as shown, what is the status of the isolation valve?
+|
+F-1.3A1@In this example, the isolation valve is open. Touch the correct answer.
+|
+F-1.3W1@In this example, the isolation valve is open. Touch the correct answer.
+|
+F-1.4@The isolation valve is open because the left engine bleed switch is OFF. Touch the green arrow to continue.
+|
+F-1.5@With the air conditioning/bleed air controls panel set as shown, what is the status of the isolation valve?
+|
+F-1.5A1@In this example, the isolation valve is closed. Touch the correct answer.
+|
+F-1.5W1@In this example, the isolation valve is closed. Touch the correct answer.
+|
+F-1.6@The isolation valve is closed because both the engine bleed air switches are ON, and both the pack switches are in AUTO. Touch the green arrow to continue.
+|
+F-1.7@With the air conditioning/bleed air controls panel set as shown, what is the status of the isolation valve?
+|
+F-1.7A1@In this example, the isolation valve is closed. Touch the correct answer.
+|
+F-1.7W1@In this example, the isolation valve is closed. Touch the correct answer.
+|
+F-1.8@The isolation valve is closed because the isolation valve switch is CLOSE.
+|
+

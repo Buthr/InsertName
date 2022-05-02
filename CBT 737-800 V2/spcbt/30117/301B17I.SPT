@@ -1,0 +1,52 @@
+F-1.1@You control engine anti-ice from the flight deck by engine anti-ice switches on the forward overhead panel. The switches have ON and OFF positions.
+|
+F-1.2@The ON position opens the engine cowl anti-ice valve, and engine bleed air goes to the cowl lip. Turn on engine No. 1 anti-ice and look at the COWL VALVE OPEN light.
+|
+F-1.3@The COWL VALVE OPEN light shows the position of the engine cowl anti-ice valve.The light is extinguished when the valve is closed. 
+|
+F-1.4@The light is bright when the valve is in transit or there is a disagreement between the valve and switch position.
+|
+F-1.5@The light is dim when the valve is open.
+|
+F-2.1@Turn on engine No. 2 anti-ice. Look at the engine cowl anti-ice valve and the COWL VALVE OPEN light.
+|
+F-2.2@
+|
+F-3.1@The engine anti-ice must be on during all ground and flight operations when icing conditions exist or are expected.
+|
+F-3.2@Do not rely on visual cues before you turn on engine anti-ice. Use the temperature and visible moisture criteria.
+|
+F-3.3@
+|
+F-3.4@When engine anti-ice is required, turn on the engine anti-ice.
+|
+F-3.5@Make sure the COWL VALVE OPEN lights illuminate bright then dim.
+|
+F-3.6@When the cowl anti-ice valve is open, a thermal anti-ice indication is shown on the engine display.
+|
+F-4.1@When engine anti-ice is no longer necessary, turn off the engine anti-ice. 
+|
+F-4.2@
+|
+F-4.3@Finally, make sure the COWL VALVE OPEN lights extinguish.
+|
+F-4.4@Caution, do not operate engine or wing anti-ice when the total air temperature is above 10 degrees Celsius.
+|
+F-5.1@Let’s now look at some non-normal conditions with the number 2 engine. If the COWL VALVE OPEN light remains illuminated bright when the engine anti-ice is turned on, the valve has remained in the closed position. 
+|
+F-5.2@Icing conditions should be avoided.
+|
+F-5.3@If the COWL VALVE OPEN light remains illuminated bright when the engine anti-ice is turned off, the valve has remained in the open position. 
+|
+F-5.4@If the total air temperature is above 10 degrees Celsius, limit the N1 thrust on the affected engine to 80 percent if possible.
+|
+F-6.1@The COWL ANTI-ICE light illuminates if the pressure in the duct leading to the cowl lip is greater than the limits.
+|
+F-6.2@The MASTER CAUTION and ANTI-ICE system annunciator lights also illuminate.
+|
+F-6.3@Reset the master caution system.
+|
+F-6.4@If flight conditions permit, reduce the thrust until the light extinguishes.
+|
+Engine Anti-Ice
+|

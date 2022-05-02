@@ -1,0 +1,119 @@
+***
+Aircraft Type;B-757
+Syllabus Type;Pilot
+Class Type   ;Initial
+Day  1 lessons;020/;
+Day  2 lessons;021/022/044/065/043/051/073/045/047/052/;
+Day  3 lessons;077/078/079/080/081/082/083/053/054/;
+Day  4 lessons;055/046/;
+Day  5 lessons;034/076/027/048/033/040/059/;
+Day  6 lessons;025/026/072/075/074/;
+Day  7 lessons;037/028/029/032/035/030/;
+Day  8 lessons;041/056/057/058/060/;
+Day  9 lessons;042/061/062/;
+Day 10 lessons;038/039/049/;
+Day 11 lessons;050/064/067/068/;
+Day 12 lessons;031/063/069/066/023/024/;
+Day 13 lessons;036/070/071/084/;
+Day 14 lessons;0
+Day 15 lessons;0
+Day 16 lessons;0
+Day 17 lessons;0
+Day 18 lessons;0
+Day 19 lessons;0
+Day 20 lessons;0
+001;
+002;
+003;
+004;
+005;
+006;
+007;
+008;
+009;
+010;
+011;
+012;
+013;
+014;
+015;
+016;
+017;
+018;
+019;
+020;00117\00117;737 CBT Introduction;;20;
+021;01117\01117;Airplane Familiarization;;15;
+022;02117\02117;Procedures and Checklists;;15;
+023;02217\02217;Fault Reporting Manual;;12;
+024;12117\12117;External Power, Servicing, and Ground Handling;;13;
+025;21117\21117;Air Conditioning System;;16;
+026;21217\21217;Pressurization System;;23;
+027;22117\22117;Automatic Flight System Introduction;;25;
+028;22217\22217;Autoflight - Roll Modes;;15;
+029;22313\22313;Autoflight - Pitch Modes;;25;
+030;22417\22417;Autoflight - Takeoff, Approach, and Go-Around;;25;
+031;22517\22517;Autoflight - Non-Normals;;15;
+032;23101\23101;Communications;;25;
+033;24101\24101;Electrical System;;42;
+034;25113\25113;Emergency Equipment;;25;
+035;25511\25511;Cabin Communications and Lavatories;;15;
+036;25617\25617;Doors, Evacuation, and Ditching;;15;
+037;26117\26117;Fire Protection;;31;
+038;27117\27117;Primary Flight Controls;;20;
+039;27217\27217;Secondary Flight Controls;;25;
+040;28117\28117;Fuel System;;23;
+041;29117\29117;Hydraulic System;;23;
+042;30117\30117;Ice and Rain Protection;;32;
+043;31117\31117;Air Data System;;10;
+044;31217\31217;Common Display System Introduction;;20;
+045;31317\31317;Electronic Flight Instrument System;;30;
+046;31417\31417;Navigation Displays;;26;
+047;31517\31517;Map and Plan Modes;;19;
+048;31617\31617;Standby Flight Instruments;;48;
+049;32117\32117;Landing Gear and Brakes;;30;
+050;33117\33117;Lighting and Water;;22;
+051;34117\34117;Air Data Inertial Reference System;;21;
+052;34217\34217;FMC Familiarization;;26;
+053;34313\34313;FMC Preflight;;26;
+054;34413\34413;Route Entry;;16;
+055;34513\34513;FMC Legs;;11;
+056;34613\34613;FMC Climb;;16;
+057;34713\34713;FMC Cruise;;13;
+058;34813\34813;FMC Descent;;30;
+059;34913\34913;FMC Flight Plan Changes;;28;
+060;34b13\34b13;FMC STARs, Approaches, Diversions;;23;
+061;34c13\34c13;FMC Holding;;18;
+062;34e13\34e13;FMC Progress and Position Data;;13;
+063;34f13\34f13;FMC Non-Normals;;11;
+064;34g17\34g17;Weather Radar;;11;
+065;34h17\34h17;Master Caution and Warning;;23;
+066;34j17\34j17;Traffic Alert and Collision Avoidance System;;23;
+067;34k17\34k17;Ground Proximity and Warning System;;23;
+068;34117\34117;Enhanced Ground Proximity Warning System;;15;
+069;34m17\34m17;Predictive Windshear;;15;
+070;34z01\34z01;Heads Up Display;;20;
+071;34z02\34z02;HUD Symbology;;20;
+072;36117\36117;Bleed Air System;;23;                                                
+073;49117\49117;Auxiliary Power Unit;;15; 
+074;72117\72117;Engine Indications;;30;
+075;72217\72217;Engine Thrust Reverser System;;17;
+076;72317\72317;Engine Start and Ignition;;35;
+077;fo101\fo101;Takeoff Basics 1;;20;
+078;fo201\fo201;Takeoff Basics 2;;29;
+079;fo301\fo301;Takeoff Analysis;;36;
+080;fo401\fo401;Reduced Thrust Takeoff;;30;
+081;fo501\fo501;Takeoff Performance Adjustments;;57;
+082;fo601\fo601;Enroute Performance;;29;
+083;fo701\fo701;Approach and Landing Performance;;30;
+084;ft1a01i\ft1a01i;Reduced Vertical Separation Minimum;;10;
+
+
+
+
+
+
+
+
+
+
+

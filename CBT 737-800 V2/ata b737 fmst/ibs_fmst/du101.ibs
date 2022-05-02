@@ -1,0 +1,38 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_001:@HOTS_000:@RECT_000:@ELEM_000:@IBIS_000:@SLDR_000:@OBJN_000:@FONT_000:@TEXT_000:@DRAWREGION_001:@DRAWOBJECT_000
+
+//Panel Info
+@PANEL_NAME=DU
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=Chue Thao
+@PANEL_PROJECT=b737ng
+@PANEL_GRAPHICS=1
+@OVERLAP_ENABLE=0
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+
+//Text
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:CHDU.BMP,0,0
+
+//Hotspots
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Drawing Regions
+@DRAWREGION_000:{drawregion}:37,31,362,359
+
+//Drawing Objects

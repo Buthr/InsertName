@@ -1,0 +1,89 @@
+F-1.1@The leading edge devices and trailing edge flaps are high lift devices that increase wing lift and decrease stall speed during takeoff, low speed flight and landing.
+|
+F-1.2@The leading edge devices are the leading edge flaps which have 2 positions: up and full extended...|
+F-1.3@and the leading edge slats which have 3 positions: up, extended and full extended.
+|
+F-1.4@The trailing edge flaps are double slotted.
+|
+F-1.5@Extension of the leading edge devices occurs in sequence with the movement of the trailing edge flaps.
+|
+F-1.6@The leading edge devices and trailing edge flaps use hydraulic system B. 
+|
+F-1.7@The standby hydraulic system is the alternate source for extension of the leading edge devices and an electrical motor is the alternate system for extension and retraction of the trailing edge flaps. Alternate flap and slat operation is discussed in a different lesson.
+|
+F-2.1@The FLAP lever is on the First Officer's side of the control stand.
+|
+F-2.2@When the flap lever moves, the trailing edge flap control and leading edge control operate and hydraulic pressure goes to the trailing edge drive unit and leading edge slats.
+|
+F-2.3@The flap position indicator shows the trailing edge flap positions.
+|
+F-2.4@Flap gates prevent accidental movement through position 1 during a single engine go-around, and position 15 during a normal go-around.
+|
+F-2.5@The FLAPS LIMIT placard shows the maximum speed for each flap position.
+|
+F-3.1@The Flap/Slat Electronics Unit, or FSEU, supplies trailing edge flap load relief from higher than normal air speed for flaps 40 and 30.
+|
+F-3.2@The FSEU tells the flaps to retract from the 40 to 30 if the airspeed is more than 163 knots. When the FLAP lever is set to 30, the flaps retract to 25 if the airspeed is more than 176 knots.
+|
+F-3.3@The FLAP LOAD RELIEF light illuminates when load relief is in operation.
+|
+F-3.4@The flap lever does not move, but the flap position indicator shows the retracted position.
+|
+F-3.5@The flaps extend to the set position when the airspeed decreases below 158 knots for flaps 40 or below 171 knots for flaps 30.
+|
+F-3.6@
+|
+F-4.1@Indications for the leading edge devices are on the center instrument panel and the aft overhead panel.
+|
+F-4.2@The LE DEVICES annunciator panel shows the position of each leading edge flap and slat. The LE FLAP TRANSIT and EXT lights show the condition of the leading edge devices.
+|
+F-4.3@When all the lights extinguish, the devices are retracted.
+|
+F-4.4@The amber leading edge devices transit lights and LE FLAPS TRANSIT light illuminate when the leading edge devices are in transit or not in the correct position.
+|
+F-4.5@The green leading edge devices extended or full extended lights illuminate when the leading edge devices are in the correct position.
+|
+F-4.6@The LE FLAPS EXT light illuminates when the leading edge flaps are in the full extended position and the slats are in the extended position,...|
+F-4.7@or the leading edge flaps and slats are in the full extended position.
+|
+F-4.8@Push and hold the TEST switch
+|
+F-4.9@The TEST switch illuminates all annunciator panel lights.
+|
+F-5.1@The autoslat system increases wing lift if the airplane approaches a stall during takeoff or approach to landing.
+|
+F-5.2@With the trailing edge flaps set at 1, 2 or 5, the autoslat system moves the leading edge slats from extended to the full extended position before stick shaker.
+|
+F-5.3@The slats move back to the extended position when the pitch angle is below the stall attitude.
+|
+F-5.4@The autoslat system uses hydraulic system B.
+|
+F-5.5@If pressure from the hydraulic system B engine-driven pump is not sufficient,...|
+F-5.6@the power transfer unit, or PTU, uses hydraulic system A to pressurize system B for autoslat operation.
+|
+F-5.7@
+|
+F-6.1@Let's look at a flap extension sequence. Set flaps 5.
+|
+F-6.2@When the FLAP lever is set at 5, the trailing edge flaps move from the UP position and the leading edge devices start to extend.
+|
+F-6.3@The LE FLAPS TRANSIT light and leading edge devices TRANSIT lights illuminate.
+|
+F-6.4@When the trailing edge flaps near the 1 position, the leading edge flaps are at full extended,...|
+F-6.5@the slats are at extended,...|
+F-6.6@and the LE FLAPS EXT light illuminates.
+|
+F-7.1@Set flaps 40.
+|
+F-7.2@When the trailing edge flaps move from flaps 5 to flaps 10, the slats move to full extended.
+|
+F-7.3@The lights again show in transit and then full extended.
+|
+F-7.4@Only the trailing edge flaps continue to extend from flaps 10 to flaps 40.
+|
+Title: Secondary Flight Controls - LE Devices/TE Flaps
+|
+|
+Configuration Sensitive: Options: FLAP LOAD RELIEF light
+|
+

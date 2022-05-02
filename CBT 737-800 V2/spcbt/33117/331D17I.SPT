@@ -1,0 +1,26 @@
+F-1.1@One potable water storage tank is behind the aft cargo compartment.
+|
+F-1.2@The water tank supplies water for the galleys and lavatories. The water system operates automatically. Air pressure from the engine pneumatic system pressurizes the water.
+|
+F-2.1@The aft attendant panel shows the quantity of potable water with green indicator lights.
+|
+F-2.2@The waste system indicator uses 3 different colors to show system quantity. As the tank becomes full, the lights become amber then red.
+|
+F-2.3@If the waste system becomes full, the lavatories will not function and the LAVS INOP light illuminates.
+|
+F-2.4@This light illuminates if the tank sensor needs to be cleaned or checked.
+|
+F-3.1@A water servicing panel is on the bottom aft fuselage. All water servicing controls are on this panel.
+|
+F-3.2@Water drain and release valves are below the sinks in the lavatories.
+|
+F-3.3@A water heater operates automatically to supply hot water for the sinks. Extreme temperatures automatically turn off the heater.
+|
+F-3.4@An on/off switch is on the side of each heater.
+|
+Water System
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|

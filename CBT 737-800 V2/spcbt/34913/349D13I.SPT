@@ -1,0 +1,55 @@
+F-1.1@ATC has instructed you to fly direct to LKV. To make a course direct to LKV, put "LKV" into the active waypoint line.
+|
+F-1.2@The FMC computed direct course to LKV shows above LKV.
+|
+F-1.3@Now, connect the route discontinuity.
+|
+F-1.4@Execute the modification.
+|
+F-2.1@Now, let's go back to your initial route and look at a different situation.
+|
+F-2.2@ATC has instructed you to fly direct to LKV. The weather is bad and you want a different course to LKV.
+|
+F-2.3@ATC has now given you a different course to LKV that you must intercept.
+|
+F-3.1@To obey this clearance you turn to a heading of 120. 
+|
+F-3.2@Next, put LKV into the active waypoint line as before, as if going direct to LKV.
+|
+F-3.3@The FMC-computed direct course is shown above LKV as before. You must change this course to agree with the clearance before you execute the modification.
+|
+F-3.4@The FMC lets you to put in a different intercept course to the active waypoint.
+|
+F-3.5@Your clearance refers to the 350 degree radial of LKV. The reciprocal of the radial is a 170 degree intercept course to LKV.
+|
+F-3.6@Put in the new intercept course into the INTC CRS line.
+|
+F-3.7@The intercept course now shows above LKV and on the INTC CRS line.
+|
+F-3.8@Now connect the discontinuity.
+|
+F-3.9@Execute the modification.
+|
+F-3.10@
+|
+F-4.1@Now let's look at another example. This time you will intercept a course to a waypoint that is already part of your route.
+|
+F-4.2@Obey this clearance by moving RBL into the active waypoint line.
+|
+F-4.3@Any waypoint entered into the active waypoint line creates a direct course to that waypoint.
+|
+F-4.4@This time the INTC CRS line is not empty. The FMC has pre-loaded a default course intercept. 
+|
+F-4.5@The FMC default intercept course is the original course to that waypoint.
+|
+F-4.6@The pre-loaded default is displayed in small font. You can select this default course by pushing the line select key or you can enter a new course intercept as in the last example.
+|
+F-4.7@To obey this clearance you need to fly direct to RBL. Take the necessary action.
+|
+Created Courses
+|
+
+|
+Configuration Sensitive: Options: NO ABEAM POINTS; rest is basic .
+|
+

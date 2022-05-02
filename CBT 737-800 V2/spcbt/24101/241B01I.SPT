@@ -1,0 +1,90 @@
+F-1.1@The AC power system is made up of transfer busses, main busses, galley busses, an AC standby bus and ground service busses.
+|
+F-1.2@The transfer busses are connected by a tie bus and bus tie breaker system. 
+|
+F-1.3@If 2 power sources are connected, the bus tie breakers open to prevent parallel operation of the generators.
+|
+F-1.4@If only 1 power source energizes the tie bus,...|
+F-1.5@the tie breakers close to supply power to the 2 transfer busses.
+|
+F-2.1@The sources of AC power are ground power,...|
+F-2.2@the APU generator,...|
+F-2.3@and the engine-driven IDGs.
+|
+F-3.1@Let's look at more of the electrical system. To start the preflight, move the battery switch to ON.
+|
+F-3.2@These annunciator lights tell you about transfer bus status.
+|
+F-3.3@The TRANSFER BUS OFF light shows that the related transfer bus is not energized.
+|
+F-3.4@The SOURCE OFF light, as shown here, tells you no power source is selected to energize the transfer bus.
+|
+F-3.5@The light can also illuminate when a generator switch is moved to ON and the related generator does not connect and supply power to the bus,...|
+F-3.6@or if a connected power source is replaced by a different source. Under these 2 conditions the transfer bus does stay energized.
+|
+F-4.1@The GEN OFF BUS light tells you the transfer bus is not supplied with power from the related IDG.
+|
+F-4.2@The APU GEN OFF BUS light shows the APU generator is available, but does not supply power to a bus. The light extinguishes when the APU generator is connected to a bus.
+|
+F-4.3@The GRD POWER AVAILABLE light illuminates when ground power of good quality is connected to the airplane. The light does not extinguish after ground power is connected to a bus. 
+|
+F-5.1@To connect a power source to the AC busses you must momentarily move a power switch to the ON position. Connect ground power.
+|
+F-5.2@When ground power is connected the TRANSFER BUS OFF and SOURCE OFF lights extinguish. 
+|
+F-5.3@The 2 transfer busses are energized through the tie bus.
+|
+F-5.4@The APU is running, so move the APU generator number 1 switch to ON.
+|
+F-5.5@The APU generator disconnects ground power from the tie bus. The SOURCE OFF light illuminates because the manually selected source has been automatically disconnected.
+|
+F-5.6@Move the other APU generator switch to ON and we'll remove ground power.
+|
+F-6.1@Engine number 2 is now running. Move the generator number 2 switch to ON.
+|
+F-6.2@The GEN OFF BUS light extinguishes...|
+F-6.3@and the bus tie breaker opens. The number 2 IDG supplies power to transfer bus 2.
+|
+F-6.4@When an IDG supplies power to 1 transfer bus, the other continues to be energized by the APU generator, or ground power if it is connected to the system.
+|
+F-6.4.1@The APU generator or ground power can energize 1 or 2 transfer busses, but they cannot be connected to any part of the electrical system at the same time.
+|
+F-6.5@Engine number 1 is now running. Connect the generator.
+|
+F-6.6@The number 1 IDG now supplies power to transfer bus 1. The APU GEN OFF BUS light illuminates because the APU generator is no longer connected to a bus.
+|
+F-7.1@The AC electrical meters show voltage,...|
+F-7.2@frequency,...|
+F-7.3@and amperage...|
+F-7.4@of the source selected by the AC meter selector.
+|
+F-7.5@The GALLEY power switch controls the power to the galley busses. It is normally set to ON during preflight. 
+|
+F-8.1@If the APU continues to supply power to the transfer busses after takeoff,...
+|
+F-8.2@and then fails or is shut down,...|
+F-8.3@the IDGs automatically connect to the busses.
+|
+F-8.4@The automatic generator on-line feature is available only in flight, only 1 time per flight and only under these conditions.
+|
+F-9.1@During flight, if only 1 power source is available,...|
+F-9.2@the electrical system automatically removes power to some busses to decrease the total electrical load. This is referred to as 'load shedding'.
+|
+F-9.3@The galley busses are deenergized first.
+|
+F-9.4@If the load continues to be greater than the available electrical power, the main AC busses are deenergized, 1 at a time, until the load is less than the system limit. 
+|
+F-9.5@Later, if more power becomes available, some, or all of the busses, are automatically energized again. 
+|
+F-10.1@During taxi in, you can connect the APU generator after the APU GEN OFF BUS light illuminates.
+|
+F-10.2@Move the APU generator switches to ON.
+|
+F-10.3@The APU generator now supplies power to the transfer busses. The engines can be shut down normally when the airplane is at the gate.
+|
+AC Power System
+|
+|
+Configuration Sensitive: Options: metering panel with Aux Bat position, schematics with 2 batteries; rest is basic.
+|
+

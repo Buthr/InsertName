@@ -1,0 +1,31 @@
+F-1.1@ATC clears you to descend to 10,000 feet.  Use the level change mode.
+|
+F-1.1D1@Set a new altitude in the MCP ALTITUDE window.
+|
+F-1.1D2@Push the level change switch to engage LVL CHG.
+|
+F-1.2@ATC tells you to reduce your descent rate to 500 fpm.  Use the AFDS to set a 500 fpm descent.
+|
+F-1.2D1@Push the vertical speed switch on the MCP.
+|
+F-1.2D2@Use the thumbwheel to set the descent rate.
+|
+F-1.3@
+|
+F-1.4@ATC clears you to descend to 8000 feet.  Use the vertical speed mode to descend.
+|
+F-1.4D1@Set a new altitude in the MCP ALTITUDE display.
+|
+F-1.4D2@Use the thumbwheel to set the descent rate.
+|
+F-1.5@ATC tells you to maintain your altitude for traffic.  Use the AFDS to level off immediately.
+|
+F-1.5W1@Push the altitude hold switch on the MCP.
+|
+F-1.6@
+|
+Automatic Flight System Pitch Modes
+|
+Normal Operations - LVL CHG, V/S and ALT Hold Practice
+|
+Configuration Sensitive: Options: as required; rest is basic (as required). Note: References to flight director are for integrated cue. MCP has blanks to cover SPD and ALT intervention.

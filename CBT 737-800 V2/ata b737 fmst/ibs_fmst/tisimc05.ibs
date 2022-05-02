@@ -1,0 +1,81 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_015:@HOTS_005:@RECT_000:@ELEM_000:@IBIS_000:@OBJN_000:@FONT_002:@TEXT_001:@LIST_001:@DRAWOBJECT_005:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=0
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+@FONT_000:AERIAL,8,21,NORMAL,0,0
+@FONT_001:AERIAL,8,16,NORMAL,0,0
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+@TEXT_000:{Title1}:Malfunctions not incorporated,300,110,@FONT_000,DKGRAY,300,110,300,110
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tpsetp00.bmp,0,0,0,0,0,0
+@BMAP_001:TBSMCL01.BMP,0,0,0,0,0,0
+@BMAP_002:TBSMCL02.BMP,0,0,0,0,0,0
+@BMAP_003:reset01.bmp,0,0,0,0,0,0
+@BMAP_004:reset02.bmp,0,0,0,0,0,0
+@BMAP_005:reset03.bmp,0,0,0,0,0,0
+@BMAP_006:set01.bmp,0,0,0,0,0,0
+@BMAP_007:set02.bmp,0,0,0,0,0,0
+@BMAP_008:set03.bmp,0,0,0,0,0,0
+@BMAP_009:resetall01.bmp,0,0,0,0,0,0
+@BMAP_010:resetall02.bmp,0,0,0,0,0,0
+@BMAP_011:resetall03.bmp,0,0,0,0,0,0
+@BMAP_012:malfarm01.bmp,0,0,0,0,0,0
+@BMAP_013:malfarm02.bmp,0,0,0,0,0,0
+@BMAP_014:malfarm03.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBSMCL}:N,720,550,100,30,@BMAP_001:720:550,@BMAP_002:720:550
+@HOTS_001:{TBSMRESET}:N,235,550,100,30,@BMAP_003:235:550,@BMAP_004:235:550,@BMAP_005:235:550
+@HOTS_002:{TBSMSET}:N,108,550,100,30,@BMAP_006:108:550,@BMAP_007:108:550,@BMAP_008:108:550
+@HOTS_003:{TBSMRESETALL}:N,362,550,100,30,@BMAP_009:362:550,@BMAP_010:362:550,@BMAP_011:362:550
+@HOTS_004:{TBSMARM}:N,491,550,100,30,@BMAP_012:491:550,@BMAP_013:491:550,@BMAP_014:491:550
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+@LIST_000:{MALFUNCTION}:13,10,822,531,1,1,@FONT_001,BLACK, ,@FONT_000,BLUE, ,@FONT_000,BLACK,
+
+//Knobs
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+@DRAWOBJECT_000:{MALFCLOSEBOOK}:closebook.bmp
+@DRAWOBJECT_001:{MALFOPENBOOK}:openbook.bmp
+@DRAWOBJECT_002:{MALFSET}:malfset.bmp
+@DRAWOBJECT_003:{MALFUNSET}:malfunset.bmp
+@DRAWOBJECT_004:{MALFARM}:malfarm.bmp
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

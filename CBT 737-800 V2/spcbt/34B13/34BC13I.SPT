@@ -1,0 +1,23 @@
+F-1.1@The STAR and approach have been put in. Now, you will see how to use the APPROACH REF page. 
+|
+F-1.2@Inflight, the APPROACH REF page is shown when you push the INIT REF key. 
+|
+F-1.3@Show the APPROACH REF page.
+|
+F-2.1@The GROSS WT line shows the FMC computed gross weight or crew input weight. 
+|
+F-2.2@If you try to put in a gross weight that is not in the allowed range,...|
+F-2.3@INVALID ENTRY is shown in the scratchpad.
+|
+F-2.4@Each of the 3 VREF speeds are based on a landing flap setting,...|
+F-2.5@and the GROSS WT.
+|
+F-2.6@Entry of VREF and WIND CORR is discussed in another lesson.
+|
+F-3.1@The Go-Around N1 target thrust is shown.
+|
+F-3.2@Information for the selected approach is shown. This information includes runway length,...|
+F-3.3@the frequency and the identifier,...|
+F-3.4@and, the FRONT CRS of the selected approach.
+|
+

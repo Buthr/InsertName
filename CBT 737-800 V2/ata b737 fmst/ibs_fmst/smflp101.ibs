@@ -1,0 +1,50 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_003:@HOTS_009:@RECT_000:@ELEM_000:@IBIS_000:@SLDR_001:@OBJN_000:@FONT_000:@TEXT_000:@EDIT_000:@LIST_000
+
+//Panel Info
+@PANEL_NAME=SMFLP
+@PANEL_DESCRIPTION=Flaps
+@PANEL_AUTHOR=Chue Thao
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+
+//Text
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:chctls02.bmp,0,0,0,0,0,0
+@BMAP_001:flap.bmp,0,0,0,0,0,0
+@BMAP_002:flap01.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{FLAP_UP}{m_pIO->I_iFlapPush}:N,10,12,44,13,@N,@D{1}
+@HOTS_001:{FLAP_1}{m_pIO->I_iFlapPush}:N,10,25,44,10,@N,@D{1}
+@HOTS_002:{FLAP_2}{m_pIO->I_iFlapPush}:N,10,36,44,10,@N,@D{1}
+@HOTS_003:{FLAP_5}{m_pIO->I_iFlapPush}:N,10,46,44,10,@N,@D{1}
+@HOTS_004:{FLAP_10}{m_pIO->I_iFlapPush}:N,10,56,44,10,@N,@D{1}
+@HOTS_005:{FLAP_15}{m_pIO->I_iFlapPush}:N,10,66,44,10,@N,@D{1}
+@HOTS_006:{FLAP_25}{m_pIO->I_iFlapPush}:N,10,76,44,10,@N,@D{1}
+@HOTS_007:{FLAP_30}{m_pIO->I_iFlapPush}:N,10,86,44,10,@N,@D{1}
+@HOTS_008:{FLAP_40}{m_pIO->I_iFlapPush}:N,10,96,44,10,@N,@D{1}
+
+//Elements
+
+//Sliders
+@SLDR_000:{FLAP}:VN,10,0,72,0.0,70.0,@BMAP_001,@BMAP_002,15,14
+
+//Objects
+
+//Edit Fields
+
+//List Boxes
+

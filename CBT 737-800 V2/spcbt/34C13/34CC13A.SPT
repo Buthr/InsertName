@@ -1,0 +1,28 @@
+F-1.1@Flight 678, hold at present position.
+|
+F-1.1W1@Push the correct function key.
+|
+F-1.2@Hold at present position.
+|
+F-1.3W1@Push the correct line select key.
+|
+F-1.3@Execute the modification.
+|
+F-1.3W1@Execute.
+|
+F-2.1@Flight 678, expect further clearance at 17:25.
+|
+F-2.2@The EFC time will decrease the necessary reserves.
+|
+F-2.3@Flight 678, your revised further clearance time is 17:05.
+|
+F-3.1@You are cleared direct to ELN.
+|
+F-3.1W1@Push the correct function key.
+|
+F-3.3@Execute the modification.
+|
+F-3.3W1@Execute.
+|
+ FMC Holding Practice, PPOS
+|

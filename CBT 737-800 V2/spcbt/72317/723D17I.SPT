@@ -1,0 +1,64 @@
+F-1.1@There are 3 other types of engine starts - ground air, crossbleed and inflight.
+|
+F-1.2@The first type of engine start uses a ground air source to start the engine.
+|
+F-1.3@The ground air source is connected on the right side of the airplane.
+|
+F-1.4@AC power from the APU or ground power must be available. In this example, a ground power cart is used.
+|
+F-1.5@For safety reasons, engine number 1 must be started first because ground personnel and equipment are in the area of engine number 2.
+|
+F-1.6@The APU BLEED air switch must be OFF. This closes the APU bleed air valve and isolates the APU from the high start air pressure.
+|
+F-1.7@Make sure the duct pressure from the ground air source is a minimum 30 psi.
+|
+F-2.1@Use normal start procedures to start engine number 1.
+|
+F-2.2@After engine number 1 is stabilized at idle, disconnect the external power equipment.
+|
+F-2.3@Crossbleed air is used to start engine number 2.
+|
+F-2.4@Let’s now look at a crossbleed engine start.
+|
+F-3.1@A crossbleed start uses bleed air from the other engine. For today, we’ll use engine number 1 to start engine number 2. 
+|
+F-3.2@Make sure the engine BLEED air switches are ON, the APU BLEED air switch is OFF and the ISOLATION VALVE switch is in AUTO.
+|
+F-3.3@This makes sure bleed air from engine number 1 is available to start engine number 2,...|
+F-3.4@and the APU is isolated from the high start pressure.
+|
+F-3.5@
+|
+F-4.1@To start engine number 2, engine number 1’s thrust must be increased until there is a minimum duct pressure of 30 psi.
+|
+F-4.2@Before engine number 1’s thrust is increased, for safety reasons make sure there is no equipment or personnel behind the airplane.
+|
+F-4.3@Now increase the thrust on engine number 1 until the duct pressure shows 30 psi. 
+|
+F-4.4@Engine number 2 is ready to start.
+|
+F-5.1@Normal start procedures are used to start engine number 2.
+|
+F-5.2@After starter cutout, decrease the thrust on engine number 1. 
+|
+F-5.3@Now let’s look at inflight engine starts.
+|
+F-6.1@There are 2 procedures used for an inflight engine start: crossbleed and windmill.
+|
+F-6.2@The airplane’s altitude and airspeed must be checked to find the correct procedure to use. 
+|
+F-6.3@The ground start protections are not available for inflight starts.
+|
+F-6.4@The X-BLD START indication is shown if an inflight crossbleed engine start is necessary.
+|
+F-6.5@The ENGINE START switch is put in the ground position.
+|
+F-7.1@For a windmill engine start, there is no X-BLD START indication and the ENGINE START switch is put in the flight position.
+|
+F-7.2@
+|
+Engine Starts: Crossbleed, Ground Air, Inflight
+|
+Configuration Sensitive: Kgs/side-by-side
+|
+

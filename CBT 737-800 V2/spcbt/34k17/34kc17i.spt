@@ -1,0 +1,25 @@
+F-1.1@Now, let's look at the GPWS alerts that can be inhibited or cancelled. Push the BELOW G/S light to cancel below glideslope alerts.
+|
+F-1.2@Cancel the glideslope alert.
+|
+F-1.3@The below glideslope alerts cancel if you capture the glideslope.
+|
+F-2.1@If a landing with less than landing flaps is necessary, use the GROUND PROXIMITY FLAP INHIBIT switch. To use, lift the switch guard and raise the switch. 
+|
+F-2.2@Inhibit the ground proximity flap alert.
+|
+F-3.1@If a gear up or partial gear down landing is necessary, use the GROUND PROXIMITY GEAR INHIBIT switch. To use, lift the guard and raise the switch.
+|
+F-3.2@Inhibit the ground proximity gear alert.
+|
+F-4.1@For preflight operations, make sure that the ground proximity INOP light is not illuminated,...|
+F-4.2@and the switch guards are closed.
+|
+F-4.3@Momentarily push the system test switch to test the GPWS system. The BELOW G/S light and the INOP light illuminate.
+|
+F-4.4@The WINDSHEAR and PULL UP words show on the attitude indicators. The "WHOOP, WHOOP, PULL UP" and the "WINDSHEAR" aurals sound. If you push and hold in the system test switch for more than 10 seconds, all aural alerts sound.
+|
+F-4.5@The system test is inhibited from takeoff until above 1000 feet radio altitude.
+|
+GPWS Resets & Inhibits
+|

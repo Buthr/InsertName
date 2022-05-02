@@ -1,0 +1,16 @@
+F-1.1@Use the STEP TO altitude line to find when you can climb to FL410.
+|
+F-1.2@When can you climb to FL390?
+|
+F-1.3@The wind at FL390 is 160/36. Put the new wind in the CRZ page to make FMC predictions accurate.
+|
+F-1.4@You are at the step climb point. Use the CRZ page to climb to the new cruise altitude.
+|
+F-1.4.5W1@Push the correct line select key.
+|
+F-1.5W1@Execute the modification.
+|
+F-1.6@The FMC does a climb at cruise airspeed and climb thrust.
+|
+Cruise Page
+|

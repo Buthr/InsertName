@@ -1,0 +1,62 @@
+F-1.1@During preflight and normal inflight operations, the reverse thrust levers are in the full down or stowed position. In this position, the translating sleeves are stowed and locked.
+|
+F-1.2@A mechanical interlock in the thrust lever assembly prevents movement of the forward and reverse thrust levers at the same time.
+|
+F-1.3@The forward thrust levers must be in the idle position before the reverse thrust levers can be moved. 
+|
+F-2.1@Raise the reverse thrust levers to the interlock stop position to see how the engine number 1 thrust reverser system operates.
+|
+F-2.2@The initial motion of the reverse thrust levers releases the electro-mechanical lock and unlocks the translating sleeves.
+|
+F-2.3@Next, the isolation valve opens if...
+|
+F-2.4@the air/ground sensor is in ground mode...
+|
+F-2.5@or a radio altimeter shows altitude of less than 10 feet.
+|
+F-2.6@
+|
+F-3.1@With the isolation valve open, the control valve moves to the deploy position...
+|
+F-3.2@and hydraulic pressure starts to move the translating sleeves to the deployed position.
+|
+F-3.3@An amber REV indication illuminates above the engine N1 indication. It shows the translating sleeves are in transit.
+|
+F-3.4@An interlock mechanism restricts further movement of the reverse thrust levers until the sleeves are near the deployed position.
+|
+F-3.5@As the sleeves reach the deployed position, the reverse thrust levers can be raised to detent number 2.
+|
+F-3.6@When the sleeves are deployed, the amber REV indication changes to green.
+|
+F-4.1@Raise the reverse thrust levers to detent number 2.
+|
+F-4.2@In detent number 2, the EEC sets sufficient reverse thrust for normal operation.
+|
+F-4.3@If maximum reverse is necessary, you can raise the reverse thrust levers beyond detent number 2. Now raise the reverse thrust levers to the maximum reverse position.
+|
+F-4.4@The EEC now sets maximum reverse thrust. 
+|
+F-5.1@When reverse thrust is no longer necessary, lower the reverse thrust levers to detent number 1.
+|
+F-5.2@In detent number 1, the EEC now sets a minimum idle. 
+|
+F-5.3@Now lower the reverse thrust levers to the stowed position.
+|
+F-5.4@The control valve moves to the stow position...
+|
+F-5.5@and hydraulic pressure moves the sleeves to the stowed position.
+|
+F-6.1@The green REV indication changes to amber and shows the sleeves are in transit.
+|
+F-6.2@After the sleeves are stowed, the isolation valve closes,... 
+|
+F-6.3@the electro-mechanical lock engages... 
+|
+F-6.4@and the REV indication extinguishes.
+|
+Normal Operations
+|
+
+|
+Configuration Sensitive: None
+|

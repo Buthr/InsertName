@@ -1,0 +1,62 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_007:@HOTS_003:@RECT_000:@ELEM_000:@IBIS_000:@OBJN_000:@FONT_000:@TEXT_000:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=0
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tpsnap00.bmp,0,0,0,0,0,0
+@BMAP_001:tbload01.bmp,0,0,0,0,0,0
+@BMAP_002:tbload02.bmp,0,0,0,0,0,0
+@BMAP_003:tbsave01.bmp,0,0,0,0,0,0
+@BMAP_004:tbsave02.bmp,0,0,0,0,0,0
+@BMAP_005:TBMBCA01.bmp,0,0,0,0,0,0
+@BMAP_006:TBMBCA02.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBSNLD}:N,40,75,134,54,@BMAP_001:40:75,@BMAP_002:40:75
+@HOTS_001:{TBSNSV}:N,206,75,134,54,@BMAP_003:206:75,@BMAP_004:206:75
+@HOTS_002:{TBSNCA}:N,153,155,76,24,@BMAP_005:153:155,@BMAP_006:153:155
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+
+//Knobs
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

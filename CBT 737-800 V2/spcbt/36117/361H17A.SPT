@@ -1,0 +1,17 @@
+F-1.1@During flight, you see this condition. Do the correct steps.
+|
+F-1.1A1@When the BLEED TRIP OFF light illuminates, the related bleed turns off.
+|
+F-1.1A2@Press the trip reset switch to try to start the engine bleed.
+|
+F-1.1W1@Press the trip reset switch.
+|
+F-1.2@The BLEED TRIP OFF light has illuminated again, and wing anti-ice is necessary. Do the correct step.
+|
+F-1.2W1@Turn off the left pack.
+|
+F-1.2A1@You’ve already tried to restore the engine bleed. Turn off the left pack.
+|
+F-1.3@When you turn off the right pack,the isolation valve opens, and air from the left side enters the right side for right wing anti-ice.
+|
+

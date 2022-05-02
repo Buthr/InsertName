@@ -1,0 +1,29 @@
+F-1.1@There are many different systems that input data into the FMC. The removal of 1 of these items decreases the performance of the FMC. 
+|
+F-2.1@Let's look at fuel quantity input failure.
+|
+F-2.2@If fuel quantity data is not available,...|
+F-2.3@the FMC uses the last known quantity for subsequent performance data. VNAV operates correctly.
+|
+F-2.4@The message VERIFY GW AND FUEL shows in the scratchpad and the FUEL line on the PERF INIT page changes to dashes. 
+|
+F-2.5@Clear the scratchpad.
+|
+F-2.6@Put in the estimate of fuel weight.
+|
+F-2.7@Execute the change.
+|
+F-2.8@The word MAN by the fuel weight shows that fuel quantity input is inoperative, and you put in the data.
+|
+F-2.9@Because fuel is burned, the FMC estimates become less accurate. 
+|
+F-2.10@The message VERIFY GW AND FUEL shows in the scratchpad after 30 minutes, to remind you to put in new fuel weight. This makes FMC gross weight data accurate.
+|
+F-2.11@
+|
+FMC NON-NORMALS
+|
+
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|

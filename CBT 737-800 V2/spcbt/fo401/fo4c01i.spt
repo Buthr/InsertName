@@ -1,0 +1,30 @@
+F-1.1@There are no operating restrictions on the use of derate.
+|
+F-1.2@Derates may be used at any time under any circumstances, provided of course that the expected takeoff weight is low enough to allow the use of that lower thrust rating.
+|
+F-1.3@In fact there is a special circumstance when derate can be used to increase the performance limited takeoff weight.
+|
+F-1.4@That can occur when the runway is short, or when the braking performance is reduced because the runway is wet or contaminated with standing water, slush or ice.
+|
+F-1.5@Strange as it sounds, it's true that less thrust can offer higher takeoff weights under certain circumstances.
+|
+F-1.6@Let's see how this works.
+|
+F-2.1@First when using Derate, all the performance information is computed at the lower derated takeoff thrust.
+|
+F-2.2@This includes the limiting takeoff weights and takeoff speeds, including the minimum control speeds.
+|
+F-2.3@Under normal circumstances, this lower thrust will result in a lower field length limited weight which is what you expect. 
+|
+F-2.4@Note, however, that this reduced thrust will result in a lower minimum control speed on the ground.
+|
+F-2.5@Since derate thrust is less than maximum thrust, there's less thrust asymmetry, and therefore the rudder can offset this lower asymmetry at a lower speed.
+|
+F-2.6@Recall that there is a minimum field length required to accelerate to this minimum control speed and then be able to stop.
+|
+F-2.7@Because the minimum control speed with Derate is lower, this minimum field length is reduced.
+|
+F-2.8@As you can see from the chart this can result in a higher takeoff weight when using derate.
+|
+F-2.9@Practically speaking this advantage of using derate is only realized when the runway is wet, contaminated, or extremely short.
+|

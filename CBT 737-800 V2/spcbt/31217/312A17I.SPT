@@ -1,0 +1,30 @@
+F-1.1@The common display system, or CDS, has 2 functions. 
+|
+F-1.2@It supplies data to the flight crew about the airplane and its' systems...|
+F-1.3@and it permits the flight crew to control the displays.
+|
+F-2.1@Airplane data are shown on 6 flat panel display units, or DUs.
+|
+F-2.2@The DUs are the Captain outboard, Captain inboard,...|
+F-2.3@First Officer outboard, First Officer inboard,...|
+F-2.4@upper and lower.
+|
+F-3.1@The pilots' outboard and inboard DUs normally show all primary flight and navigation data.
+|
+F-3.2@The upper DU normally shows primary engine instruments and fuel data.
+|
+F-3.3@The lower DU is normally blank or shows secondary engine instruments or system data under specified conditions.
+|
+F-4.1@Two display electronic units, or DEUs, receive data from sensors and airplane systems. The DEUs supply these data to the DUs.
+|
+F-4.2@Normally, DEU1 supplies display data to the Captain outboard, Captain inboard, and upper DUs...|
+F-4.3@and DEU2 supplies data to the First Officer outboard, First Officer inboard, and the lower DUs.
+|
+F-4.4@If necessary, 1 DEU can supply data to all 6 DUs. This is discussed later in the lesson.
+|
+Common Display System Overview
+|
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+

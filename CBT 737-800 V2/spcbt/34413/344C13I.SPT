@@ -1,0 +1,51 @@
+F-1.1@Your flight contains a departure procedure and a transition.
+|
+F-1.2@The DEP ARR key shows the DEP/ARR INDEX page.
+|
+F-1.3@From this page, there is a prompt to get access to the DEPARTURES page for the ORIGIN airport.
+|
+F-1.4@To go back to the DEP/ARR INDEX page, you can push either the INDEX prompt or the DEP ARR key.
+|
+F-1.5@From here, you can show the ARRIVALS for the ORIGIN or the DEST airport.
+|
+F-2.1@Show the DEP/ARR INDEX page.
+|
+F-2.2@The ARR prompts are used to show the ARRIVALS page for the ORIGIN or DEST airports. The prompts are discussed in a different lesson.
+|
+F-2.3@Departures or arrivals for other airports show after you put in the airport ICAO identifier in these lines.
+|
+F-2.4@Show the KBFI DEPARTURES page.
+|
+F-3.1@You use the DEPARTURES page to select the departure runway, departure procedure, and transition for the route origin airport.
+|
+F-3.2@<ACT> shows by the departure runway because you put a runway in the RTE page. <ACT> shows that the runway is part of the active route.
+|
+F-3.3@Select the departure procedure for your flight.
+|
+F-3.4@This shows that the departure procedure is selected.
+|
+F-3.5@The EXEC light illuminates. This shows a route modification is in progress.
+|
+F-3.6@Modifications show as white dashes.
+|
+F-4.1@On RTE page 1, MOD shows in the page title.
+|
+F-4.2@An ERASE prompt comes into view. The prompt erases all modifications and shows the original active route.
+|
+F-4.3@Use the ERASE prompt to erase the modifications.
+|
+F-4.4@The route modifications are erased, the original active route shows, and the EXEC light extinguishes.
+|
+F-5.1@Select the departure procedure again.
+|
+F-5.2@These are transitions available for the selected departure procedure.
+|
+F-5.3@You can select HUMPP,...|
+F-5.4@ORTIN,...|
+F-5.5@or VAMPS.
+|
+F-5.6@Select the correct transition for your route.
+|
+Departure Selection
+|
+

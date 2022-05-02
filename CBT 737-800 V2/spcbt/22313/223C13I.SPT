@@ -1,0 +1,66 @@
+F-1.1@When VNAV engages, the FMC commands pitch and autothrottle modes to fly the vertical path shown on the CDUs . The profile includes climb,...|
+F-1.2@cruise,...|
+F-1.3@descent...|
+F-1.4@and speeds. It can also include waypoint altitude constraints.
+|
+F-1.5@To use VNAV, the autoflight system must have an FMC path to follow.
+|
+F-2.1@VNAV SPD holds the FMC target speed.  This speed is shown by the airspeed cursor and on the CDU CLB or DES pages.
+|
+F-2.2@VNAV PTH uses pitch commands to follow the FMC altitude or descent path.
+|
+F-3.1@If the airplane climbs in VNAV, the autothrottle sets the FMC supplied climb thrust.  The autopilot maintains the FMC airspeed with pitch.
+|
+F-3.2@Notice the MCP IAS/MACH display.  Because the FMC controls the target speed, this window is blank.
+|
+F-3.3@In cruise, the autothrottle maintains the FMC target speed and the autopilot maintains the FMC altitude.
+|
+F-3.4@If you select a lower MCP altitude, the AFDS arms to automatically start descent when the airplane reaches the top of descent waypoint.
+|
+F-3.5@In a VNAV SPD descent, the autothrottle sets the thrust to idle and the autopilot holds the FMC target speed.
+|
+F-3.6@In a VNAV PTH descent, the autopilot commands the airplane to follow the FMC vertical path. The autothrottle holds idle, but can command the FMC SPD mode if ground speed is too slow to follow the FMC vertical path. 
+|
+F-4.1@In this example, the FMC route has a cruise altitude of FL350. ATC tells you to "climb and maintain 15,000 feet."
+|
+F-4.2@Set 15,000 in the ALTITUDE window.
+|
+F-4.3@Push the VNAV switch to engage VNAV.
+|
+F-4.4@The FMA shows you that VNAV SPD is engaged as the pitch mode and that N1 is the autothrottle mode.
+|
+F-4.5@At 15,000 feet, the airplane levels off.  VNAV has disengaged because you captured an MCP altitude that was different than the FMC cruise altitude.
+|
+F-4.6@ATC now clears you to FL350. Set the new MCP altitude and engage VNAV.
+|
+F-4.7@The airplane again climbs in VNAV SPD.
+|
+F-4.8@At FL350, the airplane again levels off. The FMA changes to FMC SPD and VNAV PTH.
+|
+F-5.1@The airplane can automatically follow the descent path if you have set the MCP to a lower altitude before you pass the top of descent. To help you, the CDU scratchpad message, RESET MCP ALTITUDE is shown.
+|
+F-5.2@Set a lower altitude on the MCP.
+|
+F-5.3@The airplane descends in VNAV PTH.  The autothrottle sets the thrust to idle.
+|
+F-5.4@If the winds change the groundspeed until it is too slow to follow the FMC path, the autothrottle adds thrust to follow the descent path.
+|
+F-5.5@If winds change the groundspeed until it is too fast to follow the FMC path, the autoflight system pitches down to follow the path...|
+F-5.6@ and the CDU scratchpad shows the message DRAG REQUIRED if the airspeed increases to more than 10 knots above the FMC target speed.
+|
+F-6.1@If ATC tells you to change airspeed during VNAV flight, it can be difficult to do so quickly. In VNAV modes the speed targets come from the FMC, the IAS/Mach window is blank and you cannot change the speed with the MCP.
+|
+F-6.2@To quickly change speeds, engage a different pitch mode and use the MCP speed selector to set the new target speed.
+|
+F-6.3@For level flight VNAV legs, engage ALT HOLD. When ALT HOLD engages, the IAS/Mach window changes from blank to the current speed.  Set the new target speed.
+|
+F-6.4@For VNAV climbs or descents, engage V/S or LVL CHG and set the new speed.
+|
+F-6.5@You can also make airspeed changes in VNAV flight with speed intervention. Speed intervention is discussed in another lesson.
+|
+Automatic Flight System Pitch Modes
+|
+Normal Operations - VNAV
+|
+Configuration Sensitive: Options: as required; rest is basic . Note: References to flight director are for integrated cue. MCP has blanks to cover SPD and ALT intervention. MCDU used for FMC CDU.
+|

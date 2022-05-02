@@ -1,0 +1,58 @@
+F-1.1@Airspeed/Mach indications show on the left side of the Captain and First Officer's Primary Flight Displays.
+|
+F-1.2@The airspeed digital counter shows current airspeed.
+|
+F-1.3@The Mach digital counter shows current Mach when the airspeed is greater than 0.4 Mach.
+|
+F-1.4@The selected speed and speed bug shows target airspeed.
+|
+F-1.5@Both indications are manually set with the speed selector on the mode control panel or,...
+|
+F-1.6@are automatically set to computed FMC target speed when the IAS/MACH window is blank.
+|
+F-2.1@The mode control panel and the IAS/MACH controls are on the glareshield.
+|
+F-2.2@The speed selector changes the IAS/MACH display, selected speed and speed bug .
+|
+F-2.3@Turn the selector to set 300 knots in the IAS/MACH display.
+|
+F-2.4@The speed bug moves to the new target airspeed.
+|
+F-2.5@With the autothrottle engaged, the airspeed increases to the new airspeed.
+|
+F-2.6@You push the change/over switch to change the display from IAS to Mach.
+|
+F-2.7@The IAS/MACH display now shows the target Mach.
+|
+F-2.8@Let's look at other airspeed indications.
+|
+F-3.1@The start of the alternating red and black bar shows the maximum speed.
+|
+F-3.2@The maximum speed is the lowest of Vmo/Mmo, landing gear down, or flap placard limit speed.
+|
+F-3.3@When the flaps are up, the start of the amber bar shows the maximum maneuvering speed.
+|
+F-3.4@This is the speed at which high speed buffet occurs at high altitude.
+|
+F-4.1@When the flaps are not up, the start of the amber bar shows the next flap position limit speed.
+|
+F-4.2@This is the maximum speed for the next flap position.
+|
+F-4.3@The next flap position speed bar is removed when you move the flap lever to a landing flap setting.
+|
+F-5.1@The top of the red and black bar shows the minimum speed.  It is the speed at which stick shaker occurs.
+|
+F-5.2@The top of the amber bar shows the minimum maneuvering speed.
+|
+F-5.3@At this speed, you can bank the airplane up to 40 degrees before stick shaker occurs. 
+|
+F-5.4@Now let's look at failure flags.
+|
+F-6.1@If the selected airspeed data is invalid, the SEL SPD failure flag shows,...|
+F-6.2@and the speed bug is removed.
+|
+F-6.3@If the stick shaker speed or maximum operating speed is inoperative, the SPD LIM failure flag shows.
+|
+F-6.4@If the airspeed indicator fails completely, the display shows the SPD failure flag. 
+|
+

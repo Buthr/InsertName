@@ -1,0 +1,70 @@
+F-1.1@In this module we will discuss the advisory landing distance information that is available to flight crews in the Performance Inflight section of the Quick Reference Handbook.
+|
+F-1.2@This advisory information includes autobrake landing distance,|
+F-1.3@ slippery runway landing distance|
+F-1.4@ and landing distance for non-normal configurations that affect the landing performance of the airplane. 
+|
+F-2.1@Advisory landing distance calculations assume that the airplane crosses the runway threshold at a height of 50 feet |
+F-2.2@ and include an air distance allowance of at least 305 meters to touchdown. 
+|
+F-2.3@The use of maximum available reverse thrust is assumed during the landing ground roll, when stopping performance is based on maximum manual wheel braking. 
+|
+F-2.4@It is important to remember that the published advisory landing distances are generally actual distances with no additional margins of conservatism.
+|
+F-2.5@For JAA operators, the published advisory landing distance for slippery runways is the actual distance increased by 15 percent.
+|
+F-3.1@The autobrake system commands a constant airplane deceleration during  the landing ground roll for improved passenger comfort.	
+|
+F-3.2@Autobrake landing distance is provided in the Quick Reference Handbook as advisory information to assist in the selection of the most suitable autobrake setting for a given available field length.  
+|
+F-3.3@The Quick Reference Handbook tables provide actual landing distance on a dry runway from a 50 foot threshold height to a full stop,|
+F-3.4@ based on autobrake setting|
+F-3.5@ and approach speed.   
+|
+F-3.6@These distances are valid with or without reverse thrust and for all landing flap settings.
+|
+F-3.7@A second table provides autobrake landing distance adjustments for altitude,|
+F-3.8@ wind|
+F-3.9@ and temperature deviation from standard day.   
+|
+F-3.10@These adjustments are ignored when the first table is entered with ground speed.
+|
+F-4.1@When autoland is used in conjunction with autobrakes,|
+F-4.2@ touchdown should be assumed to occur 760 meters from the runway threshold.
+|
+F-4.3@The increased air distance allowance can be accounted for by adjusting the advisory landing distance read from the QRH autobrake landing distance tables.
+|
+F-5.1@Landing distance on slippery and contaminated runways is affected by the reduced friction between the airplane's tires and the runway surface.
+|
+F-5.2@This reduced friction results in degraded wheel braking effectiveness and longer landing distances when using manual braking,|
+F-5.3@ or when using autobrakes.
+|
+F-5.4@Slippery runway landing distance is included in the Quick Reference Handbook as advisory information to assist flight crews in evaluating the expected performance of the airplane when landing on slippery runways. 
+|
+F-5.5@The QRH information is provided for one landing flap setting,|
+F-5.6@ and for pilot reported braking actions of good, medium and poor. 
+|
+F-6.1@The first slippery runway landing distance table is entered with reported braking action|
+F-6.2@ and wheel braking configuration |
+F-6.3@ to determine reference landing distance required. 
+|
+F-6.4@A second table provides landing distance adjustments for weight, airport pressure altitude, wind, approach speed, runway slope and available reverse thrust.
+|
+F-6.5@These adjustments are added as necessary to the reference slippery runway landing distance read from the first table.
+|
+F-6.6@It is important to remember that the autobrake system may not be capable of producing target decelerations on slippery runways due to the reduced wheel braking effectiveness.
+|
+F-7.1@We will now discuss the non-normal configuration landing distance information that is provided in the Quick Reference Handbook.
+|
+F-7.2@This advisory information can be used to determine actual landing distance requirements for non-normal configurations and system failures that affect the landing performance of the airplane.
+|
+F-8.1@Separate Quick Reference Handbook tables are provided for dry runway surface conditions,|
+F-8.2@ and for reported braking actions of good, medium and poor.
+|
+F-8.3@The appropriate table for the reported runway surface condition is entered with non-normal landing configuration|
+F-8.4@ to determine reference landing distance required based on the recommended final approach speed and landing flap setting called out in the non-normal checklist.
+|
+F-8.5@Landing distance adjustments for weight, altitude, wind, slope and approach speed additives are also provided.
+|
+F-8.6@Remember that the published non-normal configuration landing distances are actual distances and assume a maximum effort stop.
+|

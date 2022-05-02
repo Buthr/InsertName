@@ -1,0 +1,19 @@
+F-1.1@Configure the electric control panel and shut down the engines.
+|
+F-1.1D1@Connect the APU generator to BUS number 1.
+|
+F-1.1D2@Connect the APU generator to BUS number 2.
+|
+F-1.1A1@Ground power is not available .
+|
+F-1.1A2@Leave the bus transfer in its normal position: AUTO.
+|
+F-1.1A3@Engine generator 1 will disconnect automatically when you connect the APU generator .
+|
+F-1.1A4@Engine generator 2 will disconnect automatically when you connect the APU generator .
+|
+F-1.1A5@If you shut down the engines, you may be without electrical power.  First connect the APU generator to the busses.
+|
+F-1.2W1@Move the engine start levers to OFF.
+|
+

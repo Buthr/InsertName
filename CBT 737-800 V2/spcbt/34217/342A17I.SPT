@@ -1,0 +1,30 @@
+F-1.1@Sometimes, it is hard to do everything at once.
+|
+F-1.2@The flight management computer, or FMC, is a tool you can use.  It does many routine tasks and computations for you.
+|
+F-1.3@The FMC reduces the work you need to do.
+|
+F-2.1@The FMC stores information in internal files, or databases. 
+|
+F-2.2@It has a navigation database,...|
+F-2.3@ and a performance database.
+|
+F-3.1@The navigation database contains data from sources such as standard instrument arrivals, or STARs, standard instrument departures, or SIDs, and enroute and approach charts .
+|
+F-3.2@This data is kept current with frequent updates.
+|
+F-3.3@All necessary airplane performance data is also stored in the FMC.
+|
+F-4.1@The FMC receives data from airplane systems.
+|
+F-4.2@It also receives data from the flight crew.
+|
+F-4.3@The FMC uses information from the flight crew, airplane systems, and its own databases to calculate the optimum flight profile.
+|
+F-4.4@It then sends commands to the autoflight systems.
+|
+F-5.1@The FMC also sends data to the displays...|
+F-5.2@and the control display units, or CDUs.
+|
+FMC Familiarization
+|

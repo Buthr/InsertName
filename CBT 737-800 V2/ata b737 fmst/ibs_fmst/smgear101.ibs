@@ -1,0 +1,40 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_003:@HOTS_003:@RECT_000:@ELEM_000:@IBIS_000:@SLDR_001:@OBJN_000:@FONT_000:@TEXT_000
+
+//Panel Info
+@PANEL_NAME=SMGEAR
+@PANEL_DESCRIPTION=Gear Panel
+@PANEL_AUTHOR=Chue Thao
+@PANEL_PROJECT=ATA B737ng
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+
+//Text
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:chctls01.bmp,0,0,0,0,0,0
+@BMAP_001:gear.bmp,0,0,0,0,0,0
+@BMAP_002:gear01.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{GEAR_UP}{m_pIO->I_bGearUp}:N,11,14,45,29,@D
+@HOTS_001:{GEAR_DN}{m_pIO->I_bGearDown}:N,11,60,45,22,@D
+@HOTS_002:{GEAR_OFF}{m_pIO->I_bGearUp}:N,11,42,45,18,@D
+
+//Elements
+
+//Sliders
+@SLDR_000:{GEAR}:VN,11,14,38,0.0,100.0,@BMAP_001,@BMAP_002,19,13
+
+//Objects
+

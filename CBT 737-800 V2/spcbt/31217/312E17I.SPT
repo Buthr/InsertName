@@ -1,0 +1,105 @@
+F-1.1@The display select panels are on the instrument panel above the pilots' display units.
+|
+F-1.2@Each display select panel has 2 selectors that permit the pilots to control the displays on the related outboard and inboard DUs,...|
+F-1.3@and to control the display on the lower DU.
+|
+F-2.1@The MAIN PANEL DUs selector has 5 positions. Normal,...|
+F-2.2@outboard primary flight display, or outboard PFD,...|
+F-2.3@inboard engine primary,...|
+F-2.4@inboard PFD,...|
+F-2.5@and multifunction display, or MFD.
+|
+F-2.6@The LOWER DU selector has normal, engine primary and navigation display, or ND, positions.
+|
+F-3.1@Normally, all selectors are in the normal position.
+|
+F-3.2@In normal, the pilots' outboard and inboard display units show primary flight and navigation data,...|
+F-3.3@and the upper display unit shows primary engine and fuel data.
+|
+F-3.4@The lower display is normally blank,...|
+F-3.5@or shows secondary engine instruments when the CDS initially receives power,...|
+F-3.6@engine failure or shutdown in flight,...|
+F-3.7@when selected on the multifunction display, or MFD,...|
+F-3.8@or when secondary engine limits are exceeded.
+|
+F-3.9@If a DU fails, automatic display switching makes sure the necessary data are always available to the pilots.
+|
+F-4.1@If an outboard DU fails,...|
+F-4.2@the DU blanks...|
+F-4.3@and the PFD automatically shows on the inboard DU.
+|
+F-4.4@If an inboard DU fails,...|
+F-4.5@the DU blanks. The navigation display, or ND, does not automatically move to the lower display.
+|
+F-5.1@If the upper DU fails,...|
+F-5.2@the DU blanks and the primary engine display moves to the lower DU.
+|
+F-5.3@If the secondary engine instruments are being displayed, a compact engine display will be shown.
+|
+F-5.4@Let's put the display units back to normal and manually control the displays with the selectors.
+|
+F-6.1@Select outboard PFD with the Captain's MAIN PANEL DUs selector.
+|
+F-6.2@The outboard DU will continue to show the PFD display...|
+F-6.3@but the inboard DU will blank.
+|
+F-6.4@Now select inboard PFD with the Captain's selector.
+|
+F-6.5@The inboard DU shows the primary flight display and the outboard DU is blank.
+|
+F-6.6@To display the navigation display for the Captain select ND on the Captain's LOWER DU PANEL.
+|
+F-6.7@The navigation display shows on the lower DU.
+|
+F-6.8@Let's reset the lower display.
+|
+F-7.1@Select inboard engine primary with the First Officer's MAIN PANEL DUs selector.
+|
+F-7.2@The upper DU blanks,...|
+F-7.3@the engine displays move to the First Officer's inboard DU,...|
+F-7.4@and the First Officer's outboard DU shows the primary flight display.
+|
+F-7.5@If the Captain now selects engine primary,...|
+F-7.6@the Captain's inboard DU also shows the engine displays,...|
+F-7.7@and the primary flight display moves to the outboard DU.
+|
+F-8.1@Now, let's look at the LOWER DU selector. Select engine primary with the First Officer's LOWER DU selector.
+|
+F-8.2@The primary engine display shows on the lower DU. 
+|
+F-8.3@Select normal with the First Officer's LOWER DU selector.
+|
+F-8.4@The lower DU blanks. The upper DU does not show the engine displays because the Captain's and First Officer's MAIN PANEL DUs selectors are set to inboard engine primary.
+|
+F-9.1@Select normal with the Captain's MAIN PANEL DUs selector.
+|
+F-9.2@The upper DU remains blank because the First Officer's MAIN PANEL DUs selector is set to inboard engine primary.
+|
+F-9.3@Select normal with the First Officer's MAIN PANEL DUs selector.
+|
+F-9.4@The displays are in their normal configuration.
+|
+F-10.1@The multifunction display selector or MFD has 2 switches.
+|
+F-10.2@The system switch selects aircraft system infomation on the lower DU,...|
+F-10.3@and the engine switch selects secondary engine information.
+|
+F-10.4@If either the upper or lower DU fails, compact engine instruments are displayed,...|
+F-10.5@pushing the engine MFD button again, switches between the compact engine instrument display and primary engine instruments display.
+|
+F-10.6@Now, let's reset the displays and use the MAIN PANEL DU selector to display the MFD functions.
+|
+F-10.7@Select MFD on the Captain's MAIN PANEL DUs selector.|
+|
+F-10.8@Now, select the MFD engine switch.
+|
+F-10.9@The secondary engine instruments are now displayed on the inboard display.
+|
+F-11.1@Here's a chance for you to practice with the display select panels. You can select any combination of switches on the panels. Touch the green arrow when ready to continue.
+|
+The Display Select Panels
+|
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+

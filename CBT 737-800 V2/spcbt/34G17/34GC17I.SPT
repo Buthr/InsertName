@@ -1,0 +1,18 @@
+F-1.1@Do a test of the weather radar.
+|
+F-1.2@The weather radar is unserviceable. The test shows a fault in the attitude data.
+|
+F-1.3@Here are possible radar faults.
+|
+F-1.4@The weather range disagree annunciation shows that the radar range data and the selected navigation display range data are not the same. 
+|
+F-1.5@The range marks are removed for 5 seconds and then shown again.
+|
+F-1.6@These annunciations tell the crew that the range data on the navigation display may not be accurate. 
+|
+
+|
+Configuration Sensitive: Options: Collins 74 Wx Radar panel; predictive windshear deactivated; Collins xcvr, CDS nav display w/ TRK up in MAP; 1 FMC; Basic WXR faults; rest is basic .
+|
+
+

@@ -1,0 +1,29 @@
+F-1.1@In this lesson, we will show you how to use takeoff analysis to determine maximum allowable takeoff weight and associated takeoff speeds, and assumed temperature for reduced thrust.
+|
+F-2.1@The following topics will be discussed:  |
+F-2.2@ what is a takeoff analysis,|
+F-2.3@ how to use a takeoff analysis,|
+F-2.4@ formats for data presentation,|
+F-2.5@ and reduced thrust.
+|
+F-3.1@Let's first understand what a takeoff analysis is.
+|
+F-3.2@A takeoff analysis is a table of critical takeoff performance information generated using computer software.
+|
+F-3.3@A takeoff analysis is an efficient and accurate means for determining maximum allowable takeoff weight and associated takeoff speeds,|
+F-3.4@ and assumed temperature for reduced thrust.
+|
+F-3.5@Takeoff analysis is sometimes referred to as runway analysis or airport analysis.
+|
+F-4.1@The sole legal document that contains certified takeoff performance data is the Airplane Flight Manual (AFM).
+|
+F-4.2@The AFM data is stored in a computer database and is used to produce the generalized takeoff performance tables in the Operations Manual, the Quick Reference Handbook, and also the graphical performance charts in the Flight Planning and Performance Manual.
+|
+F-4.3@By using a number of charts in these manuals, we can determine a conservative maximum allowable takeoff weight and the associated takeoff speeds for a given runway, temperature, and wind.
+|
+F-4.4@In addition to these paper manuals, Boeing also provides airlines with software that calculates takeoff performance using the computerized AFM database and much more precise algorithms.
+|
+F-4.5@For a given runway, the software calculates performance limit weights and takeoff speeds for a range of temperatures and winds.  The computed results can then be printed in the form of a takeoff analysis.
+|
+F-4.6@The takeoff analysis is then used as a fast and accurate means for determining the maximum allowable takeoff weight and the associated takeoff speeds for a specific runway, temperature, and wind.  Takeoff analysis is also a convenient way to determine the assumed temperature for reduced thrust.
+|

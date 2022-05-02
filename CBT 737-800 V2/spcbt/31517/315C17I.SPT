@@ -1,0 +1,6 @@
+F-1.1@Failure flags show...|
+F-1.2@ if FMC data is not available,...|
+F-1.3@or if navigation radio data is not available.
+|
+F-1.4@If track data fails, heading and track displays are removed.
+|

@@ -1,0 +1,12 @@
+F-1.1@You are in VNAV cruise flight and ATC tells you to slow to .72 Mach for separation. Use SPD INTV to slow the airplane.
+|
+F-1.1D1@Push the SPD INTV switch on the MCP .
+|
+F-1.1D2@Set .72M in the IAS/Mach window on the MCP.
+|
+Automatic Flight Systems
+|
+Normal Operations - Speed Intervention Practice
+|
+Configuration Sensitive: Options: as required; rest is basic . Note: MCP has SPD and ALT intervention. MCDU used for CDU.
+|

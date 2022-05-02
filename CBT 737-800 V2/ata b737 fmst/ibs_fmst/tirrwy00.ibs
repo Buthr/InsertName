@@ -1,0 +1,64 @@
+@ATIIBISv1.0
+@IBIS:@BMAP_005:@HOTS_002:@RECT_000:@ELEM_000:@IBIS_000:@OBJN_000:@FONT_002:@TEXT_001:@LIST_001:@DRAWOBJECT_001:
+
+//Panel Info
+@PANEL_NAME=
+@PANEL_DESCRIPTION=
+@PANEL_AUTHOR=
+@PANEL_PROJECT=
+@PANEL_GRAPHICS=0
+@OVERLAP_ENABLE=1
+@LAYOUT_ENABLE=0
+//Background
+@BGND:@BMAP_000
+
+//Colors
+
+//Fonts
+//@FONT_nnn:fontname,width,height,weight,is_italic,is_underline
+@FONT_000:AERIAL,8,21,NORMAL,0,0
+@FONT_001:AERIAL,8,16,NORMAL,0,0
+
+//Text
+//@TEXT_nnn:{name}:description,x,y,@FONT_nnn,color,rcClip.left,rcClip.top,rcClip.right,rcClip.bottom
+@TEXT_000:{RRWY}:Select a runway,6,5,@FONT_000,BLACK,6,5,6,5
+
+//Rectangles
+
+//IBIS panels
+
+//Bitmaps
+@BMAP_000:tirrwybd00.bmp,0,0,0,0,0,0
+@BMAP_001:OK Button_Avail.bmp,0,0,0,0,0,0
+@BMAP_002:OK Button_Sel.bmp,0,0,0,0,0,0
+@BMAP_003:Cancel Button_Avail.bmp,0,0,0,0,0,0
+@BMAP_004:Cancel Button_Sel.bmp,0,0,0,0,0,0
+
+//Hotspots
+@HOTS_000:{TBRRWY_OK}:N,13,394,134,54,@BMAP_001:13:394,@BMAP_002:13:394
+@HOTS_001:{TBRRWY_CANCEL}:N,161,394,135,54,@BMAP_003:161:394,@BMAP_004:161:394
+
+//Elements
+
+//Sliders
+
+//Objects
+
+//Edit Fields
+//@EDIT_nnn:{name}:x,y,w,h,@FONT_nnn,visible,enable
+
+//List Boxes
+//@LIST_nnn:{name}:x,y,w,h,visible,enable,@FONT_nnn,color(i.e BLACK),@BMAP_nnn,@FONT_nnn,color(i.e BLUE),@BMAP_nnn,@FONT_nnn,color(i.e BLACK),@BMAP_nnn
+@LIST_000:{RRWY}:7,27,295,362,1,1,@FONT_001,BLACK, ,@FONT_000,BLUE, ,@FONT_001,BLACK,
+
+//Knobs
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(T),startangle,endangle,startval,endval,initval
+//@KNOBS_nnn:{name}{varname}:CtrX,CtrY,radius,type(S),numofangles,angle0,angle1,angle2,.....
+
+//Draw Objects
+//@DRAWOBJECT_[num]:{[name]}:object_name
+@DRAWOBJECT_000:{LDGRWY}:lrunway01.bmp
+
+//Draw Regions
+//@DRAWREGION_[num]:{[name]}: [x],[y],[w],[h]
+

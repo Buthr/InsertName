@@ -1,0 +1,147 @@
+F-1.1@Takeoff analysis is a convenient tool for conducting a reduced thrust takeoff.
+|
+F-1.2@There are two methods for using reduced takeoff thrust.
+|
+F-1.3@A derate is a thrust rating lower than the full rated thrust.  There can be one or two derates available depending on the level of full rate selected for the engine.
+|
+F-1.4@The assumed temperature method allows a flexible thrust reduction based on the actual takeoff weight.  The thrust reduction can be up to 25% from the full rate or from any of the available derates for the engine.  Let's first take a look at takeoff analyses for derates and then discuss how to use a takeoff analysis to determine the assumed temperature.
+|
+F-2.1@For this lesson, all takeoff analyses will be for 737-700 with CFM56-7B22 engines.  The takeoff analysis shown here is for engines operated at the full rated thrust of 22K.
+|
+F-2.2@Let's determine the maximum allowable takeoff weight for 30 degrees and no wind.  In this case, it is 68,700 kilograms.
+|
+F-2.3@This takeoff analysis is for engines operated at 20K DERATE.
+|
+F-2.4@The maximum allowable takeoff weight for 30 degrees and no wind is 62,100 kilograms.
+|
+F-2.5@This takeoff analysis is for engines operated at 18.5K DERATE.
+|
+F-2.6@The maximum allowable takeoff weight for 30 degrees and no wind is 58,300 kilograms.
+|
+F-2.7@Therefore, if the actual takeoff weight is 59,500 kilograms, for example,|
+F-2.8@ then either the full rate (22K) or 20K DERATE can be used for takeoff.
+|
+F-2.9@The advantage of derate is that you can still use reduced thrust for takeoff in non-normal situations such as on a slippery or contaminated runway, or when the anti-skid is inoperative.  Using derate can also result in higher takeoff weight capability in V1(MCG) critical situations.
+|
+F-2.10@However, it is also apparent from our example that you must have a takeoff analysis for EACH of the available thrust ratings in order to select the appropriate derate.  This is where the assumed temperature method is more convenient.
+|
+F-3.1@This is a simplified takeoff analysis.
+|
+F-3.2@The maximum allowable takeoff weight and the associated takeoff speeds are shown as a function of temperature.
+|
+F-3.3@Let's look at an example in which the actual temperature is 32 degrees and the actual takeoff weight is 56,500 kilograms.
+|
+F-3.4@In the assumed temperature method, your objective is to find a higher temperature at which the maximum allowable takeoff weight is closest to, but NOT less than, the actual takeoff weight.
+|
+F-3.5@When using assumed temperature reduced thrust, the takeoff speeds must be determined based on the assumed temperature and the actual takeoff weight.
+|
+F-3.6@In the takeoff analysis, this is simply the takeoff speeds associated with the assumed temperature.
+|
+F-4.1@This is the takeoff analysis for engines operated at the full rate of 22K.  Let's use this analysis to determine the assumed temperature and takeoff speeds for an actual temperature of 30 degrees, no wind, and an actual takeoff weight of 59,500 kilograms.
+|
+F-4.2@Start at the actual temperature of 30 degrees and move across the table to intersect the zero wind column.
+|
+F-4.3@Move up in the zero wind column until you find the maximum allowable takeoff weight that is closest to, but NOT less than, your actual takeoff weight.  In this case, the weight that is closest to, but NOT less than 59,500 kilograms, is 59,900 kilograms.
+|
+F-4.4@To determine the assumed temperature, return to the temperature column and read the temperature associated with 59,900 kilograms.  In this case, the assumed temperature is 44 degrees.
+|
+F-4.5@To determine the takeoff speeds, read the takeoff speeds associated with 44 degrees and 59,900 kilograms.  In this case, the takeoff speeds are 130, 131, and 134 knots.
+|
+F-4.6@Assumed temperature can also be used in conjunction with a derate.  This is the takeoff analysis for engines operated at 20K DERATE.
+|
+F-4.7@Based on the same conditions given in the previous example, the assumed temperature based on the 20K DERATE is 34 degrees,|
+F-4.8@ and the takeoff speeds are 129, 130, and 134 knots.
+|
+F-5.1@It is apparent that assumed temperature varies with actual takeoff weight and thrust rating.
+|
+F-5.2@You should also be aware that for the same actual takeoff weight and thrust rating, the assumed temperature will also vary with different runways,|
+F-5.3@ flaps setting,|
+F-5.4@ and engine bleeds.  This is because all of these factors affect the takeoff thrust required.
+|
+F-6.1@This is a takeoff analysis in which data for two runways at Spokane International Airport are shown.
+|
+F-6.2@If the actual temperature is 20 degrees and the actual takeoff weight is 54,400 kilograms, then the assumed temperature is 42 degrees for takeoff from runway 03.
+|
+F-6.3@However, the assumed temperature is only 34 degrees if takeoff is from runway 21.
+|
+F-6.4@In this case, the difference in the thrust required, and therefore the difference in assumed temperature, is a result of the different obstacles for the two runways.
+|
+F-7.1@This is the takeoff analysis for Boeing Field runway 31L, full rate (22K), Flaps 5, and A/C AUTO.
+|
+F-7.2@We saw in one of our previous examples that if the actual temperature is 30 degrees, no wind, and the actual takeoff weight is 59,500 kilograms, then the assumed temperature is 44 degrees.
+|
+F-7.3@If Flaps 15 were to be used for takeoff,|
+F-7.4@ then we see that the assumed temperature would be only 34 degrees.  In a climb-limited case, a higher flaps setting will require more thrust, and therefore a lower assumed temperature, to achieve the same climb gradient.
+|
+F-7.5@If the A/C packs were to be turned off for takeoff,|
+F-7.6@ then the assumed temperature could be increased to 46 degrees.  With no engine bleeds for A/C packs, more thrust is available.  Therefore, a higher temperature can be assumed to achieve the same level of thrust required.
+|
+F-8.1@You may already have noticed that there is a capital letter A printed next to the last few high temperatures.
+|
+F-8.2@This is to indicate that these temperatures exceed the certified maximum outside air temperature for the operation of the engines.  Therefore, takeoff in these outside air temperatures is prohibited.
+|
+F-8.3@However, these temperatures can be used as assumed temperatures for setting reduced thrust.
+|
+F-8.4@For example, if the outside air temperature is 30 degrees, no wind, and the actual takeoff weight is 53,000 kilograms, then 56 degrees can be used as the assumed temperature,|
+F-8.5@ and the takeoff speeds are 123, 123, and 126 knots.
+|
+F-9.1@If the takeoff analysis shows the climb limit weight separately from the runway limited weight,|
+F-9.2@ then the assumed temperature is the temperature associated with the LOWER of the climb limit weight and the runway limited weight.
+|
+F-9.3@In the example shown here, the assumed temperature is 44 degrees for an actual takeoff weight of 59,000 kilograms,|
+F-9.4@ and the takeoff speeds are 130, 131, and 134 knots.
+|
+F-9.5@You could use assumed temperature reduced thrust in conjunction with Improved Climb.  If we did that in this example, we could assume a temperature of 52 degrees,|
+F-9.6@ and our takeoff speeds would be 141, 144, and 147 knots.
+|
+F-9.7@The higher assumed temperature will result in a further reduction in takeoff thrust and an increase in takeoff speeds.
+|
+F-10.1@Let's do an exercise on selecting derate.  These are the takeoff analyses for 18.5K DERATE, 20K DERATE, and full rate (22K).
+|
+F-10.2@If the temperature is 30 degrees, no wind, and the actual takeoff weight is 62,000 kilograms,|
+F-10.3@ determine the maximum allowable takeoff weight for each thrust rating.  Touch the related area using the mouse pointer, starting with this full rate (22K) page.
+|
+F-10.3W1@That is not correct.  Try again.
+|
+F-10.3W2@This is the correct maximum allowable takeoff weight for the full rate (22K).  Touch the highlighted area to continue.
+|
+F-10.4@Continue with the 20K DERATE page.
+|
+F-10.4W1@That is not the correct.  Try again.
+|
+F-10.4W2@This is the correct maximum allowable takeoff weight for 20K DERATE.  Touch the highlighted area to continue.
+|
+F-10.5@Continue with the 18.5K DERATE page.
+|
+F-10.5W1@That is not correct.  Try again.
+|
+F-10.5W2@The highlighted area is the correct maximum allowable takeoff weight for 18.5K DERATE.  Touch it to continue.
+|
+F-10.6@Now, determine the minimum thrust rating that can be used for takeoff.
+|
+F-10.6W1@That is not correct.  Try again.
+|
+F-10.6W2@This is the minimum thrust rating that can be used for takeoff.  Touch it to continue.
+|
+F-10.7@Very good.  Notice the runway surface is covered with 5 millimeters of standing water.  As we mentioned before, derate can be used for takeoff on a contaminated or slippery runway.
+|
+F-11.1@Now, let's do a couple of exercises on using assumed temperature.  Use the full rate (22K) takeoff analysis shown here for Boeing Field runway 13R.
+|
+F-11.2@If the actual temperature is 30 degrees, no wind, and the actual takeoff weight is 61,000 kilograms, determine first the assumed temperature, and then the takeoff speeds.  Touch the related areas using the mouse pointer.
+|
+F-11.2W1@That is not correct.  Try again.
+|
+F-11.3@Very good.  Notice the runway surface is wet.  Assumed temperature reduced thrust can be used for takeoff on a wet or wet skid resistant runway, provided the performance effect has been taken into account.  Assumed temperature reduced thrust is NOT permitted for takeoff on a slippery or contaminated runway.
+|
+F-11.4@This is also a wet runway takeoff analysis for Boeing Field runway 13R.
+|
+F-11.5@This analysis, however, is based on 20K DERATE.
+|
+F-11.6@Also, the climb limit weight is shown separately from the runway limited weight.  The Improved Climb performance is also shown.
+|
+F-11.7@If the actual temperature is 34 degrees, no wind, and the actual takeoff weight is 54,000 kilograms, determine first the assumed temperature, and then the takeoff speeds, WITHOUT considering Improved Climb performance.  Touch the related areas using the mouse pointer.
+|
+F-11.7W1@That is not correct.  Try again.
+|
+F-11.8@Good job!  Notice that if Improved Climb performance were considered, then the assumed temperature would be 48 degrees and the associated takeoff speeds would be 129, 139, and 142 knots.
+|

@@ -1,0 +1,54 @@
+F-1.1@During flight, there is a failure in system A, and the hydraulic fluid quantity decreases.
+|
+F-1.2@When the quantity decreases to less than limits, the MASTER CAUTION lights illuminate and the FLT CONT and HYD annunciator lights illuminate.
+|
+F-1.3@On the overhead panel, the LOW PRESSURE lights for the system A pumps illuminate. Turn OFF the system A hydraulic pumps.
+|
+F-1.4@The system A flight control LOW PRESSURE light illuminates, because system A pressure to the flight controls is low. Select standby rudder with the system A flight controls switch, to activate the standby hydraulic system.
+|
+F-1.5@Also, the FEEL DIFF PRESS light illuminates. These lights are discussed in a different lesson.
+|
+F-1.6@The system A pressure and the quantity indications are low.
+|
+F-2.1@When system A does not operate, these components do not operate.
+|
+F-2.2@The rudder, the ailerons, the elevator and the elevator feel continue to operate because system B supplies hydraulic pressure to these units.
+|
+F-2.3@Half of the flight spoilers do not operate. System B supplies pressure to the remaining flight spoilers.
+|
+F-2.4@To lower the landing gear, you must use the manual gear extension handles.
+|
+F-2.5@To supply hydraulic pressure for nose gear steering, you must select alternate with the NOSEWHEEL STEERING switch. 
+|
+F-2.6@System B now supplies hydraulic pressure for nose wheel steering, when the airplane is on the ground.
+|
+F-2.7@When system A pressure is low, the hydraulic pressure from the standby system is available to operate the number 1 engine thrust reverser. The standby system is discussed in a different lesson.
+|
+F-3.1@During flight, there is a failure in system B, and the hydraulic fluid quantity decreases. 
+|
+F-3.2@When the quantity decreases below limits, the MASTER CAUTION lights illuminate, and the FLT CONT and HYD annunciator lights illuminate. Reset the master caution system.
+|
+F-3.3@On the overhead panel, the system B flight control LOW PRESSURE light illuminates, the FEEL DIFF PRESS light illuminates, the system B LOW PRESSURE lights illuminate, and the system B pressure and quantity are low.
+|
+F-3.4@Now, turn OFF the system B hydraulic pumps, and select standby rudder with the system B flight controls switch.
+|
+F-4.1@When there is a failure of system B, these systems do not operate.
+|
+F-4.2@The rudder, ailerons, elevator and elevator feel continue to operate because system A supplies pressure to these units.
+|
+F-4.3@Half of the flight spoilers do not operate. System A supplies hydraulic pressure to the remaining units.
+|
+F-4.4@The yaw damper does not operate.
+|
+F-4.5@Although the normal brakes do not operate, system A supplies pressure for the alternate brakes.
+|
+F-4.6@When system B pressure is low, the standby system is available to supply hydraulic pressure to the leading edge devices and the number 2 engine thrust reverser.
+|
+F-5.1@If the temperature of the electric motor-driven pumps or the related hydraulic fluid is higher than limits, the related OVERHEAT light illuminates. Turn OFF the electric hydraulic pumps.
+|
+F-5.2@The related hydraulic system continues to operate with pressure from the related engine-driven pump.
+|
+|
+Configuration Sensitive: Options: as required; rest is basic .
+|
+

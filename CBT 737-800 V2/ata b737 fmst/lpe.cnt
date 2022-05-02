@@ -1,0 +1,32 @@
+:Base lpe.HLP
+1 Introduction
+2 What Is a Lesson Plan?=What_Is_a_Lesson_Plan
+2 Lesson Plan Layout=Lesson_Plan_Layout
+2 Event Summary=Event_Summary
+2 Activating a Lesson=Activating_a_Lesson_Plan
+1 Menus and Toolbars
+2 File Menu=File_Menu
+2 Edit Menu=Edit_Menu
+2 Insert Menu=Insert_Menu
+2 View Menu=View_Menu
+2 Test Menu=Test_Menu
+2 Options Menu=Options_Menu
+2 Help Menu=Help_Menu
+2 Lesson Plan Toolbar=Lesson_Plan_Toolbar
+1 Lesson Plan Events
+2 Text Event=Text_Event
+2 Bitmap Event=Bitmap_Event
+2 Audio Event=Audio_Event
+2 Snapshot Event=Snapshot_Event
+2 Pause Event=Pause_Event
+2 Flight Action Event=Flight_Action_Event
+2 Disable Icons Event=Disable_Icons_Event
+2 Jump Event=Jump_Event
+2 Return Event=Return_Event
+2 Trigger Event=Trigger_Event
+2 Keystroke Sequence=Keystroke_Sequence
+2 Monitor Event=Monitor_Event
+2 Multiple Choice Test Event=Multiple_Choice_Test_Event
+2 Terminate/Remove Event=Terminate_Remove_Event
+2 End Lesson Event=End_Lesson_Event
+2 Help Event=Help_Event

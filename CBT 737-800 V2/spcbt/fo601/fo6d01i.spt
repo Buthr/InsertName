@@ -1,0 +1,38 @@
+F-1.1@If an engine fails during cruise, the new engine-out altitude capability will most likely be lower than the current altitude, so it will be necessary to drift down to the new lower altitude.
+|
+F-1.2@Following an engine failure in cruise, it may be necessary to set the remaining engine to maximum continuous thrust in order to achieve the necessary driftdown performance.
+|
+F-1.3@After setting maximum continuous thrust, the pilot should maintain altitude and allow the airplane to decelerate to the selected driftdown speed, at which point the driftdown will begin.
+|
+F-1.4@The optimum driftdown speed will yield the best possible driftdown path angle and level-off altitude.
+|
+F-1.5@It should be used in cases where staying as high as possible for as long as possible is desirable due to terrain or weather concerns.
+|
+F-1.6@But, the optimum driftdown speed is relatively slow.  If terrain or weather are not a factor, you may choose to driftdown at a faster speed.  That will result in a slightly steeper descent path and a lower level-off altitude.
+|
+F-2.1@Maintaining the driftdown speed during the descent, the airplane will gradually lose altitude until reaching a new altitude at which the thrust of the remaining engine is adequate to maintain level flight.
+|
+F-2.2@The actual descent path of the airplane is referred to as the gross driftdown flight path.
+|
+F-2.3@For computing a safe cruise weight, considering obstacle clearance during the driftdown in the event of engine failure, the regulations require us to define a different, lower flight path called the net path.  For a two-engine airplane, the difference between gross and net driftdown gradients is one point one percent.
+|
+F-2.4@Suppose that your route of flight will take you over some high terrain.  In the event of engine failure and driftdown, you have to be able to clear all that terrain safely.  The regulations require you to consider all terrain within 5 statute miles either side of your track.
+|
+F-2.5@After driftdown and level off, you must be able to maintain at least 1000 feet above all obstacles.
+|
+F-2.6@During the driftdown, you must be able to clear all obstacles by at least 2000 feet.
+|
+F-2.7@And finally, when approaching the airport where you intend to land, you must be able to maintain level flight at least 1500 feet above the airport.
+|
+F-3.1@If an engine failure occurs inflight, the engine out cruise page may be selected.
+|
+F-3.2@On some airplanes, this page is advisory only and can not be executed.
+|
+F-3.3@This page displays one engine inoperative maximum altitude as well as the optimum engine inoperative speed to be flown for driftdown.
+|
+F-3.4@If terrain clearance is a potential problem, this engine out driftdown speed will be flown.
+|
+F-3.5@The dispatch requirements for terrain clearance are based on this speed.
+|
+F-4.1@If an engine failure has been preceded by an FMC failure, the pilot can get the same data from pages in the Performance Inflight section of the Quick Reference Handbook.
+|

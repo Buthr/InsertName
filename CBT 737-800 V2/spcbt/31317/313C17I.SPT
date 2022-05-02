@@ -1,0 +1,112 @@
+F-1.1@Let's look at preflight and takeoff with these dispatch conditions.
+|
+F-1.2@At airplane power-up, the airspeed indicator shows a magenta speed bug at the MCP default speed of 100 knots.
+|
+F-1.3@A white V2 15 bug shows at the default speed of 115 knots.  Right now the V2 15 bug is not in view.
+|
+F-1.4@An amber NO V SPEED indication shows.
+|
+F-1.5@And the maximum speed and maximum operating speed bar shows.
+|
+F-2.1@Put in the ZFW on the PERF INIT page.
+|
+F-2.2@The FMC calculates the takeoff gross weight and will show the green UP bug at the flaps up maneuvering speed.  Right now the green UP bug is not in view.
+|
+F-2.3@The remaining items on the PERF INIT page have been put in for you and the page has been executed.  Now, select the TAKEOFF REF page.
+|
+F-2.4@Put in V1.
+|
+F-2.5@The V1 bug is set and the NO V SPEED indication is removed.  Right now the V1 bug is not in view.
+|
+F-2.6@Put in VR.
+|
+F-2.7@The VR bug is set.  Right now the VR bug is not in view.
+|
+F-3.1@Put  in V2.
+|
+F-3.2@There is no change to the airspeed indicator when V2 is added in the FMC.
+|
+F-3.3@Turn the IAS/MACH selector on the mode control panel to set V2 on the airspeed indicator.
+|
+F-3.4@The magenta speed bug parks at the top of the airspeed indicator.
+|
+F-3.5@And the white bug moves to V2 + 15.
+|
+F-4.1@Now, move the flap lever to set flaps 5 for takeoff.
+|
+F-4.2@A bug is set for the first flap retraction after takeoff.  Right now this bug is off scale.
+|
+F-4.3@All airpseed bugs are now set for takeoff.
+|
+F-5.1@If the FMC is inoperative, you use the speed reference selector to set the airspeed bugs for takeoff.
+|
+F-5.2@The speed reference selector is a 2 knob control.
+|
+F-5.3@The outer knob selects the type of bug...|
+F-5.4@and the inner knob sets the bug value.
+|
+F-5.5@The inner knob has 2 slew speeds and is spring-loaded to center.
+|
+F-5.6@Slow slew changes the speed or weight by increments of 1 knot or 1,000 pounds.
+|
+F-5.7@Fast slew changes the speed or weight by increments of 10 knots or 10,000 pounds.
+|
+F-6.1@Now, let's look at the same preflight conditions as before.
+|
+F-6.2@Turn the outer knob to V1.
+|
+F-6.3@The default speed of 80 knots is shown on the airspeed indicator.
+|
+F-6.4@Use the inner knob to set 125 knots.
+|
+F-6.5@The V1 bug parks at the top of the airspeed indicator.
+|
+F-7.1@Turn the outer knob to VR.
+|
+F-7.2@The default speed of 80 knots shows on the airspeed indicator.
+|
+F-7.3@Use the inner knob to set 127 knots.
+|
+F-7.4@The VR bug is set.  Right now it is not in view.
+|
+F-7.5@You set V2 on the mode control panel.
+|
+F-7.6@The magenta airspeed cursor parks at the top of the airspeed indicator.  The V2 + 15 bug is set and is out of view.
+|
+F-8.1@Now, turn the outer knob to weight.
+|
+F-8.2@The default weight of 70,000 pounds shows on the airspeed indicator.
+|
+F-8.3@Use the inner knob to set the takeoff gross weight.  You must set the takeoff gross weight, not the zero fuel weight.
+|
+F-8.4@The green UP bug shows at the flaps up maneuvering speed off scale.
+|
+F-8.5@If the outer knob is turned to VREF, INVALID ENTRY shows.  The approach VREF speed cannot be set on the ground.
+|
+F-8.6@You turn the outer knob to the bug 5 position to set 1 more white bug.  It is your descision where to set the bug.
+|
+F-8.7@You turn the outer knob to SET to remove the digital readout on the airspeed indicator.
+|
+F-9.1@When you move the flap lever to the takeoff flap setting...|
+F-9.2@a bug is set for the first flap retraction after takeoff.  Right now this bug is off scale.
+|
+F-9.3@The airspeed bugs are again set for takeoff.
+|
+F-10.1@Now, let's look at airspeed indications during takeoff.
+|
+F-10.2@After lift-off, the V1 bug and VR bug are removed.
+|
+F-10.3@Also, the minimum speed bar shows.
+|
+F-11.1@At flap retraction atlitude, start to retract the flaps.  For this example, set flaps 1.
+|
+F-11.2@The V2 + 15 bug is removed...|
+F-11.3@and the minimum maneuvering speed bar shows.
+|
+F-11.4@Increase the speed to flaps up maneuvering speed.
+|
+F-11.5@As the speed increases to the next airspeed bug,...|
+F-11.6@continue to retract the flaps.  For this example, set the flaps UP.
+|
+F-11.7@All flap bugs, except the UP bug, are removed when flaps are up.  If FMC operations are normal, the UP bug moves as fuel is used and the gross weight decreases.
+|
