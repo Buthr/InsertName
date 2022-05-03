@@ -1,6 +1,0 @@
-Electrical System	yes	yes	42	241	1
-Electrical System Overview	=/241a01i	241a01i
-AC Power System	=/241b01i	241b01i
-DC Power System	=/241c01i	241c01i
-Standby Power System	=/241d01i	241d01i
-Electrical System Non-Normal Operations	=/241e01i	241e01i
